@@ -14,14 +14,10 @@
 
 ## Members
 
-| Name                                     | Join Date  |
-| ---------------------------------------- | ---------- |
-| [asdf2014](https://github.com/asdf2014)  | 2017-10-25 |
-| [qqyangning](https://github.com/qqyangning) | 2017-10-25 |
-
-
-
-## Codes
+| Name                                     | Codes                                    | Join Date  |
+| ---------------------------------------- | ---------------------------------------- | ---------- |
+| [asdf2014](https://github.com/asdf2014)  | /Codes/[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2017-10-25 |
+| [qqyangning](https://github.com/qqyangning) | /Codes/ [qqyangning](https://github.com/asdf2014/algorithm/tree/master/Codes/qqyangning) | 2017-10-25 |
 
 
 
