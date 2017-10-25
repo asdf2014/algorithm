@@ -29,3 +29,6 @@
 
 ## Events
 * 2017-10-25 Created.
+
+## Plans
+* Waiting for 10 teammates.
