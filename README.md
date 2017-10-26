@@ -31,6 +31,7 @@
 ## Events
 * 2017-10-25 Created.
 * 2017-10-25 First teammate: [qqyangning](https://github.com/qqyangning).
+* 2017-10-26 Second teammate: [wjczz](https://github.com/wjczz).
 
 ## Plans
 * Waiting for 10 teammates.
