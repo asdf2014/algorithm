@@ -20,10 +20,6 @@
 | [qqyangning](https://github.com/qqyangning) | /Codes/ [qqyangning](https://github.com/asdf2014/algorithm/tree/master/Codes/qqyangning) | 2017-10-25 |
 | [wjczz](https://github.com/wjczz) | /Codes/ [wjczz](https://github.com/asdf2014/algorithm/tree/master/Codes/wjczz) | 2017-10-26 |
 
-| [qqyangning](https://github.com/qqyangning) | /Codes/[qqyangning](https://github.com/asdf2014/algorithm/tree/master/Codes/qqyangning) | 2017-10-25 |
-| [wjczz](https://github.com/wjczz)        | /Codes/[wjczz](https://github.com/asdf2014/algorithm/tree/master/Codes/wjczz) | 2017-10-26 |
-
-
 
 ## Tops
 
