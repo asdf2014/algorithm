@@ -17,9 +17,8 @@
 | Name                                     | Codes                                    | Join Date  |
 | ---------------------------------------- | ---------------------------------------- | ---------- |
 | [asdf2014](https://github.com/asdf2014)  | /Codes/[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2017-10-25 |
-| [qqyangning](https://github.com/qqyangning) | /Codes/[qqyangning](https://github.com/asdf2014/algorithm/tree/master/Codes/qqyangning) | 2017-10-25 |
-| [wjczz](https://github.com/wjczz)        | /Codes/[wjczz](https://github.com/asdf2014/algorithm/tree/master/Codes/wjczz) | 2017-10-26 |
-
+| [qqyangning](https://github.com/qqyangning) | /Codes/ [qqyangning](https://github.com/asdf2014/algorithm/tree/master/Codes/qqyangning) | 2017-10-25 |
+| [wjczz](https://github.com/wjczz) | /Codes/ [wjczz](https://github.com/asdf2014/algorithm/tree/master/Codes/wjczz) | 2017-10-26 |
 
 
 ## Tops
@@ -31,6 +30,7 @@
 ## Events
 * 2017-10-25 Created.
 * 2017-10-25 First teammate: [qqyangning](https://github.com/qqyangning).
+* 2017-10-26 Second teammate: [wjczz](https://github.com/wjczz).
 
 ## Plans
 * Waiting for 10 teammates.
