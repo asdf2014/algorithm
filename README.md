@@ -7,7 +7,7 @@
 
 　通过提交 PR的方式，参与进来</br>
 　考虑到大家可能空闲时间不多，我们可以先从"一周一题"的频率开始</br>
-　题目，我们通过程序，随机选定</br>
+　题目，我们通过程序，[**随机选定**](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)</br>
 　在 `/Codes/${User}`目录下，每人都有一个自己的代码库</br>
 
 # Record
