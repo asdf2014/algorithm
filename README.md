@@ -5,11 +5,29 @@
 
 ## Introduction
 
+### 代码仓库
 
-　通过提交 [Pull Request](https://yuzhouwan.com/posts/19631#如何成为-Contributor) 的方式，参与进来</br>
-　考虑到大家可能空闲时间不多，我们可以先从 “一周一题” 的频率开始</br>
-　题目，我们通过程序，[**随机选定**](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)（[历史题库](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)）</br>
-　在 `/Codes/${User}` 目录下，每人都有一个自己的代码库（每个想要参与进来的小伙伴，可以先提交一个 [PR](https://github.com/asdf2014/algorithm/pull/1/files)，在 `/Codes/${User}` 目录下创建自己的 `README.md` 文件即可）</br>
+　代码仓库的坐标：**[asdf2014 / algorithm](https://github.com/asdf2014/algorithm)**
+
+
+### 报名途径
+
+　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时上车~~
+
+
+### 参与方式
+
+　主要通过提交 Pull Request 的方式，参与进来。在 `/Codes/${User}` 目录下，每人都有一个自己的代码库
+
+
+### 刷题频率
+
+　考虑到可能大家的闲暇时间并不多，我们暂定刷题频率为“一周一题”
+
+
+### 选题策略
+
+　选择题目的方式，目前通过程序进行[**随机选定**](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)看到
 
 
 
