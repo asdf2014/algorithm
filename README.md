@@ -1,4 +1,4 @@
-# 组队刷 Leetcode
+# Leetcode 组队刷题
 
 ## 介绍
 
