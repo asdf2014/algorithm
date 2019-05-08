@@ -2104,7 +2104,6 @@ build-iPhoneSimulator/
 /.bundle/
 /lib/bundler/man/
 *.rdb
-*.db
 *.avi
 *.mp3
 *.aif
