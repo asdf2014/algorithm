@@ -1,4 +1,4 @@
-#　组队刷 Leetcode
+# 组队刷 Leetcode
 
 ## 介绍
 
@@ -24,7 +24,7 @@
 
 ### 选题策略
 
-　选择题目的方式，目前通过程序进行[**随机选定**](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)看到
+　选择题目的方式，目前通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)看到
 
 
 ---
