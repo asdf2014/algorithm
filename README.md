@@ -1,9 +1,6 @@
-# Algorithm
+#　组队刷 Leetcode
 
-　**[组队](https://github.com/asdf2014/algorithm#algorithm)刷 [Leetcode](https://leetcode.com/)！**
-
-
-## Introduction
+## 介绍
 
 ### 代码仓库
 
@@ -30,3 +27,7 @@
 　选择题目的方式，目前通过程序进行[**随机选定**](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://github.com/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)看到
 
 
+---
+
+
+更多内容，详见《[Algorithm](https://yuzhouwan.com/posts/666/)》
