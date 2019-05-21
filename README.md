@@ -9,12 +9,12 @@
 
 ### 报名途径
 
-　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时上车~~
+　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时参与
 
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库
+　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领
 
 
 ### 刷题频率
