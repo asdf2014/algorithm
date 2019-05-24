@@ -1,3 +1,11 @@
+[<img align="right" width="30%" height="30%" src="https://picture.yuzhouwan.com/yuzhouwan_logo_with_copyright.jpg">](https://yuzhouwan.com/)
+
+[![](http://progressed.io/bar/7?scale=7&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/1?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/1?scale=1040&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/badge/QQ%E7%BE%A4-128708857-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=0692372b7f92845e80bc2e3e13dd4ae0bc4c0fcf88ef5864d279b21fb1317290)
+
+
 # Leetcode 组队刷题
 
 ## 介绍
@@ -9,12 +17,12 @@
 
 ### 报名途径
 
-　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时上车~~
+　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时参与
 
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库
+　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领
 
 
 ### 刷题频率
