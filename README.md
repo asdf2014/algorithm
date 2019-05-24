@@ -1,3 +1,5 @@
+[<img align="right" width="30%" height="30%" src="https://picture.yuzhouwan.com/yuzhouwan_logo_with_copyright.jpg">](https://yuzhouwan.com/)
+
 [![](http://progressed.io/bar/7?scale=7&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
 [![](http://progressed.io/bar/1?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
 [![](http://progressed.io/bar/1?scale=1040&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
