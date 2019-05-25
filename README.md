@@ -1,4 +1,4 @@
-[<img align="right" width="30%" height="30%" src="https://picture.yuzhouwan.com/yuzhouwan_logo_with_copyright.jpg">](https://yuzhouwan.com/)
+[<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
 [![](http://progressed.io/bar/7?scale=7&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
 [![](http://progressed.io/bar/1?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
