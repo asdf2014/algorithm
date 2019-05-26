@@ -1,6 +1,6 @@
 # 思路
 
-![2.png](2.png)
+![png2](./images/2.png)
 
 ## Code
 ```lisp
