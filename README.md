@@ -1,8 +1,8 @@
 [<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
-[![](http://progressed.io/bar/7?scale=7&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/8?scale=8&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/1?scale=1054&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
 [![](http://progressed.io/bar/1?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
-[![](http://progressed.io/bar/1?scale=1040&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/QQ%E7%BE%A4-128708857-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=0692372b7f92845e80bc2e3e13dd4ae0bc4c0fcf88ef5864d279b21fb1317290)
 
 
