@@ -25,4 +25,9 @@
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
+
+        return 0
+
+    
+example = "qaazrrrrwgrewhsozke"
+print(Solution().lengthOfLongestSubstring(example))
