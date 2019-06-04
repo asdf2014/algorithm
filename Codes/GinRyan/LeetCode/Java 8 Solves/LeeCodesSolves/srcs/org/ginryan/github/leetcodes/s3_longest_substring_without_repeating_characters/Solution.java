@@ -7,31 +7,25 @@ public class Solution {
 		int maxSubStringLength = 0;
 		int counter = 0;
 		int start = 0;
-		int end = 0;
 		HashMap<Character, Integer> cache = new HashMap<>();
 		System.out.println("|char\t|start\t|end\t|index\t|count\t|duplicate\t|");
 		for (int i = 0; i < s.length(); i++) {
 			char currentChar = s.charAt(i);
 			boolean duplicated = cache.containsKey(currentChar);
 			if (!duplicated) {
-				end = i;
-				cache.put(currentChar, i);
 				counter++;
 			} else {
-				if (maxSubStringLength < counter) {
-					maxSubStringLength = counter;
+				int lastOne = cache.get(currentChar);
+				if (lastOne >= start) {
+					start = lastOne;
 				}
-				if (cache.get(currentChar) >= start) {
-					start = cache.get(currentChar);
-				}
-				end = i;
-				counter = end - start;
-				cache.put(currentChar, i);
+				counter = i - start;
 			}
+			cache.put(currentChar, i);
 			if (maxSubStringLength < counter) {
 				maxSubStringLength = counter;
 			}
-			System.out.println("|" + currentChar + "\t|" + start + "\t|" + end + "\t|" + i + "\t|" + counter + "\t|"
+			System.out.println("|" + currentChar + "\t|" + start + "\t|" + i + "\t|" + i + "\t|" + counter + "\t|"
 					+ duplicated + "\t\t|");
 		}
 		return maxSubStringLength;
