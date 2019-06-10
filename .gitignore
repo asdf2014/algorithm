@@ -582,11 +582,9 @@ bin-release/
 *.air
 *.apk
 .idea/**/tasks.xml
-.idea/**/dictionaries
 .idea/**/shelf
 .idea/**/dataSources/
 .idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
@@ -784,7 +782,6 @@ captures/
 .idea/tasks.xml
 .idea/gradle.xml
 .idea/assetWizardSettings.xml
-.idea/dictionaries
 .idea/libraries
 .idea/caches
 .externalNativeBuild
@@ -2358,3 +2355,4 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
