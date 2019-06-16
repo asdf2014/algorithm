@@ -1,9 +1,9 @@
-[<img align="right" width="30%" height="30%" src="https://picture.yuzhouwan.com/yuzhouwan_logo_with_copyright.jpg">](https://yuzhouwan.com/)
+[<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
-[![](http://progressed.io/bar/7?scale=7&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
-[![](http://progressed.io/bar/1?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
-[![](http://progressed.io/bar/1?scale=1040&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/badge/QQ%E7%BE%A4-128708857-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=0692372b7f92845e80bc2e3e13dd4ae0bc4c0fcf88ef5864d279b21fb1317290)
+[![](http://progressed.io/bar/9?scale=9&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/3?scale=1081&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/3?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/badge/QQ%E7%BE%A4-5366753-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
 
 
 # Leetcode 组队刷题
@@ -34,7 +34,7 @@
 
 　分为两个阶段：
 * 前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透
-* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_history.ipynb)看到
+* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#检索)看到
 
 
 ---
