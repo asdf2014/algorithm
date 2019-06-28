@@ -18,4 +18,12 @@ There will be scripts written in Python 3 or Java 8.
 
 3、无重复字符最长子串(longest-substring-without-repeating-characters)
 
-5. 最长回文子串
+5、 最长回文子串
+
+6、Z 字形变换 
+
+7、整数反转
+
+8、字符串转换整数 (atoi) 
+
+9、回文数 
