@@ -1,7 +1,7 @@
 [<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
 [![](http://progressed.io/bar/16?scale=16&title=person&suffix=位)](https://yuzhouwan.com/posts/666/)
-[![](http://progressed.io/bar/7?scale=1126&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
+[![](http://progressed.io/bar/8?scale=1126&title=completed&suffix=题)](https://yuzhouwan.com/posts/666/)
 [![](http://progressed.io/bar/7?scale=38&title=covered&suffix=个)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/QQ%E7%BE%A4-5366753-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
 
@@ -22,7 +22,7 @@
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 Collaborators 权限，可以自由地提交代码。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领
+　每位参与的小伙伴，都会获得代码仓库的 Collaborator 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领
 
 
 ### 刷题频率
