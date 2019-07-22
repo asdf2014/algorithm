@@ -2,7 +2,7 @@
 
 
 def palindrome_number(x):
-    return x == 0 or (x > 0) - (x < 0) == 1 and int(str(x)[::-1]) == x
+    return x == 0 or (x > 0) and int(str(x)[::-1]) == x
 
 
 assert palindrome_number(121)
