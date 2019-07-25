@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/commit-activity/m/asdf2014/algorithm?foo=bar)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/hexpm/l/plug)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
 
 
