@@ -1,9 +1,12 @@
 [<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
-[![](https://yuzhouwan.com/images/person.svg)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/github/contributors/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://yuzhouwan.com/images/completed.svg)](https://yuzhouwan.com/posts/666/)
 [![](https://yuzhouwan.com/images/covered.svg)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/QQ%E7%BE%A4-5366753-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
+[![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/github/commit-activity/m/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/hexpm/l/plug)](https://yuzhouwan.com/posts/666/)
 
 
 # Leetcode 组队刷题
