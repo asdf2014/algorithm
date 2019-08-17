@@ -34,9 +34,9 @@ class Solution:
 
         while currentNode1 != None or currentNode2 != None:
             # 一旦遇到单个空节点，则说明高位为0，则填充高位为0
-            if currentNode1 == None:
+            if currentNode1 is None:
                 currentNode1 = ListNode(0)
-            if currentNode2 == None:
+            if currentNode2 is None:
                 currentNode2 = ListNode(0)
             print(str(currentNode1.val) + "  " + str(currentNode2.val))
 
