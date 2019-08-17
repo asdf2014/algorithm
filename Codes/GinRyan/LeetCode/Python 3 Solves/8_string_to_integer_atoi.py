@@ -81,7 +81,6 @@ class Solution:
 
         sign = 1  # 符号
         get_num = 0  # 结果数值
-        _10times = 0  # 10的次数
 
         
         # 从左往右遍历剩下的字符，遇到符号时便标记开始，标记为开始以后就只能遇到数字
@@ -97,7 +96,7 @@ class Solution:
                if (noSpaceRaw[i] > "0" and noSpaceRaw[i] < "9")  or noSpaceRaw[i] == "-" or noSpaceRaw[i] == "+" :
                 # 当start = True以后，就再也不可以遇到非数字字符了
                     start = True
-                    pass
+
             # 判断不合法字符
             if  i > 0 and (noSpaceRaw[i] < '0' or noSpaceRaw[i] > '9') :
                 print("不符合条件字符："+ noSpaceRaw[i])
@@ -106,7 +105,7 @@ class Solution:
             # 判断是不是紧跟着数字的'-'
             if start and  noSpaceRaw[i] == "-" and noSpaceRaw[i + 1] >= '0' and noSpaceRaw[i + 1] <= '9':
                 sign = -1
-                pass
+           
             if start:
                 if (noSpaceRaw[i] >= '0' and noSpaceRaw[i] <= '9'):
                     currentNum = ord(noSpaceRaw[i]) - 48
