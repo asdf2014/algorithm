@@ -3,6 +3,7 @@
 
 def twoSum(nums, target):
     """
+    解题思路
     用哈希的办法，
     valuer作为下标，key为target-num1
     """
