@@ -36,6 +36,6 @@ def addTwoNumbers(l1, l2):
         cur.next = ListNode(1)
     return head.next
 
-
-if __name__ == '__main__':
-    addTwoNumbers()
+#
+# if __name__ == '__main__':
+#     addTwoNumbers()
