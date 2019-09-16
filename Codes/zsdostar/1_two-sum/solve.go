@@ -3,27 +3,16 @@ package main
 import "fmt"
 
 func twoSum(nums []int, target int) []int {
-	// 8 ms, 4.1 MB
-	// 将数组加载到HashMap
+	// 8 ms, 4.1 MB -> 4 ms, 3.8 MB
 	numsHashMap := make(map[int]int)
-	for k, v := range nums {
-		// 重复元素特殊处理
-		if v == target-v {
-			if x, ok := numsHashMap[v]; ok {
-				return []int{x, k}
-			}
-		}
-		numsHashMap[v] = k
-	}
 
 	// 对于数组的每一个元素v，检查target-v是否在HashMap内
+	// 参考排名前列的答案，将先加载到哈希然后判断，合成为1步，简直神来之笔
 	for k, v := range nums {
-		if v == target-v {
-			continue
-		}
 		if x, ok := numsHashMap[target-v]; ok {
 			return []int{k, x}
 		}
+		numsHashMap[v] = k
 	}
 	return nil
 }
