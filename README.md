@@ -7,6 +7,7 @@
 [![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/lgtm/alerts/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/alerts/)
 [![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
+[![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
 [![](https://img.shields.io/github/commit-activity/m/asdf2014/algorithm?cacheSeconds=3600)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://badges.gitter.im/yuzhouwan/community.svg)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
