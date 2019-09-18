@@ -18,13 +18,12 @@ var ascii = map[int32]int{
 	'9': 9,
 }
 
-func myAtoi(str string) int {
-	// 4 ms, 2.3 MB
-	signed := ""
-	temp, res := "", 0
+func cleanStr(str string) (string, string) {
+	// 转化成为干净的数字字符串
+	res, signed := "", ""
 	// 死抠细节, 变态的数据。。
 	for _, v := range str {
-		if (v == ' ' || v == '-' || v == '+') && (len(temp) > 0 || signed != "") {
+		if (v == ' ' || v == '-' || v == '+') && (len(res) > 0 || signed != "") {
 			break
 		}
 		switch v {
@@ -40,15 +39,11 @@ func myAtoi(str string) int {
 		if _, ok := ascii[v]; !ok {
 			break
 		}
-		temp += string(v)
+		res += string(v)
 	}
-	// temp已经成为干净的数字字符串，只需按位转为int即可
-	for k, v := range temp {
-		res += int(float64(ascii[v]) * math.Pow(10.0, float64(len(temp)-k-1)))
-	}
-	if signed == "-" {
-		res = -res
-	}
+	return res, signed
+}
+func checkOverflow(res int, signed string) int {
 	// 注意太大值溢出变为负数的问题
 	max, min := math.MaxInt32, -(math.MaxInt32 + 1)
 	if res > max {
@@ -64,8 +59,22 @@ func myAtoi(str string) int {
 			}
 		}
 	}
-
 	return res
+}
+func myAtoi(str string) int {
+	// 4 ms, 2.3 MB
+	temp, signed := cleanStr(str)
+	res := 0
+	// 对于clean后的字符串, 只需按位转为int即可
+	for k, v := range temp {
+		res += int(float64(ascii[v]) * math.Pow(10.0, float64(len(temp)-k-1)))
+	}
+
+	if signed == "-" {
+		res = -res
+	}
+
+	return checkOverflow(res, signed)
 }
 
 func main() {

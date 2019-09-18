@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 // 题解: https://leetcode-cn.com/problems/zigzag-conversion/solution/bu-kuai-dan-te-wu-nao-de-yi-ge-jie-fa-_z_-by-zsdos/
+
+// Min return the min value of two int.
 func Min(x, y int) int {
 	if x < y {
 		return x

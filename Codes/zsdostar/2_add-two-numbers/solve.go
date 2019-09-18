@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// ListNode definition for singly-linked list.
 type ListNode struct {
 	Val  int
 	Next *ListNode
