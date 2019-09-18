@@ -33,15 +33,17 @@ func mergeTwoSortedArray(nums1, nums2 *[]int) []int {
 	return nums
 }
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+	var midRes float64
 	totalLen := len(nums1) + len(nums2)
 	nums := mergeTwoSortedArray(&nums1, &nums2)
 	mid := totalLen / 2
 
 	if totalLen%2 == 1 {
-		return float64(nums[mid])
+		midRes = float64(nums[mid])
 	} else {
-		return (float64(nums[mid-1]) + float64(nums[mid])) / 2
+		midRes = (float64(nums[mid-1]) + float64(nums[mid])) / 2
 	}
+	return midRes
 }
 func main() {
 	fmt.Println(findMedianSortedArrays([]int{1}, []int{}))
