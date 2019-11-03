@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/10/8 8:17 下午
-# @Author: GraceKoo 
+# @Author: GraceKoo
 # @File:  3_length_of_longest_substring.py
 # @Desc:
 import timeit
+
 
 class Solution:
     def lengthoflongestsubstring(self, s: str) -> int:
@@ -22,6 +23,7 @@ class Solution:
                 max_length = tem_length
 
         return max_length
+
 
 if __name__ == "__main__":
     so = Solution()
