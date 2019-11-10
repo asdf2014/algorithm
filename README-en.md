@@ -46,33 +46,33 @@
 
 ### Complete the most problematic partners
 
-| User         | Completed  |
-| ------------ | ---------- |
-| **Zsdostar** | 27         |
-| **Gmywq392** | 21         |
-| **Asdf2014** | 16         |
-| Lxycg        | 15         |
-| Mggger       | 14         |
-| GinRyan      | 11         |
-| Yore         | 8          |
-| Fengxuanmo   | 7          |
-| Gracekoo     | 3          |
-| P_fzr        | 1          |
+| User | Completed |
+| :--: | :-------: |
+| **zsdostar** | 27 |
+| **gmywq392** | 21 |
+| **asdf2014** | 16 |
+| lxycg | 15 |
+| mggger | 14 |
+| GinRyan | 11 |
+| yore | 8 |
+| fengxuanmo | 7 |
+| gracekoo | 3 |
+| P_fzr | 1 |
 
 ### The most active partners
 
-| User         | Latest Active Date  |
-| ------------ | ------------------- |
-| **GinRyan**  | 2019-11-11 04:51:21 |
-| **Zsdostar** | 2019-11-05 18:15:06 |
-| **Gracekoo** | 2019-11-05 18:15:06 |
-| Asdf2014     | 2019-10-24 10:43:01 |
-| P_fzr        | 2019-10-24 10:43:01 |
-| Gmywq392     | 2019-10-14 15:57:26 |
-| Fengxuanmo   | 2019-09-20 18:40:10 |
-| Lxycg        | 2019-08-30 13:04:39 |
-| Yore         | 2019-08-27 10:07:12 |
-| Mggger       | 2019-08-27 10:07:12 |
+| User | Latest Active Date |
+| :--: | :----------------: |
+| **GinRyan** | 2019-11-11 04:51:21 |
+| **zsdostar** | 2019-11-05 18:15:06 |
+| **gracekoo** | 2019-11-05 18:15:06 |
+| asdf2014 | 2019-10-24 10:43:01 |
+| P_fzr | 2019-10-24 10:43:01 |
+| gmywq392 | 2019-10-14 15:57:26 |
+| fengxuanmo | 2019-09-20 18:40:10 |
+| lxycg | 2019-08-30 13:04:39 |
+| yore | 2019-08-27 10:07:12 |
+| mggger | 2019-08-27 10:07:12 |
 
 ------
 
