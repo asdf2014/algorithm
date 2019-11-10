@@ -32,7 +32,7 @@ count = 3
 print("### 完成题目最多的小伙伴")
 print("""
 | User | Completed |
-| ---- | --------- |""")
+| :--: | :-------: |""")
 for k, v in top_10_finished:
     if count > 0:
         print("|", "**" + k + "**", "|", v, "|")
@@ -46,7 +46,7 @@ count = 3
 print("### 最活跃的小伙伴")
 print("""
 | User | Latest Active Date |
-| ---- | ------------------ |""")
+| :--: | :----------------: |""")
 for k, v in top_10_updated:
     if count > 0:
         print("|", "**" + k + "**", "|", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v)), "|")
