@@ -44,6 +44,39 @@
 * 前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透
 * 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#检索)看到
 
+<br/>
+
+## 排行榜
+
+### 完成题目最多的小伙伴
+
+| User | Completed |
+| ---- | --------- |
+| **zsdostar** | 27 |
+| **gmywq392** | 21 |
+| **asdf2014** | 16 |
+| lxycg | 15 |
+| mggger | 14 |
+| GinRyan | 11 |
+| yore | 8 |
+| fengxuanmo | 7 |
+| gracekoo | 3 |
+| P_fzr | 1 |
+
+### 最活跃的小伙伴
+
+| User | Latest Active Date |
+| ---- | ------------------ |
+| **GinRyan** | 2019-11-11 04:51:21 |
+| **zsdostar** | 2019-11-05 18:15:06 |
+| **gracekoo** | 2019-11-05 18:15:06 |
+| asdf2014 | 2019-10-24 10:43:01 |
+| P_fzr | 2019-10-24 10:43:01 |
+| gmywq392 | 2019-10-14 15:57:26 |
+| fengxuanmo | 2019-09-20 18:40:10 |
+| lxycg | 2019-08-30 13:04:39 |
+| yore | 2019-08-27 10:07:12 |
+| mggger | 2019-08-27 10:07:12 |
 
 ---
 
