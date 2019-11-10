@@ -20,12 +20,12 @@ for user in users:
 
     latest_active_date = -1
     complete_count = 0
-    for path, d, files in w:
+    for parent, directories, files in w:
         for file in files:
             if file.startswith(".") or file.lower().startswith("readme"):
                 continue
             complete_count += 1
-            f = os.path.join(path, file)
+            f = os.path.join(parent, file)
             t = os.path.getmtime(f)
             if t > latest_active_date:
                 latest_active_date = t
