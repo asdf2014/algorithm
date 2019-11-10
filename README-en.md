@@ -40,7 +40,7 @@
 　It is divided into two phases:
 
 * The first 100 questions are classics in the classics, so we first thoroughly read these questions in the first stage.
-* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see
+* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see
 
 ## TopN
 
