@@ -49,7 +49,7 @@
 | User         | Completed  |
 | ------------ | ---------- |
 | **Zsdostar** | 27         |
-| **Gmywq392** | twenty one |
+| **Gmywq392** | 21         |
 | **Asdf2014** | 16         |
 | Lxycg        | 15         |
 | Mggger       | 14         |
