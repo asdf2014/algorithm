@@ -1,55 +1,63 @@
 import os
 import time
 
-users = os.listdir("./Codes")
 
-updates = {}
-finished = {}
+def top_n(m, n):
+    return sorted(m.items(), key=lambda kv: kv[1], reverse=True)[:n]
+
+
+code_path = "Codes"
+users = os.listdir(code_path)
+
+active = {}
+complete = {}
 for user in users:
     # skip .DS_Store / .gitignore etc
     if user.startswith("."):
         continue
-    g = os.walk(os.path.join("Codes", user))
 
-    max_update_time = -1
-    count = 0
-    for path, d, files in g:
+    w = os.walk(os.path.join(code_path, user))
+
+    latest_active_date = -1
+    top3 = 0
+    for path, d, files in w:
         for file in files:
             if file.startswith(".") or file.lower().startswith("readme"):
                 continue
-            count += 1
+            top3 += 1
             f = os.path.join(path, file)
-            update_time = os.path.getmtime(f)
-            if update_time > max_update_time:
-                max_update_time = update_time
-    updates[user] = max_update_time
-    finished[user] = count
+            t = os.path.getmtime(f)
+            if t > latest_active_date:
+                latest_active_date = t
+    active[user] = latest_active_date
+    complete[user] = top3
 
-top_10_updated = sorted(updates.items(), key=lambda kv: kv[1], reverse=True)[:10]
-top_10_finished = sorted(finished.items(), key=lambda kv: kv[1], reverse=True)[:10]
+top_10_active = top_n(active, 10)
+top_10_complete = top_n(complete, 10)
 
-count = 3
+top3 = 3
 print("### 完成题目最多的小伙伴")
 print("""
 | User | Completed |
 | :--: | :-------: |""")
-for k, v in top_10_finished:
-    if count > 0:
+for k, v in top_10_complete:
+    if top3 > 0:
         print("|", "**" + k + "**", "|", v, "|")
     else:
         print("|", k, "|", v, "|")
-    count -= 1
+    top3 -= 1
 
 print()
 
-count = 3
+top3 = 3
 print("### 最活跃的小伙伴")
 print("""
 | User | Latest Active Date |
 | :--: | :----------------: |""")
-for k, v in top_10_updated:
-    if count > 0:
-        print("|", "**" + k + "**", "|", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v)), "|")
+for k, v in top_10_active:
+    date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v))
+    if top3 > 0:
+        print("|", "**" + k + "**", "|", date_stamp, "|")
     else:
-        print("|", k, "|", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v)), "|")
-    count -= 1
+        print("|", k, "|", date_stamp, "|")
+    top3 -= 1
