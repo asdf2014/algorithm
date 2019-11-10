@@ -19,18 +19,18 @@ for user in users:
     w = os.walk(os.path.join(code_path, user))
 
     latest_active_date = -1
-    top3 = 0
+    complete_count = 0
     for path, d, files in w:
         for file in files:
             if file.startswith(".") or file.lower().startswith("readme"):
                 continue
-            top3 += 1
+            complete_count += 1
             f = os.path.join(path, file)
             t = os.path.getmtime(f)
             if t > latest_active_date:
                 latest_active_date = t
     active[user] = latest_active_date
-    complete[user] = top3
+    complete[user] = complete_count
 
 top_10_active = top_n(active, 10)
 top_10_complete = top_n(complete, 10)
