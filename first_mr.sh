@@ -33,7 +33,6 @@ git remote add upstream git@github.com:asdf2014/algorithm.git
 git pull upstream master:master
 
 # build MR
-git checkout -b ${user_name}_first_mr
 mkdir -p Codes/${user_name}
 echo ${user_name} > Codes/${user_name}/README.md
 
