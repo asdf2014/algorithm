@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# check git
+command -v git >/dev/null 2>&1 || {
+    echo >&2 "I require git but it's not installed!"; exit 1;
+}
+
 # check username
 user_name=`git config user.name`
 
@@ -8,7 +13,7 @@ if [[ ${user_name}_x != "_x" ]]; then
 else
     echo "Please set github's username firstly!"
     open "https://yuzhouwan.com/posts/30041/#Git-Config"
-    exit -1
+    exit 1
 fi
 
 # check SSH
@@ -19,7 +24,7 @@ if [[ $(echo "${ssh_succ}" | bc) -eq 1 ]]; then
 else
     echo "Please set SSH to github!"
     open "https://yuzhouwan.com/posts/30041/#SSH-%E5%85%8D%E5%AF%86"
-    exit -1
+    exit 1
 fi
 
 # build project

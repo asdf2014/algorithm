@@ -33,7 +33,7 @@
 
 ```bash
 # Create your first MR with one click
-bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_mr.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_pr.sh)"
 ```
 
 ### Brush frequency

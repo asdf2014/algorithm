@@ -35,7 +35,7 @@
 
 ```bash
 # 一键创建您的第一个 MR
-bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_mr.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_pr.sh)"
 ```
 
 
