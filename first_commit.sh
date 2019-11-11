@@ -37,11 +37,11 @@ git remote add upstream git@github.com:asdf2014/algorithm.git
 
 git pull upstream master:master
 
-# build MR
+# build commit
 mkdir -p Codes/${user_name}
 echo ${user_name} > Codes/${user_name}/README.md
-
-# push MR
 git add .
 git commit -m "Create ${user_name}'s first MR"
+
+# push commit
 git push upstream master
