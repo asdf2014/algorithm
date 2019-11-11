@@ -24,6 +24,7 @@ for user in users:
             t = os.path.getmtime(f)
             if t > latest_active_date:
                 latest_active_date = t
+
     active[user] = latest_active_date
     complete[user] = complete_count
 
@@ -40,8 +41,8 @@ def flush_readme(readme_file):
     lines = []
     count = 0
     index = -1
-    with open(readme_file) as data:
-        for line in data:
+    with open(readme_file) as readme:
+        for line in readme:
             if '| User | Completed |' in line:
                 index = count
             lines.append(line)
@@ -78,8 +79,8 @@ def flush_readme(readme_file):
         index += 1
         top3 -= 1
 
-    with open(readme_file, 'w') as data:
-        data.write(''.join(lines))
+    with open(readme_file, 'w') as readme:
+        readme.write(''.join(lines))
 
 
 flush_readme('README.md')
