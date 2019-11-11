@@ -12,10 +12,9 @@ else
 fi
 
 # check SSH
-ssh_succ=`ssh -T git@github.com |& grep "successfully" | wc -l`
-echo ${ssh_succ}
+ssh_succ=`ssh -T git@github.com 2>&1 | grep "successfully" | wc -l`
 
-if [[ ${ssh_succ} -eq 1 ]]; then
+if [[ $(echo "${ssh_succ}" | bc) -eq 1 ]]; then
     echo "You've successfully authenticated."
 else
     echo "Please set SSH to github!"
