@@ -1,11 +1,6 @@
 import os
 import time
 
-
-def top_n(m, n):
-    return sorted(m.items(), key=lambda kv: kv[1], reverse=True)[:n]
-
-
 code_path = "Codes"
 users = os.listdir(code_path)
 
@@ -32,32 +27,60 @@ for user in users:
     active[user] = latest_active_date
     complete[user] = complete_count
 
+
+def top_n(m, n):
+    return sorted(m.items(), key=lambda kv: kv[1], reverse=True)[:n]
+
+
 top_10_active = top_n(active, 10)
 top_10_complete = top_n(complete, 10)
 
-top3 = 3
-print("### 完成题目最多的小伙伴")
-print("""
-| User | Completed |
-| :--: | :-------: |""")
-for k, v in top_10_complete:
-    if top3 > 0:
-        print("|", "**" + k + "**", "|", v, "|")
-    else:
-        print("|", k, "|", v, "|")
-    top3 -= 1
 
-print()
+def flush_readme(readme_file):
+    lines = []
+    count = 0
+    index = -1
+    with open(readme_file) as data:
+        for line in data:
+            if '| User | Completed |' in line:
+                index = count
+            lines.append(line)
+            count += 1
 
-top3 = 3
-print("### 最活跃的小伙伴")
-print("""
-| User | Latest Active Date |
-| :--: | :----------------: |""")
-for k, v in top_10_active:
-    date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v))
-    if top3 > 0:
-        print("|", "**" + k + "**", "|", date_stamp, "|")
-    else:
-        print("|", k, "|", date_stamp, "|")
-    top3 -= 1
+    # skip header
+    index += 2
+
+    top3 = 3
+    for k, v in top_10_complete:
+        if top3 > 0:
+            row = "| " + "**" + k + "**" + " | " + str(v) + " |\n"
+        else:
+            row = "| " + k + " | " + str(v) + " |\n"
+
+        lines[index] = row
+
+        index += 1
+        top3 -= 1
+
+    # skip header
+    index += 5
+
+    top3 = 3
+    for k, v in top_10_active:
+        date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v))
+        if top3 > 0:
+            row = "| " + "**" + k + "**" + " | " + date_stamp + " |\n"
+        else:
+            row = "| " + k + " | " + date_stamp + " |\n"
+
+        lines[index] = row
+
+        index += 1
+        top3 -= 1
+
+    with open(readme_file, 'w') as data:
+        data.write(''.join(lines))
+
+
+flush_readme('README.md')
+flush_readme('README-en.md')
