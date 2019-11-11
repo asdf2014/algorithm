@@ -31,6 +31,11 @@
 
 　Each participating partner will get the Collaborator permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${User}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting MR)
 
+```bash
+# Create your first MR with one click
+bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_mr.sh)"
+```
+
 ### Brush frequency
 
 　Considering that there may not be a lot of leisure time for everyone, we tentatively set the frequency of the question as "one week a week"
