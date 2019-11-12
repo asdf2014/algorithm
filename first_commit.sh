@@ -41,7 +41,7 @@ git pull upstream master:master
 mkdir -p Codes/${user_name}
 echo ${user_name} > Codes/${user_name}/README.md
 git add .
-git commit -m "Create ${user_name}'s first MR"
+git commit -m "Add ${user_name}'s first commit"
 
 # push commit
 git push upstream master
