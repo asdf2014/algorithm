@@ -62,22 +62,22 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | yore | 8 |
 | fengxuanmo | 7 |
 | gracekoo | 3 |
-| P_fzr | 1 |
+| BoCai | 2 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **BoCai** | 2019-11-12 19:06:19 |
 | **GinRyan** | 2019-11-11 04:51:21 |
 | **zsdostar** | 2019-11-05 18:15:06 |
-| **gracekoo** | 2019-11-05 18:15:06 |
+| gracekoo | 2019-11-05 18:15:06 |
 | asdf2014 | 2019-10-24 10:43:01 |
 | P_fzr | 2019-10-24 10:43:01 |
 | gmywq392 | 2019-10-14 15:57:26 |
 | fengxuanmo | 2019-09-20 18:40:10 |
 | lxycg | 2019-08-30 13:04:39 |
 | yore | 2019-08-27 10:07:12 |
-| mggger | 2019-08-27 10:07:12 |
 
 The leaderboards are updated once a week. A summary is done once a month, and each month's best is permanently recorded in the project.
 
