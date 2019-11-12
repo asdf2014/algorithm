@@ -79,6 +79,17 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | yore | 2019-08-27 10:07:12 |
 | mggger | 2019-08-27 10:07:12 |
 
+The leaderboards are updated once a week. A summary is done once a month, and each month's best is permanently recorded in the project.
+
+<br/>
+
+## Q & A
+
+### Original intention
+
+　To be honest, this is purely a public welfare project. It is just to convene everyone to brush up and communicate together. For me, at most, it is to exercise my operational ability. I have thought about the worst situation, that is, at the end, I am alone, silently brushing the questions and asking for the code inside. :sweat_smile:
+
+
 ------
 
 For more details, see "[Algorithm](https://yuzhouwan.com/posts/666/)"
