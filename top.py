@@ -75,7 +75,7 @@ def flush_readme(readme_file):
     top3 = 3
     for k, v in top_10_active:
         k = user_url(k)
-        date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v))
+        date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(v))
         if top3 > 0:
             row = "| " + "**" + k + "**" + " | " + date_stamp + " |\n"
         else:
