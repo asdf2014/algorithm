@@ -58,31 +58,31 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
-| **zsdostar** | 27 |
-| **gmywq392** | 21 |
-| **asdf2014** | 16 |
-| lxycg | 15 |
-| mggger | 14 |
-| GinRyan | 11 |
-| yore | 8 |
-| fengxuanmo | 7 |
-| gracekoo | 3 |
-| BoCai | 2 |
+| **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
+| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 21 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 16 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 15 |
+| [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 7 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 3 |
+| [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **BlitheLou** | 2019-11-13 09:18:54 |
-| **BoCai** | 2019-11-12 19:06:19 |
-| **GinRyan** | 2019-11-11 04:51:21 |
-| zsdostar | 2019-11-05 18:15:06 |
-| gracekoo | 2019-11-05 18:15:06 |
-| asdf2014 | 2019-10-24 10:43:01 |
-| P_fzr | 2019-10-24 10:43:01 |
-| gmywq392 | 2019-10-14 15:57:26 |
-| fengxuanmo | 2019-09-20 18:40:10 |
-| lxycg | 2019-08-30 13:04:39 |
+| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-13 09:18:54 |
+| **[BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai)** | 2019-11-12 19:06:19 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2019-11-11 04:51:21 |
+| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 18:15:06 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-05 18:15:06 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2019-10-24 10:43:01 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-10-24 10:43:01 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-10-14 15:57:26 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-09-20 18:40:10 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-08-30 13:04:39 |
 
 每周更新一次排行榜。每月做一次汇总，每月最佳可以永久记录在项目中。
 
@@ -94,7 +94,6 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 　说实话 这纯属公益项目，只是召集大家一起刷题，一起交流。对我而言，顶多就是锻炼一下我的运营能力。
  想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
-
 
 ---
 

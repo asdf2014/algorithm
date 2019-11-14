@@ -53,6 +53,7 @@ def flush_readme(readme_file):
 
     top3 = 3
     for k, v in top_10_complete:
+        k = user_url(k)
         if top3 > 0:
             row = "| " + "**" + k + "**" + " | " + str(v) + " |\n"
         else:
@@ -68,6 +69,7 @@ def flush_readme(readme_file):
 
     top3 = 3
     for k, v in top_10_active:
+        k = user_url(k)
         date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(v))
         if top3 > 0:
             row = "| " + "**" + k + "**" + " | " + date_stamp + " |\n"
@@ -81,6 +83,10 @@ def flush_readme(readme_file):
 
     with open(readme_file, 'w') as readme:
         readme.write(''.join(lines))
+
+
+def user_url(k):
+    return "[%s](https://github.com/asdf2014/algorithm/tree/master/Codes/%s)" % (k, k)
 
 
 flush_readme('README.md')
