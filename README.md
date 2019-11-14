@@ -73,16 +73,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-13 09:18:54 |
-| **[BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai)** | 2019-11-12 19:06:19 |
-| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2019-11-11 04:51:21 |
-| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 18:15:06 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-05 18:15:06 |
+| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-12 22:01:41 |
+| **[BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai)** | 2019-11-12 18:59:52 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2019-11-11 04:52:45 |
+| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 16:30:48 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-03 23:08:06 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2019-10-24 10:43:01 |
-| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-10-24 10:43:01 |
-| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-10-14 15:57:26 |
-| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-09-20 18:40:10 |
-| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-08-30 13:04:39 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-10-23 19:04:39 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-10-05 18:13:46 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-09-19 23:58:56 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-08-29 22:02:21 |
 
 每周更新一次排行榜。每月做一次汇总，每月最佳可以永久记录在项目中。
 

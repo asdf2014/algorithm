@@ -4,6 +4,11 @@ import time
 code_path = "Codes"
 users = os.listdir(code_path)
 
+
+def last_commit_date(file_path):
+    return "git log -1 --pretty=format:'%ct' '" + file_path + "'"
+
+
 active = {}
 complete = {}
 for user in users:
@@ -21,7 +26,7 @@ for user in users:
                 continue
             complete_count += 1
             f = os.path.join(parent, file)
-            t = os.path.getmtime(f)
+            t = int(os.popen(last_commit_date(f)).readlines()[0])
             if t > latest_active_date:
                 latest_active_date = t
 
