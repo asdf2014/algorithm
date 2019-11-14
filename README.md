@@ -84,7 +84,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-09-19 15:58:56 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-08-29 14:02:21 |
 
-每周更新一次排行榜。每月做一次汇总，每月最佳可以永久记录在项目中。
+排行榜的更新会在提交后自动执行。我们每月做一次汇总，每月最佳可以永久记录在项目中。
 
 <br/>
 

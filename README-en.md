@@ -79,7 +79,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-09-19 15:58:56 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-08-29 14:02:21 |
 
-The leaderboards are updated once a week. A summary is done once a month, and each month's best is permanently recorded in the project.
+Updates to the leaderboards are automatically executed after submission. We do a summary once a month, and the best monthly can be permanently recorded in the project.
 
 <br/>
 
