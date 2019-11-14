@@ -1,0 +1,27 @@
+name: Update Leaderboard
+on: push
+
+jobs: 
+  run:
+    name: Update Leaderboard
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Checkout repo
+      uses: actions/checkout@master
+
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+    - run: python top.py
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v2.1.0 
+      with:
+        author_name: asdf2014
+        author_email: asdf2014@apache.org
+        message: "Update Leaderboard"
+        path: "."
+        pattern: "README*.md"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
