@@ -1,5 +1,7 @@
+import datetime
 import os
-import time
+
+import pytz
 
 code_path = "Codes"
 users = os.listdir(code_path)
@@ -42,7 +44,7 @@ top_10_active = top_n(active, 10)
 top_10_complete = top_n(complete, 10)
 
 
-def flush_readme(readme_file):
+def flush_readme(readme_file, local=False):
     lines = []
     count = 0
     index = -1
@@ -75,7 +77,10 @@ def flush_readme(readme_file):
     top3 = 3
     for k, v in top_10_active:
         k = user_url(k)
-        date_stamp = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(v))
+        dt = datetime.datetime.utcfromtimestamp(v)
+        if local:
+            dt = dt.replace(tzinfo=pytz.utc).astimezone(pytz.timezone('Asia/Shanghai'))
+        date_stamp = dt.strftime("%Y-%m-%d %H:%M:%S")
         if top3 > 0:
             row = "| " + "**" + k + "**" + " | " + date_stamp + " |\n"
         else:
@@ -94,5 +99,5 @@ def user_url(k):
     return "[%s](https://github.com/asdf2014/algorithm/tree/master/Codes/%s)" % (k, k)
 
 
-flush_readme('README.md')
-flush_readme('README-en.md')
+flush_readme('README.md', True)
+flush_readme('README-en.md', False)
