@@ -6,4 +6,7 @@
 
 希望能借此提高自己的姿势水平。
 
+- Github:[lxycg](https://github.com/cgdog)，以后会逐步添加内容
+- 知乎专栏: [lxycg](https://www.zhihu.com/people/lxyhpp/columns)
+
 感谢组织者 :)
