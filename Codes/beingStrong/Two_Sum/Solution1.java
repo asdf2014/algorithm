@@ -1,5 +1,6 @@
 import java.util.*;
-
+//时间复杂度O(n)
+//空间复杂度O(n)
 public class Test {
     public int[] twoSum(int[] nums, int target) {
         // 使用哈希表来解决
