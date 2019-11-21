@@ -7,6 +7,7 @@
  * }
  */
 class Solution {
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         //这道题直接模拟加法运算来做就行
         //首先声明一个listNode用于存储结果
