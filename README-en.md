@@ -68,16 +68,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-11-22 04:42:34 |
 | **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 2019-11-22 04:28:20 |
 | **[beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong)** | 2019-11-21 02:42:28 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-16 08:17:01 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2019-11-16 08:17:01 |
 | [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-11-12 14:01:41 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 10:59:52 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-10 20:52:45 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 08:30:48 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-03 15:08:06 |
 | [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-10-23 11:04:39 |
-| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-10-05 10:13:46 |
 
 Updates to the leaderboards are automatically executed after submission. We do a summary once a month, and the best monthly can be permanently recorded in the project.
 
