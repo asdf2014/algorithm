@@ -1,6 +1,8 @@
 #执行用时 : 348 ms
 #内存消耗 : 13 MB
 
+#方案：哈希表
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
