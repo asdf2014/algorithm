@@ -17,8 +17,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        #排序
-        sorted_nums = sorted(nums)
         rst = []
         #小于3 返回false
         if len(nums) < 3:
@@ -29,7 +27,6 @@ class Solution(object):
                 return [nums]
         #大于三，拆成1+2 并对2进行two_sum判断
         else:
-            flag = False
             for idx, value in enumerate(nums):
                 tmp = nums[0:idx] + nums[idx+1:] if idx != len(nums) else nums[0:idx]
                 rst.extend(self.two_sum(value, tmp, -value))
