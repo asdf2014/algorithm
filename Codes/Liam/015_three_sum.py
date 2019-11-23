@@ -1,4 +1,7 @@
 #超时，需要优化
+
+#方案：拆解成 001 two sum题目
+
 class Solution(object):
     flag = {}
     def two_sum(self, cur_value, nums, target):
