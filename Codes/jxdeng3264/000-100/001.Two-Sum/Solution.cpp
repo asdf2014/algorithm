@@ -1,5 +1,5 @@
 //ID:001.Two Sum
-//Author:jxdeng3989
+//Author:jxdeng3264@163.com
 //Alg&Ds:Binary Search
 class Solution {
 public:
