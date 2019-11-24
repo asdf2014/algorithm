@@ -53,22 +53,22 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
+| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
 | **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 28 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 21 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 20 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 7 |
-| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 3 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 2019-11-24 11:55:06 |
+| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 2019-11-24 11:57:35 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-24 10:14:39 |
 | **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-24 08:40:30 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-11-24 06:09:03 |
