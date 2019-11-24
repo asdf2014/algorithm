@@ -59,8 +59,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 19 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 8 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 7 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 7 |
 | [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 3 |
 
@@ -68,7 +68,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-11-24 05:24:31 |
+| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-11-24 05:27:57 |
 | **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-24 03:11:20 |
 | **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 2019-11-22 04:28:20 |
 | [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-11-21 02:42:28 |
