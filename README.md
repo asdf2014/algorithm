@@ -58,31 +58,31 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
+| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
+| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 28 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
-| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 23 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 21 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 19 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 20 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 7 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 3 |
-| [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong)** | 2019-11-21 10:42:28 |
-| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 2019-11-20 14:34:51 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-16 16:17:01 |
-| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-11-12 22:01:41 |
+| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-26 23:31:25 |
+| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 2019-11-24 20:12:33 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-24 18:14:39 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-11-24 14:09:03 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-11-22 12:28:20 |
+| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-11-21 10:42:28 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 18:59:52 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-11 04:52:45 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 16:30:48 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-03 23:08:06 |
-| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-10-23 19:04:39 |
-| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-10-05 18:13:46 |
 
 排行榜的更新会在提交后自动执行。我们每月做一次汇总，每月最佳可以永久记录在项目中。
 
