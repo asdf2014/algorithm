@@ -83,13 +83,14 @@ Updates to the leaderboards are automatically executed after submission. We do a
 
 <br/>
 
-## Q & A
-
-### Original intention
+## Original intention
 
 　To be honest, this is purely a public welfare project. It is just to convene everyone to brush up and communicate together. For me, at most, it is to exercise my operational ability. I have thought about the worst situation, that is, at the end, I am alone, silently brushing the questions and asking for the code inside. :sweat_smile:
 
+## Thanks
 
-------
+[![](https://opencollective.com/algorithm/contributors.svg?width=666)](https://github.com/asdf2014/algorithm/graphs/contributors)
+
+---
 
 For more details, see "[Algorithm](https://yuzhouwan.com/posts/666/)"
