@@ -73,16 +73,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[zhilin](https://github.com/asdf2014/algorithm/tree/master/Codes/zhilin)** | 2019-12-01 21:25:00 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-30 18:33:00 |
 | **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 2019-11-30 17:42:22 |
-| **[beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong)** | 2019-11-27 22:36:46 |
+| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-11-27 22:36:46 |
 | [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-11-26 23:31:25 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-11-24 20:12:33 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-11-24 14:09:03 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 18:59:52 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-11 04:52:45 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 16:30:48 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-03 23:08:06 |
 
 排行榜的更新会在提交后自动执行。我们每月做一次汇总，每月最佳可以永久记录在项目中。
 
