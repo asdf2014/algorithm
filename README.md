@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | User | Completed |
 | :--: | :-------: |
 | **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
-| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 28 |
+| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 29 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 22 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 23 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
@@ -73,12 +73,12 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-27 22:39:45 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-30 18:33:00 |
+| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 2019-11-30 17:42:22 |
 | **[beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong)** | 2019-11-27 22:36:46 |
-| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-26 23:31:25 |
+| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-11-26 23:31:25 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-11-24 20:12:33 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-11-24 14:09:03 |
-| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-11-22 12:28:20 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 18:59:52 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-11 04:52:45 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 16:30:48 |
@@ -88,12 +88,15 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 <br/>
 
-## Q & A
-
-### 初衷
+## 初衷
 
 　说实话 这纯属公益项目，只是召集大家一起刷题，一起交流。对我而言，顶多就是锻炼一下我的运营能力。
- 想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+
+## 鸣谢
+
+[![](https://opencollective.com/algorithm/contributors.svg?width=666)](https://github.com/asdf2014/algorithm/graphs/contributors)
+
 
 ---
 
