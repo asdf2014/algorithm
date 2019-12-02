@@ -56,31 +56,31 @@ class MyQueue:
 # Your MyQueue object will be instantiated and called as such:
 queue = MyQueue()
 queue.push(1)
-assert queue.pop() == 1
+assert queue.pop() is 1
 assert queue.empty()
 queue.push(2)
-assert queue.peek() == 2
+assert queue.peek() is 2
 assert not queue.empty()
 queue.push(3)
-assert queue.peek() == 2
+assert queue.peek() is 2
 assert not queue.empty()
 
 queue = MyQueue()
 queue.push(1)
 queue.push(2)
-assert queue.peek() == 1
+assert queue.peek() is 1
 
 queue = MyQueue()
 queue.push(1)
 queue.push(2)
-assert queue.peek() == 1
-assert queue.pop() == 1
+assert queue.peek() is 1
+assert queue.pop() is 1
 assert not queue.empty()
 
 queue = MyQueue()
 queue.push(1)
 queue.push(2)
-assert queue.peek() == 1
-assert queue.pop() == 1
-assert queue.pop() == 2
+assert queue.peek() is 1
+assert queue.pop() is 1
+assert queue.pop() is 2
 assert queue.empty()
