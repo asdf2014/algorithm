@@ -25,7 +25,7 @@
 
 ### Registration route
 
-　Just leave a message at the end of the "[Algorithm](https://yuzhouwan.com/posts/666/)" and you can participate at any time.
+　Just leave a message at the end of the "[Algorithm](https://github.com/asdf2014/gitment/issues/40)" and you can participate at any time.
 
 ### Way of participation
 
