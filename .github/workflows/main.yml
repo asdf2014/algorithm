@@ -9,9 +9,8 @@ jobs:
     name: Update Leaderboard
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-      with:
-        fetch-depth: 1
+    - name: Checkout repo
+      uses: actions/checkout@v1
 
     - name: Setup python
       uses: actions/setup-python@v1.1.1
