@@ -29,27 +29,27 @@
 
 ### Way of participation
 
-　Each participating partner will get the Collaborator permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${User}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting MR)
+　Each participating partner will get the [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${User}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting Pull Request).
 
 ```bash
-# Complete your first code submission with one click
+# Complete your first code submission with one step
 bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_commit.sh)"
 ```
 
-### Brush frequency
+### Frequency
 
-　Considering that there may not be a lot of leisure time for everyone, we tentatively set the frequency of the question as "one week a week"
+　Considering that there may not be a lot of leisure time for everyone, we tentatively set the frequency of completion as "one week a week".
 
 ### Topic strategy
 
 　It is divided into two phases:
 
 * The first 100 questions are classics in the classics, so we first thoroughly read these questions in the first stage.
-* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see
+* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see.
 
 ## TopN
 
-### Complete the most problematic partners
+### The most problem-solving partners
 
 | User | Completed |
 | :--: | :-------: |
