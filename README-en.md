@@ -68,16 +68,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-12-04 02:58:37 |
-| **[BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai)** | 2019-12-04 02:58:37 |
-| **[P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr)** | 2019-12-04 02:58:37 |
-| [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-04 02:58:37 |
-| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-12-04 02:58:37 |
-| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-04 02:58:37 |
-| [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 2019-12-04 02:58:37 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 02:58:37 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2019-12-04 02:58:37 |
-| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2019-12-04 02:58:37 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-04 02:57:09 |
+| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-12-02 13:41:46 |
+| **[zhilin](https://github.com/asdf2014/algorithm/tree/master/Codes/zhilin)** | 2019-12-01 13:25:00 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-11-30 09:42:22 |
+| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-11-27 14:36:46 |
+| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-11-26 15:31:25 |
+| [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-11-24 12:12:33 |
+| [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 10:59:52 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-10 20:52:45 |
+| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 08:30:48 |
 
 Updates to the leaderboards are automatically executed after submission. We do a summary once a month, and the best monthly can be permanently recorded in the project.
 
