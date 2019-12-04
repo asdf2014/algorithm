@@ -1,7 +1,8 @@
-#执行用时 : 24 ms
-#内存消耗 : 11.7 MB
+# 执行用时 : 24 ms
+# 内存消耗 : 11.7 MB
 
-#方案：递归
+# 方案：递归
+
 
 class Solution(object):
     def addDigits(self, num):
@@ -9,4 +10,8 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        return self.addDigits(sum([int(n) for n in str(num)])) if len(str(num)) != 1 else num
+        return (
+            self.addDigits(sum([int(n) for n in str(num)]))
+            if len(str(num)) != 1
+            else num
+        )

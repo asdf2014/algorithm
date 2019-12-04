@@ -1,4 +1,4 @@
-'''
+"""
 1. 两数之和
 
 给定一个整数数组 nums 和一个目标值 target，请你在该数组中
@@ -12,8 +12,8 @@
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/two-sum
-'''
-'''
+"""
+"""
 方式一：
 	两层循环分别遍历 nums，在内层循环内，判断两数和是否为 target。
 	( 时间复杂度：O(n^2) )
@@ -25,13 +25,13 @@
 		若存在，则返回对应下标。
 	( 时间复杂度：O(n) )
 
-'''
+"""
+
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hash_map = {}
         for i, x in enumerate(nums):
-            if target-x in hash_map:
+            if target - x in hash_map:
                 return [hash_map[target - x], i]
             hash_map[x] = i
-

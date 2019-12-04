@@ -92,4 +92,3 @@ print("result: ")
 while ret != None:
     print(ret.val)
     ret = ret.next
-

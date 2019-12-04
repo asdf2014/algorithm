@@ -106,7 +106,7 @@ class Solution:
             if maxSubStringLength < counter:
                 maxSubStringLength = counter
 
-            #控制台展示每次便利时索引、滑动窗口、重复性判定等信息，仅调试
+            # 控制台展示每次便利时索引、滑动窗口、重复性判定等信息，仅调试
             print(
                 "|"
                 + currentChar
@@ -122,7 +122,7 @@ class Solution:
                 + str(duplicated)
                 + "\t\t|"
             )
-            
+
         return maxSubStringLength
 
 

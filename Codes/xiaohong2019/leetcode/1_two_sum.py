@@ -42,7 +42,7 @@ class Solution(object):
             difference_value_dict[num] = index
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     solution = Solution()
     assert solution.twoSum([2, 7, 11, 15], 9) == [0, 1]
     assert solution.twoSum([4, 7, 0, 3], 3) == [2, 3]

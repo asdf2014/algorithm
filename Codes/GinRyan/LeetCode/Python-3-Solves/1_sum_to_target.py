@@ -10,7 +10,7 @@
 因为 nums[0] + nums[1] = 2 + 7 = 9
 所以返回 [0, 1]
 """
-'''
+"""
 解题思考1：
 
 一般的做法是，逐两项相加判断是否和目标值相等，其时间复杂度为O(n^2)
@@ -25,7 +25,9 @@
 如果不在乎空间复杂度问题：适当的将遍历查找的子过程转换为字典查找过程，可以降低一层O(n)为O(1)
 
 
-'''
+"""
+
+
 class Solution:
     def twoSum(self, nums, target):
         """
@@ -38,8 +40,9 @@ class Solution:
         for num in nums:
             diff = target - num
             if diff in cache:
-                return [cache[diff],index]
+                return [cache[diff], index]
             cache[num] = index
             index += 1
+
 
 print(Solution().twoSum([7, 2, 11, 15, 4], 6))

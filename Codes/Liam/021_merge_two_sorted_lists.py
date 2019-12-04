@@ -1,13 +1,14 @@
-#执行用时 : 20 ms
-#内存消耗 : 11.8 MB
+# 执行用时 : 20 ms
+# 内存消耗 : 11.8 MB
 
-#方案：递归
+# 方案：递归
 
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
 
 class Solution(object):
     def mergeTwoLists(self, l1, l2):

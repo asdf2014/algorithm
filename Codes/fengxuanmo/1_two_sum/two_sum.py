@@ -16,4 +16,3 @@ def twoSum(nums, target):
                 return [m[j], i]
             else:
                 m[target - j] = i
-

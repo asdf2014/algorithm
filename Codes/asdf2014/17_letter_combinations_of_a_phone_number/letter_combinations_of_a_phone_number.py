@@ -1,8 +1,34 @@
 # https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 
-chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-         'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+chars = [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+]
 
 
 def letter_combinations_of_a_phone_number(digits):
@@ -21,7 +47,7 @@ def letters(n):
     elif n == 1:
         return []
     elif n <= 6:
-        return chars[(n - 2) * 3:(n - 1) * 3]
+        return chars[(n - 2) * 3 : (n - 1) * 3]
     elif n == 7:
         return chars[15:19]
     elif n == 8:
@@ -32,4 +58,14 @@ def letters(n):
 
 assert letter_combinations_of_a_phone_number("") == []
 assert letter_combinations_of_a_phone_number("2") == ["a", "b", "c"]
-assert letter_combinations_of_a_phone_number("23") == ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]
+assert letter_combinations_of_a_phone_number("23") == [
+    "ad",
+    "ae",
+    "af",
+    "bd",
+    "be",
+    "bf",
+    "cd",
+    "ce",
+    "cf",
+]

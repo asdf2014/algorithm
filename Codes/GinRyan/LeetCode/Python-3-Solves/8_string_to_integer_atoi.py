@@ -68,7 +68,7 @@ class Solution:
         # 剩下的开头只有可能是数字和符号了
         noSpaceRaw = rawstr.strip()
         INT_MAX = 2 ** 31 - 1
-        INT_MIN = -2 ** 31
+        INT_MIN = -(2 ** 31)
 
         # 长度为0 的直接返回0
         if len(noSpaceRaw) == 0:
@@ -76,38 +76,51 @@ class Solution:
 
         fcn = noSpaceRaw[0]
         # 只要不是数字、+、-、空格开头一律返回0
-        if not (fcn >= "0" and fcn <= "9") and not fcn == "+" and not fcn == "-" and not fcn == " ":
+        if (
+            not (fcn >= "0" and fcn <= "9")
+            and not fcn == "+"
+            and not fcn == "-"
+            and not fcn == " "
+        ):
             return 0
 
         sign = 1  # 符号
         get_num = 0  # 结果数值
 
-        
         # 从左往右遍历剩下的字符，遇到符号时便标记开始，标记为开始以后就只能遇到数字
         # 一旦遇到非数字，立即中止累加获取数字位置。
         start = False
         length = len(noSpaceRaw)
-        if length == 1 and (noSpaceRaw[0] < '0' or noSpaceRaw[0] > '9'):
+        if length == 1 and (noSpaceRaw[0] < "0" or noSpaceRaw[0] > "9"):
             return 0
 
         for i in range(length):
-            
-            if not start :
-               if (noSpaceRaw[i] > "0" and noSpaceRaw[i] < "9")  or noSpaceRaw[i] == "-" or noSpaceRaw[i] == "+" :
-                # 当start = True以后，就再也不可以遇到非数字字符了
+
+            if not start:
+                if (
+                    (noSpaceRaw[i] > "0" and noSpaceRaw[i] < "9")
+                    or noSpaceRaw[i] == "-"
+                    or noSpaceRaw[i] == "+"
+                ):
+                    # 当start = True以后，就再也不可以遇到非数字字符了
                     start = True
 
             # 判断不合法字符
-            if  i > 0 and (noSpaceRaw[i] < '0' or noSpaceRaw[i] > '9') :
-                print("不符合条件字符："+ noSpaceRaw[i])
+            if i > 0 and (noSpaceRaw[i] < "0" or noSpaceRaw[i] > "9"):
+                print("不符合条件字符：" + noSpaceRaw[i])
                 break
-                
+
             # 判断是不是紧跟着数字的'-'
-            if start and  noSpaceRaw[i] == "-" and noSpaceRaw[i + 1] >= '0' and noSpaceRaw[i + 1] <= '9':
+            if (
+                start
+                and noSpaceRaw[i] == "-"
+                and noSpaceRaw[i + 1] >= "0"
+                and noSpaceRaw[i + 1] <= "9"
+            ):
                 sign = -1
-           
+
             if start:
-                if (noSpaceRaw[i] >= '0' and noSpaceRaw[i] <= '9'):
+                if noSpaceRaw[i] >= "0" and noSpaceRaw[i] <= "9":
                     currentNum = ord(noSpaceRaw[i]) - 48
                     get_num = get_num * 10 + currentNum
                 else:
@@ -117,7 +130,7 @@ class Solution:
 
         if get_num > INT_MAX:
             get_num = INT_MAX
-        elif get_num < -2 ** 31:
+        elif get_num < -(2 ** 31):
             get_num = INT_MIN
         return get_num
 

@@ -50,7 +50,7 @@ def flush_readme(readme_file, local=False):
     index = -1
     with open(readme_file) as readme:
         for line in readme:
-            if '| User | Completed |' in line:
+            if "| User | Completed |" in line:
                 index = count
             lines.append(line)
             count += 1
@@ -79,7 +79,7 @@ def flush_readme(readme_file, local=False):
         k = user_url(k)
         dt = datetime.datetime.utcfromtimestamp(v)
         if local:
-            dt = dt.replace(tzinfo=pytz.utc).astimezone(pytz.timezone('Asia/Shanghai'))
+            dt = dt.replace(tzinfo=pytz.utc).astimezone(pytz.timezone("Asia/Shanghai"))
         date_stamp = dt.strftime("%Y-%m-%d %H:%M:%S")
         if top3 > 0:
             row = "| " + "**" + k + "**" + " | " + date_stamp + " |\n"
@@ -91,13 +91,13 @@ def flush_readme(readme_file, local=False):
         index += 1
         top3 -= 1
 
-    with open(readme_file, 'w') as readme:
-        readme.write(''.join(lines))
+    with open(readme_file, "w") as readme:
+        readme.write("".join(lines))
 
 
 def user_url(k):
     return "[%s](https://github.com/asdf2014/algorithm/tree/master/Codes/%s)" % (k, k)
 
 
-flush_readme('README.md', True)
-flush_readme('README-en.md', False)
+flush_readme("README.md", True)
+flush_readme("README-en.md", False)

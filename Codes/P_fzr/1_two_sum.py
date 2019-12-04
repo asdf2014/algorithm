@@ -16,9 +16,7 @@ def two_sum(nums, target):
         if n in position:
             return [position[n], i]
         else:
-            position[target-n] = i
+            position[target - n] = i
+
 
 print(two_sum([2, 7, 11, 15], 9))
-
-
-

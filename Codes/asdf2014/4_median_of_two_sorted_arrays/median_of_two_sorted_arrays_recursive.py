@@ -7,6 +7,7 @@
 # 更多细节：
 # https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/xun-zhao-liang-ge-you-xu-shu-zu-de-zhong-wei-shu-b/
 
+
 def median_of_two_sorted_arrays(nums1, nums2):
     m, n = len(nums1), len(nums2)
     if m > n:

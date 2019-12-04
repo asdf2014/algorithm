@@ -5,7 +5,7 @@
 def zigzag_conversion(s, num_rows):
     if num_rows == 1 or num_rows >= len(s):
         return s
-    res = [''] * num_rows
+    res = [""] * num_rows
     index, step = 0, 1
 
     for c in s:
@@ -16,7 +16,7 @@ def zigzag_conversion(s, num_rows):
             step = -1
         index += step
 
-    return ''.join(res)
+    return "".join(res)
 
 
 assert zigzag_conversion("", 0) == ""

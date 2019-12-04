@@ -11,7 +11,7 @@
 def zigzag_conversion(s, num_rows):
     s_len = len(s)
     if s_len == 0 or num_rows <= 0:
-        return ''
+        return ""
     if s_len < 3 or num_rows == 1:
         return s
     middle_num = num_rows - 2
@@ -22,7 +22,7 @@ def zigzag_conversion(s, num_rows):
         x_total += 1
     elif remain > num_rows:
         x_total += remain - num_rows + 1
-    arr = [['' for _ in range(x_total)] for _ in range(num_rows)]
+    arr = [["" for _ in range(x_total)] for _ in range(num_rows)]
     count = 0
     for c in s:
         cycle_times = count // cycle_num
@@ -30,9 +30,11 @@ def zigzag_conversion(s, num_rows):
         if remain < num_rows:
             arr[remain][cycle_times * (middle_num + 1)] = c
         else:
-            arr[num_rows - (remain - (num_rows - 1)) - 1][cycle_times * (middle_num + 1) + remain - num_rows + 1] = c
+            arr[num_rows - (remain - (num_rows - 1)) - 1][
+                cycle_times * (middle_num + 1) + remain - num_rows + 1
+            ] = c
         count += 1
-    return ''.join(str(x) for inner_arr in arr for x in inner_arr)
+    return "".join(str(x) for inner_arr in arr for x in inner_arr)
 
 
 assert zigzag_conversion("", 0) == ""
