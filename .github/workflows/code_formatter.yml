@@ -1,0 +1,36 @@
+name: Code Formatter
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  run:
+    name: Code Formatter
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v1
+
+    - name: Setup python
+      uses: actions/setup-python@v1.1.1
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+
+    - name: Black Code Formatter
+      uses: lgeiger/black-action@master
+      with:
+        args: "."
+
+    - name: Commit changes for code formatter
+      uses: EndBug/add-and-commit@v2.1.0
+      with:
+        author_name: asdf2014
+        author_email: asdf2014@apache.org
+        message: "Code Formatter"
+        path: "."
+        pattern: "*.py"
+        force: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

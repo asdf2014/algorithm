@@ -35,6 +35,7 @@ def median_of_two_sorted_arrays(nums1, nums2):
         return nums[middle]
 
 
+assert median_of_two_sorted_arrays([1], []) == 1.0
 assert median_of_two_sorted_arrays([1, 3], []) == 2.0
 assert median_of_two_sorted_arrays([1, 3], [2]) == 2.0
 assert median_of_two_sorted_arrays([1, 2], [3, 4]) == 2.5

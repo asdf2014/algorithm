@@ -1,13 +1,13 @@
 # https://leetcode.com/problems/string-to-integer-atoi/
 import re
 
-patten = '^(([+|-]\\d+)|\\d+)'
+patten = "^(([+|-]\\d+)|\\d+)"
 
 
 def string_to_integer_atoi(s):
     match = re.search(patten, s.strip())
     res = int(match.group()) if match else 0
-    return max(min(res, 2 ** 31 - 1), -2 ** 31)
+    return max(min(res, 2 ** 31 - 1), -(2 ** 31))
 
 
 assert string_to_integer_atoi("42") == 42

@@ -24,7 +24,10 @@ class Solution:
                 continue
             if step == 2 and self.ok_child([bin_data[i + 1]]) and i + 1 < len(bin_data):
                 i += step
-            elif self.ok_child(bin_data[i + 1:i + step]) and i + step < len(bin_data) + 1:
+            elif (
+                self.ok_child(bin_data[i + 1 : i + step])
+                and i + step < len(bin_data) + 1
+            ):
                 i += step
             else:
                 return False
@@ -35,13 +38,13 @@ class Solution:
         """
             判断是几个字节的二进制字符
         """
-        if s[0] == '0':
+        if s[0] == "0":
             return 1
-        elif s[:3] == '110':
+        elif s[:3] == "110":
             return 2
-        elif s[:4] == '1110':
+        elif s[:4] == "1110":
             return 3
-        elif s[:5] == '11110':
+        elif s[:5] == "11110":
             return 4
         else:
             return 0
@@ -49,7 +52,7 @@ class Solution:
     @staticmethod
     def ok_child(s):
         for i in s:
-            if i[:2] != '10':
+            if i[:2] != "10":
                 return False
         return True
 
@@ -58,10 +61,10 @@ class Solution:
         """
             转换为二进制字符串数组
         """
-        return ['%08d' % int(bin(_).replace('0b', '')) for _ in l]
+        return ["%08d" % int(bin(_).replace("0b", "")) for _ in l]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     s = Solution()
     assert s.validUtf8([197, 130, 1]) is True
     assert s.validUtf8([235, 140, 4]) is False

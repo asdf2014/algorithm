@@ -26,12 +26,12 @@
 
 ### 报名途径
 
-　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时参与
+　只需要在《[Algorithm](https://github.com/asdf2014/gitment/issues/40)》文末留言，即可随时参与
 
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 Collaborator 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 MR 参与进来）
+　每位参与的小伙伴，都会获得代码仓库的 [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 Pull Request 参与进来）
 
 ```bash
 # 一键完成您的第一次代码提交
@@ -59,10 +59,10 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | User | Completed |
 | :--: | :-------: |
 | **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
-| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 28 |
+| **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 29 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 23 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 20 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
@@ -73,27 +73,30 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou)** | 2019-11-26 23:31:25 |
-| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 2019-11-24 20:12:33 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-11-24 18:14:39 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-11-24 14:09:03 |
-| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2019-11-22 12:28:20 |
-| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-11-21 10:42:28 |
-| [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2019-11-12 18:59:52 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-11-11 04:52:45 |
-| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-11-05 16:30:48 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-11-03 23:08:06 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-04 21:58:53 |
+| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2019-12-04 12:22:18 |
+| **[P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr)** | 2019-12-04 12:22:18 |
+| [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-04 12:22:18 |
+| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-12-04 12:22:18 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 12:22:18 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-12-04 12:22:18 |
+| [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-12-04 12:22:18 |
+| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-12-04 12:22:18 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-12-04 12:22:18 |
 
 排行榜的更新会在提交后自动执行。我们每月做一次汇总，每月最佳可以永久记录在项目中。
 
 <br/>
 
-## Q & A
-
-### 初衷
+## 初衷
 
 　说实话 这纯属公益项目，只是召集大家一起刷题，一起交流。对我而言，顶多就是锻炼一下我的运营能力。
- 想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+
+## 鸣谢
+
+[![](https://opencollective.com/algorithm/contributors.svg?width=666)](https://github.com/asdf2014/algorithm/graphs/contributors)
+
 
 ---
 

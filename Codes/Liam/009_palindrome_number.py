@@ -1,7 +1,8 @@
-#执行用时 : 52 ms
-#内存消耗 : 11.7 MB
+# 执行用时 : 52 ms
+# 内存消耗 : 11.7 MB
 
-#方案：逆序 对照
+# 方案：逆序 对照
+
 
 class Solution(object):
     def isPalindrome(self, x):

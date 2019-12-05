@@ -1,13 +1,14 @@
-#执行用时 : 48 ms
-#内存消耗 : 11.8 MB
+# 执行用时 : 48 ms
+# 内存消耗 : 11.8 MB
 
-#方案：按位相加 引入(额外链表、carried变量) 额外链表记录位置结果 carried变量记录当前是否溢出
+# 方案：按位相加 引入(额外链表、carried变量) 额外链表记录位置结果 carried变量记录当前是否溢出
 
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
@@ -17,7 +18,7 @@ class Solution(object):
         :rtype: ListNode
         """
         carried = 0
-        # dummy head 
+        # dummy head
         dummy_head = cur = ListNode(-1)
         # 只要有一个链表非空 就进入计算
         while l1 or l2:
@@ -38,6 +39,6 @@ class Solution(object):
             # carried 加和大于10 溢出的话 carried变成1
             carried = val / 10
         # 遍历完成之后 carried 若有溢出，给cur补位
-        if carried > 0 :
+        if carried > 0:
             cur.next = ListNode(carried)
         return dummy_head.next

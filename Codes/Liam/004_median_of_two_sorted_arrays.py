@@ -1,7 +1,8 @@
-#执行用时 : 92 ms
-#内存消耗 : 12.1 MB
+# 执行用时 : 92 ms
+# 内存消耗 : 12.1 MB
 
-#方案：借助自带的sorted()函数
+# 方案：借助自带的sorted()函数
+
 
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
@@ -14,6 +15,6 @@ class Solution(object):
         middle = len(merged) // 2
 
         if len(merged) % 2 == 0:
-            return float(merged[middle-1]+merged[middle])/2
+            return float(merged[middle - 1] + merged[middle]) / 2
         else:
-            return sorted(merged)[len(merged)//2]
+            return sorted(merged)[len(merged) // 2]

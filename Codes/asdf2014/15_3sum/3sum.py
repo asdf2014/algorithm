@@ -11,7 +11,7 @@ def sum3(nums):
         if k >= 1 and v == nums[k - 1]:
             continue
         cache = {}
-        for n in nums[k + 1:]:
+        for n in nums[k + 1 :]:
             if n not in cache:
                 cache[-v - n] = 1
             else:

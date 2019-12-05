@@ -19,17 +19,19 @@ class Node:
 
         res = []
         while n:
-            res.append({
-                'val': n.val,
-                'next': n.next and n.next.val or None,
-                'random': n.random and n.random.val or None,
-            })
+            res.append(
+                {
+                    "val": n.val,
+                    "next": n.next and n.next.val or None,
+                    "random": n.random and n.random.val or None,
+                }
+            )
             n = n.next
         return str(res)
 
 
 class Solution:
-    def copyRandomList(self, head: 'Node') -> 'Node':
+    def copyRandomList(self, head: "Node") -> "Node":
         """
             92 ms, 16 MB
             第一次做链表的题，由于不太直观打印链表的值，重写__str__的时候把其存在数组里
@@ -60,21 +62,21 @@ class Solution:
         n = head
         while n:
             hashMap[n] = {
-                'val': n.val,
-                'next': n.next or None,
-                'random': n.random or None,
-                'newNode': Node(n.val, None, None)
+                "val": n.val,
+                "next": n.next or None,
+                "random": n.random or None,
+                "newNode": Node(n.val, None, None),
             }
             n = n.next
 
         for n, v in hashMap.items():
-            v['newNode'].next = hashMap[n.next]['newNode'] if n.next else None
-            v['newNode'].random = hashMap[n.random]['newNode'] if n.random else None
+            v["newNode"].next = hashMap[n.next]["newNode"] if n.next else None
+            v["newNode"].random = hashMap[n.random]["newNode"] if n.random else None
 
-        return hashMap[head]['newNode']
+        return hashMap[head]["newNode"]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     n2 = Node(2, None, None)
     n2.random = n2
     n1 = Node(1, n2, n2)

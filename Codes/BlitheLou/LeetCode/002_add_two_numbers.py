@@ -1,4 +1,4 @@
-'''
+"""
 1. 两数相加
 
 给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照
@@ -13,8 +13,8 @@
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/add-two-numbers
-'''
-'''
+"""
+"""
 方式一：
 由于 输入：(2 -> 4 -> 3) 表示整数 342.
 这里链表是逆序存储的，我们可以利用先进后出的栈结构，来存取一遍。
@@ -51,15 +51,15 @@
 
 另外也可以递归求解。
 
-'''
+"""
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-class Solution:
 
+class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         result_list_node: ListNode = ListNode(0)
         tmp: ListNode = result_list_node
@@ -81,4 +81,3 @@ class Solution:
             l2 = l2.next if l2 else l2
 
         return result_list_node.next
-
