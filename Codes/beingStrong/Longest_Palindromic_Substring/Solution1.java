@@ -3,6 +3,7 @@
 状态转移方程为dp[i][j]=(s[i]==s[j])&&(dp[i+1][j-1]);
 这里如果j-i-1>1才需要后面的dp[i+1][j-1]的判断，如果这两个里面只有一个字符或者没有字符，直接只需要判断前半部分就好了也就是j-i<=2时不需要做判断
 */
+
 class Solution {
     public String longestPalindrome(String s) {
         int n=s.length();
