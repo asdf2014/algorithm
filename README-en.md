@@ -91,4 +91,4 @@ Updates to the leaderboards are automatically executed after submission. We do a
 
 ---
 
-For more details, see "[Algorithm](https://yuzhouwan.com/posts/666/)"
+For more details, see "[Algorithm](https://yuzhouwan.com/posts/666/)". In addition, if you encounter problems related to Git, please refer to "[Git](https://yuzhouwan.com/posts/30041/)".

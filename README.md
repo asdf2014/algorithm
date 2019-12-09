@@ -99,4 +99,4 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 ---
 
 
-更多内容，详见《[Algorithm](https://yuzhouwan.com/posts/666/)》
+更多内容，详见《[Algorithm](https://yuzhouwan.com/posts/666/)》。另外，如果遇到 Git 操作相关的问题，详见《[Git 高级玩法](https://yuzhouwan.com/posts/30041/)》。
