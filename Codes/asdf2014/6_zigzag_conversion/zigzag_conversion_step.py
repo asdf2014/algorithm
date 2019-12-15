@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/zigzag-conversion/
 
 
-# 理解为 x, y 轴两个方向上爬格子，某一个方向上达到 num_rows 步数上限之后，则换一个方向继续爬格子，以此类推
+# 理解为 x, y 轴两个方向上爬格子，某一个方向上达到步数上限(num_rows)之后，则换一个方向继续爬格子，以此类推
 def zigzag_conversion(s, num_rows):
     if num_rows == 1 or num_rows >= len(s):
         return s
