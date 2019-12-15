@@ -34,8 +34,8 @@ jobs:
           author_name: asdf2014
           author_email: asdf2014@apache.org
           message: "Code Formatter & Update Leaderboard"
-          path: "."
-          pattern: "*.md,*.py"
+          path: "README.md README-en.md Codes"
+          pattern: "*.*"
           force: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
