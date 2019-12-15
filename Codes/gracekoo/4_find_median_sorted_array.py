@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2019/12/4 12:14 上午 
+# @Time: 2019/12/4 12:14 上午
 # @Author: GraceKoo
 # @File: 4_find_median_sorted_array.py
 # @Desc:
@@ -14,7 +14,10 @@ class Solution:
         if k == 1:
             return self.find_k(nums1, nums2, (m + n) // 2)
         else:
-            return (self.find_k(nums1, nums2, (m + n) // 2 - 1) + self.find_k(nums1, nums2, (m + n) // 2)) / 2
+            return (
+                self.find_k(nums1, nums2, (m + n) // 2 - 1)
+                + self.find_k(nums1, nums2, (m + n) // 2)
+            ) / 2
 
     def find_k(self, nums1, nums2, k):
         if not nums1:
@@ -27,9 +30,9 @@ class Solution:
         # print(i, j, k)
         if k > i + j:
             if nums1[i] > nums2[j]:
-                return self.find_k(nums1, nums2[j + 1:], k - j - 1)
+                return self.find_k(nums1, nums2[j + 1 :], k - j - 1)
             else:
-                return self.find_k(nums1[i + 1:], nums2, k - i - 1)
+                return self.find_k(nums1[i + 1 :], nums2, k - i - 1)
         else:
             if nums1[i] > nums2[j]:
                 return self.find_k(nums1[:i], nums2, k)
