@@ -82,7 +82,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-12-04 12:22:18 |
 | [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-12-04 12:22:18 |
 
-排行榜的更新会在提交后自动执行。我们每月做一次汇总，每月最佳可以永久记录在项目中。
+排行榜的更新会在提交后自动执行。
 
 <br/>
 
