@@ -23,31 +23,19 @@ jobs:
         with:
           args: "."
 
-      - name: Commit changes for code formatter
-        uses: EndBug/add-and-commit@v2.1.0
-        with:
-          author_name: asdf2014
-          author_email: asdf2014@apache.org
-          message: "Code Formatter"
-          path: "."
-          pattern: "*.py"
-          force: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Install dependencies
+      - name: Install dependencies and Update Leaderboard
         run: |
           python -m pip install pytz
           python top.py
 
-      - name: Commit changes for updating leaderboard
+      - name: Commit changes
         uses: EndBug/add-and-commit@v2.1.0
         with:
           author_name: asdf2014
           author_email: asdf2014@apache.org
-          message: "Update Leaderboard"
+          message: "Code Formatter & Update Leaderboard"
           path: "."
-          pattern: "README*.md"
+          pattern: "*"
           force: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
