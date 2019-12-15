@@ -35,7 +35,7 @@ jobs:
           author_email: asdf2014@apache.org
           message: "Code Formatter & Update Leaderboard"
           path: "."
-          pattern: "*.*"
+          pattern: "*.(md|py)"
           force: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
