@@ -3,8 +3,8 @@
 
 # 从 nums 中找到两个数，满足两数之和为 target
 def two_sum(nums, target):
-    nums_len = len(nums)
-    if nums_len < 1:
+    nums_len = len(nums) 
+    if nums_len < 1: 
         return False
     cache = {}
     for i in range(nums_len):
