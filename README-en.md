@@ -77,7 +77,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2019-12-04 04:22:18 |
 | [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-12-04 04:22:18 |
 
-Updates to the leaderboards are automatically executed after submission. We do a summary once a month, and the best monthly can be permanently recorded in the project.
+Updates to the leaderboards are automatically executed after submission.
 
 <br/>
 
