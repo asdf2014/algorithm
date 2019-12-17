@@ -43,7 +43,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 　It is divided into two phases:
 
 * The first 100 questions are classics in the classics, so we first thoroughly read these questions in the first stage.
-* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see.
+* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#检索) to see.
 
 ## TopN
 
@@ -66,10 +66,10 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2019-12-16 07:13:03 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-17 05:22:45 |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2019-12-16 08:02:14 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-15 15:56:24 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2019-12-15 15:54:33 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-12-15 14:09:18 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2019-12-15 15:54:33 |
 | [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-14 01:45:06 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 04:22:18 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-12-04 04:22:18 |

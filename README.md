@@ -46,7 +46,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 　分为两个阶段：
 * 前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透
-* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Leetcode%20Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#检索)看到
+* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#检索)看到
 
 <br/>
 
@@ -71,10 +71,10 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2019-12-16 15:13:03 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-17 13:22:45 |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2019-12-16 16:02:14 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-15 23:56:24 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2019-12-15 23:54:33 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2019-12-15 22:09:18 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2019-12-15 23:54:33 |
 | [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-14 09:45:06 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 12:22:18 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-12-04 12:22:18 |
