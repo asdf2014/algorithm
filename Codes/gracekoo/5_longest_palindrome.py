@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2019/12/17 9:07 上午 
+# @Time: 2019/12/17 9:07 上午
 # @Author: GraceKoo
 # @File: 5_longest_palindrome.py
 # @Desc:
@@ -16,16 +16,17 @@ class Solution:
                 if j - i <= 1:
                     if s[i] == s[j]:
                         matrics[i][j] = 1
-                        if longestLen < j-i+1:
-                            longestLen = j-i+1
-                            longest_str = s[i:j+1]
+                        if longestLen < j - i + 1:
+                            longestLen = j - i + 1
+                            longest_str = s[i : j + 1]
                 else:
-                    if s[i] == s[j] and matrics[i+1][j-1]:
+                    if s[i] == s[j] and matrics[i + 1][j - 1]:
                         matrics[i][j] = 1
-                        if longestLen < j-i+1:
-                            longestLen = j-i+1
-                            longest_str = s[i:j+1]
+                        if longestLen < j - i + 1:
+                            longestLen = j - i + 1
+                            longest_str = s[i : j + 1]
         return longest_str
+
 
 s = "abccba"
 so = Solution()
