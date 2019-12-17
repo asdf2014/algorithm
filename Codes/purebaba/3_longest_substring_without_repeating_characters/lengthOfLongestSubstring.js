@@ -2,6 +2,7 @@
 // 先找到所有字符串中的单字符元素
 // 循环截取原始字符串，并判断截取结果是否存在重复字符，若不重复则该字符串就是当前字符串中最无重复字符的最长子串
 // 性能太差，需要优化
+// 时间复杂度：O(n^3)
 let lengthOfLongestSubstring = function (s) {
     let all = s.split('');
     let elements = new Set(all);
@@ -18,7 +19,8 @@ let lengthOfLongestSubstring = function (s) {
     return 0;
 };
 
-//和1一样，都是暴利搜索，性能较差
+// 和1一样，都是暴利搜索，性能较差
+// 时间复杂度：O(n^3)
 let lengthOfLongestSubstring_1 = function (s) {
     let all = s.split('');
     let elements = new Set(all);
@@ -67,7 +69,8 @@ let isRepeat = function isRepeat(s) {
 };
 
 
-//滑动窗口
+// 滑动窗口
+// 时间复杂度：O(2n)
 let lengthOfLongestSubstring_3 = function (s) {
     let l = s.length;
     let max_len = 0;
