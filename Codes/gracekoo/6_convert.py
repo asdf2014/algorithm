@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2019/12/18 11:52 下午 
+# @Time: 2019/12/18 11:52 下午
 # @Author: GraceKoo
 # @File: 6_convert.py
 # @Desc:
@@ -17,12 +17,13 @@ class Solution:
                 if i < len(s):
                     outstr[j] += s[i]
                     i += 1
-            for j in range(numRows-2, 0, -1):
+            for j in range(numRows - 2, 0, -1):
                 if i < len(s):
                     outstr[j] += s[i]
                     i += 1
         outstr = "".join(outstr)
         return outstr
+
 
 s = "ABCDE"
 so = Solution()
