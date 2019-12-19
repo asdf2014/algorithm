@@ -62,7 +62,7 @@ def letters(n):
     elif n == 1:
         return []
     elif n <= 6:
-        return chars[(n - 2) * 3: (n - 1) * 3]
+        return chars[(n - 2) * 3 : (n - 1) * 3]
     elif n == 7:
         return chars[15:19]
     elif n == 8:

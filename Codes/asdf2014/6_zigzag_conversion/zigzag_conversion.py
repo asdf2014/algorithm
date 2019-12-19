@@ -64,7 +64,7 @@ def zigzag_conversion(s, num_rows):
         else:
             arr[num_rows - (remain - (num_rows - 1)) - 1][
                 cycle_times * (middle_num + 1) + remain - num_rows + 1
-                ] = c
+            ] = c
         count += 1
     return "".join(str(x) for inner_arr in arr for x in inner_arr)
 
