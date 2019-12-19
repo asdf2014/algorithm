@@ -57,8 +57,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 25 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 7 |
 
@@ -66,16 +66,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-18 16:14:33 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-19 05:36:02 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-18 16:10:30 |
 | **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2019-12-17 10:07:20 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2019-12-15 15:54:33 |
 | [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-14 01:45:06 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 04:22:18 |
-| [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 2019-12-04 04:22:18 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-12-04 04:22:18 |
-| [BlitheLou](https://github.com/asdf2014/algorithm/tree/master/Codes/BlitheLou) | 2019-12-04 04:22:18 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-12-04 04:22:18 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-12-04 04:22:18 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-12-04 04:22:18 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 04:22:18 |
 
 Updates to the leaderboards are automatically executed after submission.
 

@@ -13,9 +13,10 @@ class Solution:
         len_x = len(str(x))
         reverse_x = ""
         for i in range(0, len_x):
-            middle_x = (x % pow(10, i+1)) // pow(10, i)
+            middle_x = (x % pow(10, i + 1)) // pow(10, i)
             reverse_x = reverse_x + str(middle_x)
         return reverse_x
+
 
 s = 123456789
 so = Solution()
