@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class Solution1 {
 
     public int reverse(int x) {
         //声明一个保存结果的res
