@@ -1,5 +1,20 @@
 # https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+# Given a string containing digits from 2-9 inclusive,
+# return all possible letter combinations that the number could represent.
+#
+# A mapping of digit to letters (just like on the telephone buttons) is given below.
+# Note that 1 does not map to any letters.
+#
+# Example:
+# Input: "23"
+# Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+#
+# Note:
+# Although the above answer is in lexicographical order, your answer could be in any order you want.
+#
+# Related Topics String Backtracking
+
 
 chars = [
     "a",
@@ -47,7 +62,7 @@ def letters(n):
     elif n == 1:
         return []
     elif n <= 6:
-        return chars[(n - 2) * 3 : (n - 1) * 3]
+        return chars[(n - 2) * 3: (n - 1) * 3]
     elif n == 7:
         return chars[15:19]
     elif n == 8:
