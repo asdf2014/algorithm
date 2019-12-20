@@ -17,8 +17,8 @@ class Solution:
                 number = int(number[0])
                 if number < -pow(2, 31):
                     return int(-pow(2, 31))
-                elif number > pow(2, 31)-1:
-                    return int(pow(2, 31)-1)
+                elif number > pow(2, 31) - 1:
+                    return int(pow(2, 31) - 1)
                 return number
         return 0
 
