@@ -59,14 +59,14 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 9 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 8 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 8 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-20 06:08:13 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-20 16:06:19 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-19 16:14:05 |
 | **[beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong)** | 2019-12-19 13:09:04 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2019-12-17 10:07:20 |
