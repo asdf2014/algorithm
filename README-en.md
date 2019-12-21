@@ -83,7 +83,7 @@ Updates to the leaderboards are automatically executed after submission.
 
 ## Original intention
 
-　To be honest, this is purely a public welfare project. It is just to convene everyone to brush up and communicate together. For me, at most, it is to exercise my operational ability. I have thought about the worst situation, that is, at the end, I am alone, silently brushing the questions and asking for the code inside. :sweat_smile:
+　To be honest, this is purely a public welfare project. It is just to convene everyone to brush up and communicate together. For me, at most, it is to exercise my operational ability. I have thought about the worst situation, that is, at the end, I am alone, silently brushing the questions and submit the code to the repository. :sweat_smile:
 
 ## Thanks
 
