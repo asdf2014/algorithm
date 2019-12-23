@@ -9,7 +9,7 @@ class Solution:
     def maxArea(self, height) -> int:
         if not height:
             return 0
-        i, j = 0, len(height)-1
+        i, j = 0, len(height) - 1
         max_size = 0
         while i < j:
             if height[i] < height[j]:
