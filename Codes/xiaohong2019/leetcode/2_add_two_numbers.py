@@ -112,7 +112,6 @@ if __name__ == "__main__":
                 node = node.next
         return head
 
-
     # 链表转数组
     def make_arr(node: ListNode):
         arr = []
@@ -121,8 +120,13 @@ if __name__ == "__main__":
             node = node.next
         return arr
 
-
     solution = Solution()
-    assert make_arr(solution.addTwoNumbers(build_node([2, 4, 3]), build_node([5, 6, 4]))) == [7, 0, 8]
-    assert make_arr(solution.addTwoNumbers(build_node([2, 4]), build_node([5, 6, 4]))) == [7, 0, 5]
-    assert make_arr(solution.addTwoNumbers(build_node([2, 4]), build_node([5, 6, 9, 9, 9]))) == [7, 0, 0, 0, 0, 1]
+    assert make_arr(
+        solution.addTwoNumbers(build_node([2, 4, 3]), build_node([5, 6, 4]))
+    ) == [7, 0, 8]
+    assert make_arr(
+        solution.addTwoNumbers(build_node([2, 4]), build_node([5, 6, 4]))
+    ) == [7, 0, 5]
+    assert make_arr(
+        solution.addTwoNumbers(build_node([2, 4]), build_node([5, 6, 9, 9, 9]))
+    ) == [7, 0, 0, 0, 0, 1]
