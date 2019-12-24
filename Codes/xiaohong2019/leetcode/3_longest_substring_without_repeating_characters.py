@@ -77,12 +77,12 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    assert solution.lengthOfLongestSubstring('abcabcbb') == 3
-    assert solution.lengthOfLongestSubstring('bbbbb') == 1
-    assert solution.lengthOfLongestSubstring('pwwkew') == 3
-    assert solution.lengthOfLongestSubstring('') == 0
-    assert solution.lengthOfLongestSubstring('p') == 1
-    assert solution.lengthOfLongestSubstring('pp') == 1
-    assert solution.lengthOfLongestSubstring('ppp') == 1
-    assert solution.lengthOfLongestSubstring('pppz') == 2
-    assert solution.lengthOfLongestSubstring('zppp') == 2
+    assert solution.lengthOfLongestSubstring("abcabcbb") == 3
+    assert solution.lengthOfLongestSubstring("bbbbb") == 1
+    assert solution.lengthOfLongestSubstring("pwwkew") == 3
+    assert solution.lengthOfLongestSubstring("") == 0
+    assert solution.lengthOfLongestSubstring("p") == 1
+    assert solution.lengthOfLongestSubstring("pp") == 1
+    assert solution.lengthOfLongestSubstring("ppp") == 1
+    assert solution.lengthOfLongestSubstring("pppz") == 2
+    assert solution.lengthOfLongestSubstring("zppp") == 2
