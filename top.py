@@ -1,5 +1,7 @@
 import datetime
 import os
+import xml.dom.minidom
+import xml.etree.ElementTree as Et
 
 import pytz
 
@@ -99,5 +101,29 @@ def user_url(k):
     return "[%s](https://github.com/asdf2014/algorithm/tree/master/Codes/%s)" % (k, k)
 
 
+def expand_dict():
+    global user
+    all_words = set(active.keys())
+    dict_xml = Et.parse('.idea/dictionaries/yuzhouwan.xml')
+    words = dict_xml.getroot().findall('dictionary/words/w')
+    for word in words:
+        all_words.add(word.text)
+    all_words = sorted(all_words)
+    component = Et.Element('component')
+    component.set("name", "ProjectDictionaryState")
+    dictionary = Et.SubElement(component, 'dictionary')
+    dictionary.set("name", "yuzhouwan")
+    words = Et.SubElement(dictionary, 'words')
+    for user in all_words:
+        Et.SubElement(words, 'w').text = user
+    data = Et.tostring(component).decode("utf-8")
+    with open(".idea/dictionaries/yuzhouwan.xml", "w") as dict_xml:
+        dict_xml.write(xml.dom.minidom.parseString(data).toprettyxml())
+
+
+# expand the names of all contributors into the dictionary
+expand_dict()
+
+# flush README
 flush_readme("README.md", True)
 flush_readme("README-en.md", False)
