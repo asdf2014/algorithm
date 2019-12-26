@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2019/12/26 11:53 下午 
+# @Time: 2019/12/26 11:53 下午
 # @Author: GraceKoo
 # @File: 20_valid-parentheses.py
 # @Desc:
@@ -19,4 +19,3 @@ class Solution:
 
 so = Solution()
 print(so.isValid("()[]{}"))
-
