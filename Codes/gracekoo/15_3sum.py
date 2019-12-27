@@ -15,7 +15,7 @@ class Solution:
         for i in range(0, n):
             if nums[i] > 0:
                 return output
-            if i > 0 and nums[i] == nums[i-1]:
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
             left = i + 1
             right = n - 1
@@ -37,4 +37,3 @@ class Solution:
 
 so = Solution()
 print(so.threeSum([-1, 0, 1, 2, -1, -4]))
-
