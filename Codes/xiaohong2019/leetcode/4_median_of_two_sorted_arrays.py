@@ -97,7 +97,9 @@ class Solution(object):
             # 取中间值比较淘汰
             do_discard_nums1 = True
             mid = k // 2 - 1
-            if index1 + mid >= len(nums1) or (index2 + mid < len(nums2) and nums1[index1 + mid] > nums2[index2 + mid]):
+            if index1 + mid >= len(nums1) or (
+                index2 + mid < len(nums2) and nums1[index1 + mid] > nums2[index2 + mid]
+            ):
                 do_discard_nums1 = False
             mid += 1
             if do_discard_nums1:
@@ -106,7 +108,10 @@ class Solution(object):
             else:
                 return find_kth(nums1, nums2, index1, index2 + mid, k - mid)
 
-        return (find_kth(nums1, nums2, 0, 0, (m + n + 1) // 2) + find_kth(nums1, nums2, 0, 0, (m + n + 2) // 2)) / 2.0
+        return (
+            find_kth(nums1, nums2, 0, 0, (m + n + 1) // 2)
+            + find_kth(nums1, nums2, 0, 0, (m + n + 2) // 2)
+        ) / 2.0
 
 
 if __name__ == "__main__":
