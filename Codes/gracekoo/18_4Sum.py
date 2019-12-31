@@ -34,7 +34,7 @@ class Solution:
                         # 去重
                         while middle != right and nums[middle] == nums[middle - 1]:
                             middle += 1
-                    elif sum_value > target:
+                    else:
                         right -= 1
                         # 去重
                         while middle != right and nums[right] == nums[right + 1]:
