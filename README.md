@@ -71,7 +71,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2019-12-31 14:27:06 |
+| **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2019-12-31 14:46:58 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-30 23:57:15 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2019-12-30 14:36:02 |
 | [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-28 15:01:10 |
