@@ -26,6 +26,7 @@ jobs:
       - name: Install dependencies and Update Leaderboard
         run: |
           python -m pip install pytz
+          python -m pip install wordsegment
           python top.py
 
       - name: Commit changes
