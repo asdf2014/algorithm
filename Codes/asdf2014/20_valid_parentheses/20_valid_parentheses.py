@@ -51,13 +51,13 @@ def valid_parentheses(s: str) -> bool:
 # normal
 assert valid_parentheses("()")
 assert valid_parentheses("()[]{}")
-assert not valid_parentheses("(]")
-assert not valid_parentheses("([)]")
 assert valid_parentheses("{[]}")
-assert not valid_parentheses("((")
-assert not valid_parentheses("){")
 # abnormal
 assert not valid_parentheses("")
 assert not valid_parentheses("  ")
 assert not valid_parentheses("(?")
+assert not valid_parentheses("(]")
+assert not valid_parentheses("((")
+assert not valid_parentheses("){")
 assert not valid_parentheses("())")
+assert not valid_parentheses("([)]")
