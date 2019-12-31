@@ -1,9 +1,11 @@
 import datetime
 import os
+import re
 import xml.dom.minidom
 import xml.etree.ElementTree as Et
 
 import pytz
+from wordsegment import load, segment
 
 code_path = "Codes"
 users = os.listdir(code_path)
@@ -102,21 +104,33 @@ def user_url(k):
 
 
 def expand_dict():
-    global user
+    # init
     all_words = set(active.keys())
-    dict_xml = Et.parse('.idea/dictionaries/yuzhouwan.xml')
-    words = dict_xml.getroot().findall('dictionary/words/w')
-    for word in words:
-        all_words.add(word.text)
+    all_words.add("leetcode")
+    all_words.add("yuzhouwan")
+    # split
+    load()
+    for word in active.keys():
+        for seg in segment(word):
+            all_words.add(seg)
+        match = re.match(r"([a-z]+)([0-9]+)", word, re.I)
+        if match:
+            items = match.groups()
+            for item in items:
+                all_words.add(item)
     all_words = sorted(all_words)
+    # build
     component = Et.Element('component')
     component.set("name", "ProjectDictionaryState")
     dictionary = Et.SubElement(component, 'dictionary')
     dictionary.set("name", "yuzhouwan")
     words = Et.SubElement(dictionary, 'words')
-    for user in all_words:
-        Et.SubElement(words, 'w').text = user
+    for word in all_words:
+        if len(word) < 2:
+            continue
+        Et.SubElement(words, 'w').text = word
     data = Et.tostring(component).decode("utf-8")
+    # write
     with open(".idea/dictionaries/yuzhouwan.xml", "w") as dict_xml:
         dict_xml.write(xml.dom.minidom.parseString(data).toprettyxml())
 
