@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2019/12/31 12:11 下午 
+# @Time: 2019/12/31 12:11 下午
 # @Author: GraceKoo
 # @File: 19_remove-nth-node-from-end-of-list.py
 # @Desc: 通过同时向前移动两个间隔为n的指针，直到第一个指针到达最后一个节点。此时第二个指针将指向从最后一个节点数起的第n个节点
@@ -9,6 +9,7 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
+
 
 class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
