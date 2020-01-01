@@ -61,7 +61,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 27 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 26 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 20 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 21 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
@@ -71,8 +71,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-01-01 21:38:17 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2020-01-01 04:14:46 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-01-01 01:09:47 |
 | **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2019-12-31 14:48:34 |
 | [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-28 15:01:10 |
 | [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-19 21:09:04 |

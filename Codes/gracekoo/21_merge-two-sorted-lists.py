@@ -28,4 +28,3 @@ class Solution:
         pre.next = l1 if l1 is not None else l2
 
         return head_pre.next
-
