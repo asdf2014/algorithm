@@ -7,11 +7,11 @@
 
 class Solution:
     def searchInsert(self, nums, target: int) -> int:
-        for i in range(0, len(nums)-1):
+        for i in range(0, len(nums) - 1):
             if nums[i] == target:
                 return i
-            elif nums[i] < target <= nums[i+1]:
-                return i+1
+            elif nums[i] < target <= nums[i + 1]:
+                return i + 1
             elif nums[i] > target:
                 return -1
         return len(nums)
