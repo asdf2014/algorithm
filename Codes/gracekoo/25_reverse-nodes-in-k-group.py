@@ -37,4 +37,3 @@ class Solution:
             pre, tail = head  # 指向上组移动的第一个节点
 
         return tmp_head.next
-
