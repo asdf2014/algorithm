@@ -11,12 +11,16 @@ class Solution:
         dividend, divisor = abs(dividend), abs(divisor)
         result = 0
         move_step = 0
+        # 移动除数直到比被除数大
         while divisor <= dividend:
             move_step += 1
             divisor <<= 1
+        # 移动move_step 次使得 len(divisor) > len(dividend),则 move_step-1 次使得 len(divisor) >  len(dividend)
         while move_step > 0:
             move_step -= 1
+            # 此时divisor比division大，应该向右移动一位
             divisor >>= 1
+            # 判断是否除尽
             if dividend >= divisor:
                 result += 1 << move_step
                 dividend -= divisor
