@@ -17,7 +17,7 @@ class Solution:
     def mergeKLists(self, lists) -> ListNode:
         # 使用优先队列(堆排序)存储每个list中的第一个节点，由优先队列返回优先级最高（值最低的元素）
         head_pre = p = ListNode(0)
-        prior_queue = PriorityQueue
+        prior_queue = PriorityQueue()
         for list_node in lists:
             if list_node:
                 prior_queue.put((list_node.val, list_node))
