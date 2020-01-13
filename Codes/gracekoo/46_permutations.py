@@ -12,7 +12,8 @@ class Solution:
                 output_list.append(num)
                 return
             for i in range(len(nums)):
-                backtrack(nums[:i] + nums[i+1:], num + [nums[i]])
+                backtrack(nums[:i] + nums[i + 1 :], num + [nums[i]])
+
         output_list = []
         backtrack(nums, [])
         return output_list
