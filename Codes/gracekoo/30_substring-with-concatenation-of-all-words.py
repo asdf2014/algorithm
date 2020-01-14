@@ -34,7 +34,7 @@ class Solution(object):
             c_n = 0
             # 切词
             while l_s - start >= l_w:
-                cut_list.append(s[start:start + l_w])
+                cut_list.append(s[start : start + l_w])
                 c_n += 1
                 start += l_w
 
@@ -43,7 +43,7 @@ class Solution(object):
                 count = 0
                 w_dic = {}
                 # 遍历查找，直到匹配完成
-                for w in cut_list[start_ind:start_ind + n]:
+                for w in cut_list[start_ind : start_ind + n]:
                     if w in word_dic.keys():
                         if w in w_dic.keys():
                             w_dic[w] += 1

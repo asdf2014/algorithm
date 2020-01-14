@@ -52,21 +52,21 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | User | Completed |
 | :--: | :-------: |
 | **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 32 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 33 |
 | **[lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg)** | 29 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 27 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 26 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 11 |
 | [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 9 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-01-13 15:43:55 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-01-14 15:44:48 |
 | **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2020-01-05 17:04:58 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2019-12-31 20:14:46 |
 | [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-28 07:01:10 |
@@ -74,8 +74,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2019-12-17 10:07:20 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2019-12-15 15:54:33 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2019-12-04 04:22:18 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2019-12-04 04:22:18 |
-| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2019-12-04 04:22:18 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2019-12-04 04:22:18 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 04:22:18 |
 
 Updates to the leaderboards are automatically executed after submission.
 
