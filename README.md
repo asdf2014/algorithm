@@ -24,7 +24,7 @@
 
 ### 报名途径
 
-　只需要在《[Algorithm](https://github.com/asdf2014/gitment/issues/40)》文末留言，即可随时参与
+　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时参与
 
 
 ### 参与方式
