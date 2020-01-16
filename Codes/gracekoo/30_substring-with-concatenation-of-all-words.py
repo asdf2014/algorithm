@@ -38,7 +38,7 @@ class Solution(object):
             cut_number = 0
             # 切词
             while s_len - start_index >= words_len:
-                s_cut_list.append(s[start_index:start_index + words_len])
+                s_cut_list.append(s[start_index : start_index + words_len])
                 cut_number += 1
                 start_index += words_len
 
@@ -49,7 +49,7 @@ class Solution(object):
                 count = 0
                 w_dic = {}
                 # 在s_cut_list中截取n个单词
-                for s_word in s_cut_list[start_cut_i:start_cut_i + words_number]:
+                for s_word in s_cut_list[start_cut_i : start_cut_i + words_number]:
                     if s_word in word_dic.keys():
                         if s_word in w_dic.keys():
                             w_dic[s_word] += 1
