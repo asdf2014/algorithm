@@ -37,17 +37,10 @@ class Solution(object):
             s_cut_list = []
             cut_number = 0
             # 切词
-<<<<<<< HEAD
-            while l_s - start >= l_w:
-                cut_list.append(s[start : start + l_w])
-                c_n += 1
-                start += l_w
-=======
             while s_len - start_index >= words_len:
                 s_cut_list.append(s[start_index:start_index + words_len])
                 cut_number += 1
                 start_index += words_len
->>>>>>> 708ddaf... fix bug of 30_substring-with-concatenation-of-all-words.py
 
             # 再对切割后的s进行判断，检验长度要求，个数要求
             start_cut_i = 0
@@ -55,21 +48,12 @@ class Solution(object):
                 # count记录当前已经匹配完成的个数
                 count = 0
                 w_dic = {}
-<<<<<<< HEAD
-                # 遍历查找，直到匹配完成
-                for w in cut_list[start_ind : start_ind + n]:
-                    if w in word_dic.keys():
-                        if w in w_dic.keys():
-                            w_dic[w] += 1
-                            if w_dic[w] > word_dic[w]:
-=======
                 # 在s_cut_list中截取n个单词
                 for s_word in s_cut_list[start_cut_i:start_cut_i + words_number]:
                     if s_word in word_dic.keys():
                         if s_word in w_dic.keys():
                             w_dic[s_word] += 1
                             if w_dic[s_word] > word_dic[s_word]:
->>>>>>> 708ddaf... fix bug of 30_substring-with-concatenation-of-all-words.py
                                 break
                             count += 1
                         else:
