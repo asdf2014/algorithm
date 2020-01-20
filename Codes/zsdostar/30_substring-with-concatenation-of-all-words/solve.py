@@ -35,4 +35,5 @@ if __name__ == "__main__":
     print(s.findSubstring("wordgoodgoodgoodbestword", ["word", "good", "best", "word"]))
     print(s.findSubstring("", []))
     print(s.findSubstring("wordgoodgoodgoodbestword", ["word", "good", "best", "good"]))
-    print(s.findSubstring("lingmindraboofooowingdingbarrwingmonkeypoundcake", ["fooo", "barr", "wing", "ding", "wing"]))
+    print(s.findSubstring("lingmindraboofooowingdingbarrwingmonkeypoundcake",
+                          ["fooo", "barr", "wing", "ding", "wing"]))
