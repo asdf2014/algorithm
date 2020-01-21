@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/1/21 12:58 下午 
+# @Time: 2020/1/21 12:58 下午
 # @Author: GraceKoo
 # @File: 32_longest-valid-parentheses.py
 # @Desc: https://leetcode-cn.com/problems/longest-valid-parentheses/
@@ -26,7 +26,7 @@ class Solution:
 
         # 反向搜索：即"("必须与")"相同
         left, right = 0, 0
-        for i in range(len(s)-1, -1, -1):
+        for i in range(len(s) - 1, -1, -1):
             if s[i] == "(":
                 left += 1
             else:
