@@ -2,7 +2,7 @@
 # @Time: 2020/1/19 12:18 下午
 # @Author: GraceKoo
 # @File: 31_next-permutation.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/next-permutation/
 
 
 class Solution:
