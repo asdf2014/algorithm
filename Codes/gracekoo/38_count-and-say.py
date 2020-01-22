@@ -22,5 +22,4 @@ class Solution:
         return prev_person
 
 
-so = Solution()
-print(so.countAndSay(3))
+print(Solution().countAndSay(3))
