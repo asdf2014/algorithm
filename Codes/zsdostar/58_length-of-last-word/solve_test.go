@@ -16,10 +16,10 @@ func TestLengthOfLastWord(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		in, esp := c[0].(string), c[1].(int)
+		in, expect := c[0].(string), c[1].(int)
 
-		if res := lengthOfLastWord(in); res != esp {
-			t.Errorf("function(%v): %v != %v", in, res, esp)
+		if res := lengthOfLastWord(in); res != expect {
+			t.Errorf("function(%v): %v != %v", in, res, expect)
 		}
 	}
 }
@@ -37,10 +37,10 @@ func TestLengthOfLastWord1(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		in, esp := c[0].(string), c[1].(int)
+		in, expect := c[0].(string), c[1].(int)
 
-		if res := lengthOfLastWord1(in); res != esp {
-			t.Errorf("function(%v): %v != %v", in, res, esp)
+		if res := lengthOfLastWord1(in); res != expect {
+			t.Errorf("function(%v): %v != %v", in, res, expect)
 		}
 	}
 }

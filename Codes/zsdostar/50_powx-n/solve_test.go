@@ -19,8 +19,8 @@ func TestMyPow(t *testing.T) {
 
 	for _, c := range cases {
 		x, n := c[0].(float64), c[1].(int)
-		if res, esp := myPow(x, n), math.Pow(x, float64(n)); res != esp {
-			t.Errorf("function(%v, %v): result(%v) != espect(%v)", x, n, res, esp)
+		if res, expect := myPow(x, n), math.Pow(x, float64(n)); res != expect {
+			t.Errorf("function(%v, %v): result(%v) != espect(%v)", x, n, res, expect)
 		}
 	}
 }
@@ -39,8 +39,8 @@ func TestMyPow1(t *testing.T) {
 
 	for _, c := range cases {
 		x, n := c[0].(float64), c[1].(int)
-		if res, esp := myPow1(x, n), math.Pow(x, float64(n)); res != esp {
-			t.Errorf("function(%v, %v): result(%v) != espect(%v)", x, n, res, esp)
+		if res, expect := myPow1(x, n), math.Pow(x, float64(n)); res != expect {
+			t.Errorf("function(%v, %v): result(%v) != espect(%v)", x, n, res, expect)
 		}
 	}
 }

@@ -8,10 +8,10 @@ func TestMaxSubArray(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		in, esp := c[0].([]int), c[1].(int)
+		in, expect := c[0].([]int), c[1].(int)
 
-		if res := maxSubArray(in); res != esp {
-			t.Errorf("function(%v): %v != %v", in, res, esp)
+		if res := maxSubArray(in); res != expect {
+			t.Errorf("function(%v): %v != %v", in, res, expect)
 		}
 	}
 }

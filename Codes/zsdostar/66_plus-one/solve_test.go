@@ -16,10 +16,10 @@ func TestPlusOne(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		in, esp := c[0], c[1]
+		in, expect := c[0], c[1]
 
-		if res := plusOne(in); !reflect.DeepEqual(res, esp) {
-			t.Errorf("function(%v): %v != %v", in, res, esp)
+		if res := plusOne(in); !reflect.DeepEqual(res, expect) {
+			t.Errorf("function(%v): %v != %v", in, res, expect)
 		}
 	}
 }
