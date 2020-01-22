@@ -9,7 +9,7 @@ type ListNode struct {
 }
 
 // MAXINT is the 32 bit max int.
-const MAXINT = 2147483647
+const MAXINT = (2 << 30) - 1
 
 func mergeKLists(lists []*ListNode) *ListNode {
 	head := &ListNode{}
@@ -39,20 +39,20 @@ func mergeKLists(lists []*ListNode) *ListNode {
 }
 func main() {
 	res := mergeKLists([]*ListNode{
-		&ListNode{1, &ListNode{4, &ListNode{5, nil}}},
-		&ListNode{1, &ListNode{3, &ListNode{4, nil}}},
-		&ListNode{2, &ListNode{6, nil}},
+		{1, &ListNode{4, &ListNode{5, nil}}},
+		{1, &ListNode{3, &ListNode{4, nil}}},
+		{2, &ListNode{6, nil}},
 	})
 	fmt.Println(res, res.Next, res.Next.Next, res.Next.Next.Next, res.Next.Next.Next.Next,
 		res.Next.Next.Next.Next.Next, res.Next.Next.Next.Next.Next.Next, res.Next.Next.Next.Next.Next.Next.Next,
 	)
 
 	fmt.Println(mergeKLists([]*ListNode{}))
-	fmt.Println(mergeKLists([]*ListNode{&ListNode{1, nil}, &ListNode{1, nil}}))
+	fmt.Println(mergeKLists([]*ListNode{{1, nil}, {1, nil}}))
 
 	res1 := mergeKLists([]*ListNode{
-		&ListNode{2, &ListNode{3, nil}},
-		&ListNode{1, nil},
+		{2, &ListNode{3, nil}},
+		{1, nil},
 	})
 	fmt.Println(res1, res1.Next, res1.Next.Next)
 }
