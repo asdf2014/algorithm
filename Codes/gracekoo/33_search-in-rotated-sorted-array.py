@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/2/1 4:43 下午 
+# @Time: 2020/2/1 4:43 下午
 # @Author: GraceKoo
 # @File: 33_search-in-rotated-sorted-array.py
 # @Desc: https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
@@ -9,7 +9,7 @@ class Solution:
     def search(self, nums, target: int) -> int:
         if not nums:
             return -1
-        left, right = 0, len(nums)-1
+        left, right = 0, len(nums) - 1
         while left <= right:
             mid = (left + right) // 2
             if nums[mid] == target:
