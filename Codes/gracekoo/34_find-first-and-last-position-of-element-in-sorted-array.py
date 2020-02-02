@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/2/2 11:18 上午 
+# @Time: 2020/2/2 11:18 上午
 # @Author: GraceKoo
 # @File: 34_find-first-and-last-position-of-element-in-sorted-array.py
 # @Desc: https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
