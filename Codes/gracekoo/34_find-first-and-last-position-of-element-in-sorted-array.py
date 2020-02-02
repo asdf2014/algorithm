@@ -17,9 +17,11 @@ class Solution:
         return left
 
     def searchRange(self, nums, target: int):
+        # 找到左边界
         left_index = self.find_left_right_index(nums, target, True)
         if left_index == len(nums) or nums[left_index] != target:
             return [-1, -1]
+        # 找到右边界
         return [left_index, self.find_left_right_index(nums, target, False) - 1]
 
 
