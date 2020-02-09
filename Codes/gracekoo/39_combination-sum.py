@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/2/9 11:55 上午 
+# @Time: 2020/2/9 11:55 上午
 # @Author: GraceKoo
 # @File: 39_combination-sum.py
 # @Desc: https://leetcode-cn.com/problems/combination-sum/solution/
@@ -32,7 +32,7 @@ class Solution:
             path.pop()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     candidates = [2, 3, 6, 7]
     target = 7
     solution = Solution()
