@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/2/10 2:57 下午 
+# @Time: 2020/2/10 2:57 下午
 # @Author: GraceKoo
 # @File: 40_combination-sum-ii.py
 # @Desc:
@@ -8,7 +8,6 @@ from typing import List
 
 
 class Solution:
-
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         if not candidates or not target:
             return []
@@ -32,11 +31,11 @@ class Solution:
             if index > begin and candidates[index - 1] == candidates[index]:
                 continue
             path.append(candidates[index])
-            self._dfs(candidates, index+1, size, path, output_list, residue)
+            self._dfs(candidates, index + 1, size, path, output_list, residue)
             path.pop()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     candidates = [2, 5, 2, 1, 2]
     target = 5
     solution = Solution()
