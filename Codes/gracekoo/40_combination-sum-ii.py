@@ -2,13 +2,14 @@
 # @Time: 2020/2/10 2:57 下午
 # @Author: GraceKoo
 # @File: 40_combination-sum-ii.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/combination-sum-ii/
 
 from typing import List
 
 
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         if not candidates or not target:
             return []
         candidates.sort()
@@ -39,5 +40,5 @@ if __name__ == "__main__":
     candidates = [2, 5, 2, 1, 2]
     target = 5
     solution = Solution()
-    result = solution.combinationSum(candidates, target)
+    result = solution.combinationSum2(candidates, target)
     print(result)
