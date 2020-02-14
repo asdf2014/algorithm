@@ -20,14 +20,14 @@ class Solution:
                 if height[left] >= left_max:
                     left_max = height[left]
                 else:
-                    result += (left_max - height[left])
+                    result += left_max - height[left]
                 left += 1
             # height[right] < height[right_max] < height[left]
             else:
                 if height[right] >= right_max:
                     right_max = height[right]
                 else:
-                    result += (right_max - height[right])
+                    result += right_max - height[right]
                 right -= 1
         return result
 
