@@ -7,7 +7,7 @@
 
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
-        if num1 == '0' or num2 == '0':
+        if num1 == "0" or num2 == "0":
             return 0
         return_sum = 0
         count = 0
@@ -28,4 +28,3 @@ class Solution:
 
 so = Solution()
 print(so.multiply("123", "456"))
-
