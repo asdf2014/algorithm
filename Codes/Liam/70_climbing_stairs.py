@@ -27,4 +27,10 @@ class Solution:
         # return fib[n]
         import math
 
-        return int((math.pow(((1+math.sqrt(5))/2),n+1) - math.pow((1-math.sqrt(5))/2,n+1))/math.sqrt(5))
+        return int(
+            (
+                math.pow(((1 + math.sqrt(5)) / 2), n + 1)
+                - math.pow((1 - math.sqrt(5)) / 2, n + 1)
+            )
+            / math.sqrt(5)
+        )
