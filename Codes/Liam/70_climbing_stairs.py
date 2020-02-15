@@ -3,6 +3,7 @@
 
 # 方案：斐波那契数列
 
+
 class Solution:
     def climbStairs(self, n: int) -> int:
         # if n == 1:
@@ -21,6 +22,6 @@ class Solution:
         elif n == 2:
             return fib[2]
         else:
-            for i in range(3, n+1):
-                fib.append(fib[i-1] + fib[i-2])
+            for i in range(3, n + 1):
+                fib.append(fib[i - 1] + fib[i - 2])
         return fib[n]
