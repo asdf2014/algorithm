@@ -1,4 +1,7 @@
-Liam 自然语言处理方向博士在读，缺少刷题经验，和大家一起学习！   欢迎Follow:   我的 [GitHub](https://www.github.com/alphadl) && [知乎](https://www.zhihu.com/people/alphadl)
+Liam 自然语言处理方向博士在读，缺刷题经验，和大家一起学习！   
+
+
+欢迎Follow:   我的 [GitHub](https://www.github.com/alphadl) && [知乎](https://www.zhihu.com/people/alphadl)
 
 - - -
 
