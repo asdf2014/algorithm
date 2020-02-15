@@ -1,4 +1,4 @@
-Liam(Univ. of Sydney)自然语言处理方向博士在读，缺刷题经验，和大家一起学习！   
+Liam [USYD](https://sydney.edu.au/)自然语言处理方向博士在读，缺刷题经验，和大家一起学习！   
 
 
 欢迎Follow:   我的 [GitHub](https://www.github.com/alphadl) && [知乎](https://www.zhihu.com/people/alphadl)
