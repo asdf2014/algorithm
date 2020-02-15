@@ -65,13 +65,13 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 12 |
 | [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
-| [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 9 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 11 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2020-02-15 11:58:18 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2020-02-15 12:25:07 |
 | **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2020-02-14 12:43:55 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-02-14 10:23:56 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-01-22 18:37:49 |
