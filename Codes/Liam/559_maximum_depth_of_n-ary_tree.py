@@ -10,11 +10,13 @@ class Node:
         self.val = val
         self.children = children
 """
+
+
 class Solution:
-    def maxDepth(self, root: 'Node') -> int:
+    def maxDepth(self, root: "Node") -> int:
         if root is None:
             return 0
-        
+
         # Only root and no children
         if root.children is None or len(root.children) == 0:
             return 1
