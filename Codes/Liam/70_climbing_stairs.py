@@ -16,12 +16,15 @@ class Solution:
         #     return s1+s2
         # time exceeds
 
-        fib = [1, 1, 2]
-        if n == 1:
-            return fib[1]
-        elif n == 2:
-            return fib[2]
-        else:
-            for i in range(3, n + 1):
-                fib.append(fib[i - 1] + fib[i - 2])
-        return fib[n]
+        # fib = [1, 1, 2]
+        # if n == 1:
+        #     return fib[1]
+        # elif n == 2:
+        #     return fib[2]
+        # else:
+        #     for i in range(3, n+1):
+        #         fib.append(fib[i-1] + fib[i-2])
+        # return fib[n]
+        import math
+
+        return int((math.pow(((1+math.sqrt(5))/2),n+1) - math.pow((1-math.sqrt(5))/2,n+1))/math.sqrt(5))
