@@ -3,7 +3,6 @@
 # @Author: GraceKoo
 # @File: 37_sudoku-solver.py
 # @Desc:https://leetcode-cn.com/problems/sudoku-solver/
-from collections import defaultdict
 
 
 class Solution:
