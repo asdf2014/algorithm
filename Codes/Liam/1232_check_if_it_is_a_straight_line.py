@@ -3,6 +3,7 @@
 
 # 方案：两点确定一条线 的公式
 
+
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
         if len(coordinates) == 1 or len(coordinates) == 2:
@@ -13,7 +14,7 @@ class Solution:
                 x1, y1 = coordinates[0][0], coordinates[0][1]
                 x2, y2 = coordinates[1][0], coordinates[1][1]
                 x, y = p[0], p[1]
-                if (y - y1)*(x2 - x1) == (x - x1)*(y2 - y1):
+                if (y - y1) * (x2 - x1) == (x - x1) * (y2 - y1):
                     return True
                 else:
                     return False
@@ -21,5 +22,5 @@ class Solution:
             flag = [True, True]
             for p in coordinates[2:]:
                 flag.append(func(p))
-        
+
         return False if False in flag else True
