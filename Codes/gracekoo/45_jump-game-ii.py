@@ -13,7 +13,7 @@ class Solution:
         step = 0  # 记录跳跃的步数
         if len(nums) < 2:
             return step
-        for i in range(len(nums)-1):
+        for i in range(len(nums) - 1):
             # 寻找局部最优解
             max_position = max(max_position, nums[i] + i)
             if i == end:
