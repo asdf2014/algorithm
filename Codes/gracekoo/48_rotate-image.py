@@ -26,11 +26,5 @@ class Solution:
 
 
 so = Solution()
-print(so.ero_matrics([[4, 8, 12, 16],
-                      [3, 7, 11, 15],
-                      [2, 6, 10, 14],
-                      [1, 5, 9, 13]]))
-print(so.ero_matrics([
-                      [3, 6, 9],
-                      [2, 5, 8],
-                      [1, 4, 7]]))
+print(so.ero_matrics([[4, 8, 12, 16], [3, 7, 11, 15], [2, 6, 10, 14], [1, 5, 9, 13]]))
+print(so.ero_matrics([[3, 6, 9], [2, 5, 8], [1, 4, 7]]))
