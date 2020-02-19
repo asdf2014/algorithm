@@ -3,14 +3,15 @@
 
 # 方案：栈存放 遇到之后出栈
 
+
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        vowel = ["a","e","i","o","u","A","E","I","O","U"]
+        vowel = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
         filter_word = [i for i in s if i in vowel]
 
         rst = list(s)
         for idx, ele in enumerate(rst):
             if ele in vowel:
                 rst[idx] = filter_word.pop()
-        
+
         return "".join(rst)
