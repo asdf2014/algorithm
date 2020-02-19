@@ -3,6 +3,7 @@
 
 # 方案：python语句
 
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         # pythonic 解法
@@ -12,5 +13,3 @@ class Solution:
         # return Counter(s) == Counter(t)
 
         return sorted(s) == sorted(t)
-
-        
