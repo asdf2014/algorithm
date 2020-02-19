@@ -3,6 +3,7 @@
 
 # 方案：循环
 
+
 class Solution:
     def isPowerOfFour(self, num: int) -> bool:
         # 循环
