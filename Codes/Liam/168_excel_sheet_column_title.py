@@ -3,6 +3,7 @@
 
 # 方案：按照二十六进制处理，做一个1-26:A-Z的字典
 
+
 class Solution:
     def convertToTitle(self, n: int) -> str:
         # 按照二十六进制处理，做一个1-26:A-Z的字典
