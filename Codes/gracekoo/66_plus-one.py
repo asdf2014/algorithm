@@ -11,8 +11,8 @@ class Solution:
         if not digits:
             return []
         len_digits = len(digits)
-        add = (digits[len_digits-1] + 1) // 10
-        digits[len_digits-1] = (digits[len_digits-1] + 1) % 10
+        add = (digits[len_digits - 1] + 1) // 10
+        digits[len_digits - 1] = (digits[len_digits - 1] + 1) % 10
 
         for i in range(len_digits - 2, -1, -1):
             add = (digits[i] + add) // 10
