@@ -10,6 +10,7 @@
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
     def mergeTrees(self, t1: TreeNode, t2: TreeNode) -> TreeNode:
         # 递归
