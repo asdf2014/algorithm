@@ -26,7 +26,7 @@ class Solution:
             main_diagonals[row - col] = 0
             counter_diagonals[row + col] = 0
 
-        def backtrack(row=0, output = 0):
+        def backtrack(row=0, output=0):
             for col in range(n):
                 if could_place(row, col):
                     place_queen(row, col)
