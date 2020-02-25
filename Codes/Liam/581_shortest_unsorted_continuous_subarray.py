@@ -14,12 +14,11 @@ class Solution:
         while nums[0] == min(nums):
             nums.pop(0)
         return len(nums)
-    
-    
-# 执行用时 : 276 ms
-# 内存消耗 : 14.8 MB
 
-# 方案：排序之后，双指针进行对比
+        # 执行用时 : 276 ms
+        # 内存消耗 : 14.8 MB
+
+        # 方案：排序之后，双指针进行对比
 
         sorted_nums = sorted(nums)
         p1 = 0
