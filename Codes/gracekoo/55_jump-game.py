@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/2/27 12:08 
+# @Time: 2020/2/27 12:08
 # @Author: GraceKoo
 # @File: 55_jump-game.py
 # @Desc:https://leetcode-cn.com/problems/jump-game/
