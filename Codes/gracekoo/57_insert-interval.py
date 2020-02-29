@@ -7,7 +7,9 @@ from typing import List
 
 
 class Solution:
-    def insert(self, intervals: 'List[Interval]', newInterval: 'Interval') -> 'List[Interval]':
+    def insert(
+        self, intervals: "List[Interval]", newInterval: "Interval"
+    ) -> "List[Interval]":
         start, end = newInterval
         current, n = 0, len(intervals)
         output = []
