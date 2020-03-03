@@ -13,7 +13,9 @@ class Solution:
         n -= 1
         while n > -1:
             number_combination = math.factorial(n)  # 每组组合数总和
-            output_number_index = math.ceil(k / number_combination) - 1  # 不用\\的原因是因为 1 1希望输出的是0，"\\"会输出1
+            output_number_index = (
+                math.ceil(k / number_combination) - 1
+            )  # 不用\\的原因是因为 1 1希望输出的是0，"\\"会输出1
             output_str += nums[output_number_index]
             nums.pop(output_number_index)
             k %= number_combination
