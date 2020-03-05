@@ -11,7 +11,7 @@ class Solution:
         cur = [1] * n
         for row in range(1, m):
             for col in range(1, n):
-                cur[col] = cur[col-1] + pre[col]
+                cur[col] = cur[col - 1] + pre[col]
             pre = cur
         return pre[-1]
 
