@@ -24,7 +24,7 @@ class Solution:
             for i in range(k):
                 stack.append(next)
                 next = next.next
-            while len(stack) > 0:
+            while stack:
                 curr.next = stack.pop()
                 curr = curr.next
             curr.next = next

@@ -4,9 +4,6 @@
 class Solution:
 
     def divide(self, dividend: int, divisor: int) -> int:
-        import sys
-
-        ans = 0
         if dividend == 0: return 0
         if divisor == 1:
             return dividend
