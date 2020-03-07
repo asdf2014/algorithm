@@ -3,7 +3,6 @@ import queue
 
 
 class MaxQueue:
-
     def __init__(self):
         self.deque = collections.deque
         self.queue = queue.Queue()
@@ -17,9 +16,9 @@ class MaxQueue:
         self.deque.append(value)
         self.queue.put(value)
 
-
     def pop_front(self) -> int:
-        if not self.deque:return -1
+        if not self.deque:
+            return -1
         ans = self.queue.get()
         if ans == self.deque[0]:
             self.deque.popleft()
