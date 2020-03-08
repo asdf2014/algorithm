@@ -1,4 +1,4 @@
-## 未成功，稍后继续
+## 未成功，稍后继续debug
 
 class Solution:
     def dfs(self, src, tgt, time, target, dic)->float:
