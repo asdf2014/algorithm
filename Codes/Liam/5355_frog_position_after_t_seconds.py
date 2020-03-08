@@ -1,22 +1,23 @@
 ## 未成功，稍后继续debug
 
+
 class Solution:
-    def dfs(self, src, tgt, time, target, dic)->float:
-            size = len(dic[src])
-            if (not time) or (tgt and size == 1):
-                if src == target:
-                    return 1
-                else:
-                    return 0
-            p = float(1.0 / (size - 1)) if tgt else float(1.0 / size)
-            maxx = 0.0
-            
-            for i in range(size):
-                new_tgt = dic[src][i]
-                if new_tgt == tgt:
-                    continue
-                maxx = max(maxx, self.dfs(new_tgt, src, time-1, target, dic))
-            return p * maxx
+    def dfs(self, src, tgt, time, target, dic) -> float:
+        size = len(dic[src])
+        if (not time) or (tgt and size == 1):
+            if src == target:
+                return 1
+            else:
+                return 0
+        p = float(1.0 / (size - 1)) if tgt else float(1.0 / size)
+        maxx = 0.0
+
+        for i in range(size):
+            new_tgt = dic[src][i]
+            if new_tgt == tgt:
+                continue
+            maxx = max(maxx, self.dfs(new_tgt, src, time - 1, target, dic))
+        return p * maxx
 
     def frogPosition(self, n: int, edges: List[List[int]], t: int, target: int):
         # 首先建图，然后从1号结点开始，dfs
@@ -27,6 +28,7 @@ class Solution:
             return 1.0
 
         from collections import defaultdict
+
         dic = defaultdict(list)
 
         for sub_list in edges:
