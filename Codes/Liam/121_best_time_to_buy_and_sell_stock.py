@@ -1,8 +1,9 @@
 # 执行用时 : 44 ms
 # 内存消耗 : 14.5 MB
 
-# 方案： 
+# 方案：
 # https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/yi-ge-fang-fa-tuan-mie-6-dao-gu-piao-wen-ti-by-l-3/
+
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
