@@ -17,21 +17,34 @@ class Solution:
         for index, value in enumerate(words):
             current_word_length = len(value)
             # 当前字符数量大于最大限制
-            if current_chars_number + current_word_length + current_words_number > maxWidth:
+            if (
+                current_chars_number + current_word_length + current_words_number
+                > maxWidth
+            ):
                 if current_words_number == 1:
-                    result.append(word_list[0] + " " * (maxWidth - current_chars_number))
+                    result.append(
+                        word_list[0] + " " * (maxWidth - current_chars_number)
+                    )
                 else:
                     blank_space_number = maxWidth - current_chars_number  # 当前的空格数量
                     if blank_space_number % (current_words_number - 1) == 0:  # 空格可以平均分配
-                        result.append((" "* (blank_space_number // (current_words_number - 1))).join(word_list))
+                        result.append(
+                            (
+                                " " * (blank_space_number // (current_words_number - 1))
+                            ).join(word_list)
+                        )
                     else:
                         # 空格不能平均分配
-                        more_blankspace = blank_space_number % (current_words_number - 1)  # 多余的空格
-                        stand_blankspace = blank_space_number // (current_words_number - 1)  # 标准的最少空格
+                        more_blankspace = blank_space_number % (
+                            current_words_number - 1
+                        )  # 多余的空格
+                        stand_blankspace = blank_space_number // (
+                            current_words_number - 1
+                        )  # 标准的最少空格
                         res = word_list[0]
                         for i in range(more_blankspace):
-                            res += " " * (stand_blankspace+1) + word_list[i+1]
-                        for i in range(more_blankspace+1, len(word_list)):
+                            res += " " * (stand_blankspace + 1) + word_list[i + 1]
+                        for i in range(more_blankspace + 1, len(word_list)):
                             res += " " * stand_blankspace + word_list[i]
                         result.append(res)
                 current_chars_number = current_word_length
@@ -45,4 +58,6 @@ class Solution:
 
 
 so = Solution()
-print(so.fullJustify(["This", "is", "an", "example", "of", "text", "justification."], 16))
+print(
+    so.fullJustify(["This", "is", "an", "example", "of", "text", "justification."], 16)
+)
