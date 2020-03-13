@@ -3,6 +3,7 @@
 
 # 方案：如下两种
 
+
 class Solution:
     def findComplement(self, num: int) -> int:
         # 异或操作
@@ -22,5 +23,4 @@ class Solution:
             else:
                 rst.append("0")
         kk = "".join(rst)
-        return int(kk,2)
-            
+        return int(kk, 2)
