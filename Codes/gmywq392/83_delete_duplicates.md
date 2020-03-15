@@ -13,7 +13,7 @@ class Solution(object):
                 curr.next = curr.next.next
             else:
                 curr = curr.next
-        return head
+        return head 
 
 if __name__ == '__main__':
     node = ListNode(1)
