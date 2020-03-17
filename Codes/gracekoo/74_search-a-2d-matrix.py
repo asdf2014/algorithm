@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/17 19:59 
+# @Time: 2020/3/17 19:59
 # @Author: GraceKoo
 # @File: 74_search-a-2d-matrix.py
 # @Desc:https://leetcode-cn.com/problems/search-a-2d-matrix/
@@ -28,8 +28,4 @@ class Solution:
 
 
 so = Solution()
-print(so.searchMatrix([
-    [1, 3, 5, 7],
-    [10, 11, 16, 20],
-    [23, 30, 34, 50]
-], 3))
+print(so.searchMatrix([[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 50]], 3))
