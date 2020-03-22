@@ -33,7 +33,7 @@ class Solution:
             while left < length_s and contains(t_dict, count_dict):
                 # 更新结果
                 if right - left + 1 < len(result):
-                    result = s[left:right + 1]
+                    result = s[left : right + 1]
                 if s[left] in t_dict:
                     count_dict[s[left]] -= 1
                 left += 1
