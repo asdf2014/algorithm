@@ -7,8 +7,8 @@ from collections import Counter
 from collections import defaultdict
 
 
-class Solution1:
-    def minWindow1(self, s: str, t: str) -> str:
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
         left, right = 0, 0
         length_s = len(s)
         result = s + s  # 随便设定一个比s长的字符串，便于后续处理
@@ -40,5 +40,5 @@ class Solution1:
         return "" if result == s + s else result
 
 
-so = Solution1()
-print(so.minWindow1("ADOBECODEBANC", "ABC"))
+so = Solution()
+print(so.minWindow("ADOBECODEBANC", "ABC"))
