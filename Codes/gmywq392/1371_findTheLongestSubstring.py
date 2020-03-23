@@ -7,7 +7,7 @@ class Solution:
         ans = cur = 0
         vis = {0: -1}
         pre = collections.defaultdict(int)
-        for i, c in enumerate('aeiou'):
+        for i, c in enumerate("aeiou"):
             pre[c] = 1 << (i + 1) >> 1
         for i, c in enumerate(s):
             cur ^= pre[c]
@@ -19,7 +19,6 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     start = time.time()
-    largest = solution.findTheLongestSubstring(
-        'aeeeioooaaazxx')
+    largest = solution.findTheLongestSubstring("aeeeioooaaazxx")
     end = time.time()
     print(largest, end - start)
