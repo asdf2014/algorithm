@@ -8,8 +8,20 @@ from typing import List
 
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        result = list()
+        if n <= 0 or k <= 0 or n < k:
+            return []
+        result = []
+        self.__dfs(1, k, n, [], result)
         return result
+
+    def __dfs(self, index, k, n, pre, result):
+        if len(pre) == k:
+            result.append(pre[:])
+            return
+        for i in range(index, n + 1):
+            pre.append(i)
+            self.__dfs(i + 1, k, n, pre, result)
+            pre.pop()
 
 
 so = Solution()
