@@ -25,7 +25,7 @@ class Solution(object):
     def swapPairsRecursive(self, head: ListNode):
         if head is None or head.next is None: return head
         first = head
-        second = head.next
+        second = head.next    
         head = second
         first.next = self.swapPairsRecursive(second.next)
         second.next = first
