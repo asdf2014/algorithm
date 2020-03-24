@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/24 21:06 
+# @Time: 2020/3/24 21:06
 # @Author: GraceKoo
 # @File: 79_word-search.py
 # @Desc:https://leetcode-cn.com/problems/word-search/
@@ -27,19 +27,22 @@ class Solution:
             marked[row][col] = True
             for derection in self.derections:
                 next_x, next_y = row + derection[0], col + derection[1]
-                if 0 <= next_x < rows and 0 <= next_y < cols and not marked[next_x][next_y] \
-                    and self.__search_word(board, word,
-                                           index_word + 1,
-                                           next_x, next_y,
-                                           marked, rows, cols):
+                if (
+                    0 <= next_x < rows
+                    and 0 <= next_y < cols
+                    and not marked[next_x][next_y]
+                    and self.__search_word(
+                        board, word, index_word + 1, next_x, next_y, marked, rows, cols
+                    )
+                ):
                     return True
             marked[row][col] = False
         return False
 
 
 so = Solution()
-print(so.exist([
-    ['A', 'B', 'C', 'E'],
-    ['S', 'F', 'C', 'S'],
-    ['A', 'D', 'E', 'E']
-], "ABCCED"))
+print(
+    so.exist(
+        [["A", "B", "C", "E"], ["S", "F", "C", "S"], ["A", "D", "E", "E"]], "ABCCED"
+    )
+)
