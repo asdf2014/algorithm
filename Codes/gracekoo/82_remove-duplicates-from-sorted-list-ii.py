@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/26 19:29 
+# @Time: 2020/3/26 19:29
 # @Author: GraceKoo
 # @File: 82_remove-duplicates-from-sorted-list-ii.py
 # @Desc:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
@@ -40,4 +40,3 @@ last_node = so.deleteDuplicates(first_node)
 while last_node:
     print(last_node.val)
     last_node = last_node.next
-
