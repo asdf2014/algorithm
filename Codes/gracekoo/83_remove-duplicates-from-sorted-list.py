@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/26 23:28 
+# @Time: 2020/3/26 23:28
 # @Author: GraceKoo
 # @File: 83_remove-duplicates-from-sorted-list.py
 # @Desc:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
@@ -21,6 +21,7 @@ class Solution:
             else:
                 tmp = tmp.next
         return head
+
 
 first_node = ListNode(0)
 first_node.next = ListNode(2)
