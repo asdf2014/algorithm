@@ -8,6 +8,7 @@ from typing import List
 
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        # j指向需要覆盖的位置
         j, count = 1, 1
         for i in range(1, len(nums)):
             if nums[i] == nums[i - 1]:
