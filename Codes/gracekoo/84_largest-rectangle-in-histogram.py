@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/29 16:24 
+# @Time: 2020/3/29 16:24
 # @Author: GraceKoo
 # @File: 84_largest-rectangle-in-histogram.py
 # @Desc:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
@@ -21,4 +21,3 @@ class Solution:
 
 so = Solution()
 print(so.largestRectangleArea([2, 1, 5, 6, 2, 3]))
-
