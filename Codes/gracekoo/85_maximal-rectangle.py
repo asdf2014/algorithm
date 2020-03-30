@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/30 22:22 
+# @Time: 2020/3/30 22:22
 # @Author: GraceKoo
 # @File: 85_maximal-rectangle.py
 # @Desc:https://leetcode-cn.com/problems/maximal-rectangle/
@@ -30,9 +30,13 @@ class Solution:
 
 
 so = Solution()
-print(so.maximalRectangle([
-    ["1", "0", "1", "0", "0"],
-    ["1", "0", "1", "1", "1"],
-    ["1", "1", "1", "1", "1"],
-    ["1", "0", "0", "1", "0"]
-]))
+print(
+    so.maximalRectangle(
+        [
+            ["1", "0", "1", "0", "0"],
+            ["1", "0", "1", "1", "1"],
+            ["1", "1", "1", "1", "1"],
+            ["1", "0", "0", "1", "0"],
+        ]
+    )
+)
