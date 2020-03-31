@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/3/31 23:09 
+# @Time: 2020/3/31 23:09
 # @Author: GraceKoo
 # @File: 86_partition-list.py
 # @Desc:https://leetcode-cn.com/problems/partition-list/
@@ -31,5 +31,3 @@ class Solution:
         before.next = after_node.next
 
         return before_node.next
-
-
