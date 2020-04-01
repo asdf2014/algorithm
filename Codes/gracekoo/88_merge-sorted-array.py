@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/4/1 11:24 
+# @Time: 2020/4/1 11:24
 # @Author: GraceKoo
 # @File: 88_merge-sorted-array.py
 # @Desc:https://leetcode-cn.com/problems/merge-sorted-array/
@@ -27,7 +27,7 @@ class Solution:
                 p1 -= 1
             p -= 1
         # 如果nums2中有没有进行添加的元素，则进行添加
-        nums1[:p2 + 1] = nums2[:p2 + 1]
+        nums1[: p2 + 1] = nums2[: p2 + 1]
         return nums1
 
 
