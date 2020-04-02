@@ -1,41 +1,34 @@
-import collections
-import queue
+import time
+from typing import List
 
 
-class MaxQueue:
-    def __init__(self):
-        self.deque = collections.deque
-        self.queue = queue.Queue()
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
+        self.sort(nums, 0, len(nums) - 1)
+        return nums
 
-    def max_value(self) -> int:
-        return self.deque[0] if self.deque else -1
+    def sort(self, nums, start, end):
+        if start < end:
+            p = self.partition(nums, start, end)
+            self.sort(nums, start, p - 1)
+            self.sort(nums, p + 1, end)
 
-    def push_back(self, value: int) -> None:
-        while self.deque and self.deque[-1] < value:
-            self.deque.pop()
-        self.deque.append(value)
-        self.queue.put(value)
-
-    def pop_front(self) -> int:
-        if not self.deque:
-            return -1
-        ans = self.queue.get()
-        if ans == self.deque[0]:
-            self.deque.popleft()
-        return ans
-
-
-# Your MaxQueue object will be instantiated and called as such:
-# obj = MaxQueue()
-# param_1 = obj.max_value()
-# obj.push_back(value)
-# param_3 = obj.pop_front()
+    def partition(self, nums, start, end):
+        i = start - 1
+        pivot = nums[end]
+        for j in range(start, end):
+            if nums[j] <= pivot:
+                i += 1
+                nums[i], nums[j] = nums[j], nums[i]
+        nums[i + 1], nums[end] = nums[end], nums[i + 1]
+        return i + 1
 
 
 if __name__ == "__main__":
-    obj = MaxQueue()
-    param_1 = obj.max_value()
-    print(param_1)
-    obj.push_back(123)
-    param_3 = obj.pop_front()
-    print(param_3)
+    solution = Solution()
+    start = time.time()
+    largest = solution.sortArray(
+        [3, 2, 1, 5, 6, 4, 8, 9, -1, 210, 2]
+    )
+    end = time.time()
+    print(largest, end - start)
