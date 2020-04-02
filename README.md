@@ -58,7 +58,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :--: | :-------: |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 88 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 54 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 49 |
+| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 50 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
@@ -71,8 +71,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-04-01 12:19:14 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 2020-03-31 21:45:47 |
+| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 2020-04-02 10:38:33 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-04-01 12:22:49 |
 | **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2020-03-13 13:31:26 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2020-03-02 11:39:32 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2020-02-17 23:06:11 |

@@ -27,8 +27,6 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     start = time.time()
-    largest = solution.sortArray(
-        [3, 2, 1, 5, 6, 4, 8, 9, -1, 210, 2]
-    )
+    largest = solution.sortArray([3, 2, 1, 5, 6, 4, 8, 9, -1, 210, 2])
     end = time.time()
     print(largest, end - start)
