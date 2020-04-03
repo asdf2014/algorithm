@@ -2,7 +2,7 @@
 # @Time: 2020/4/2 23:45
 # @Author: GraceKoo
 # @File: 89_gray-code.py
-# @Desc:https://leetcode-cn.com/problems/gray-code/
+# @Desc: https://leetcode-cn.com/problems/gray-code/
 from typing import List
 
 
@@ -17,4 +17,4 @@ class Solution:
 
 
 so = Solution()
-print(so.grayCode(2))
+print(so.grayCode(1))
