@@ -13,8 +13,6 @@ class Solution:
 
         def track_back(i, tmp):
             res.append(tmp)
-            if i == n:
-                return
             for j in range(i, n):
                 if j > i and nums[j] == nums[j - 1]:
                     continue
@@ -26,4 +24,4 @@ class Solution:
 
 
 so = Solution()
-print(so.subsetsWithDup([0]))
+print(so.subsetsWithDup([1, 2, 2]))
