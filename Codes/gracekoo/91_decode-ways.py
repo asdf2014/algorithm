@@ -15,9 +15,9 @@ class Solution:
         for i in range(1, n):
             dp.append(0)
             if s[i] != "0":
-                dp[i+1] += dp[i]
-            if "10" <= s[i-1:i+1] <= "26":
-                dp[i+1] += dp[i-2]
+                dp[i + 1] += dp[i]
+            if "10" <= s[i - 1 : i + 1] <= "26":
+                dp[i + 1] += dp[i - 2]
         # print(dp)
         return dp[-1]
 
