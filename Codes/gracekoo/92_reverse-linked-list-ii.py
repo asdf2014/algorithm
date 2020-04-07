@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/4/6 00:06 
+# @Time: 2020/4/6 00:06
 # @Author: GraceKoo
 # @File: 92_reverse-linked-list-ii.py
 # @Desc: https://leetcode-cn.com/problems/reverse-linked-list-ii/
