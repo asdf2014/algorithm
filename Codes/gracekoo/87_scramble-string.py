@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/4/9 23:07 
+# @Time: 2020/4/9 23:07
 # @Author: GraceKoo
 # @File: 87_scramble-string.py
 # @Desc:https://leetcode-cn.com/problems/scramble-string/
