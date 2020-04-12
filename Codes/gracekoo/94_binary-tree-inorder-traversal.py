@@ -17,12 +17,14 @@ class TreeNode:
 class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
         res = []
+
         def backtrack(root):
             if not root:
                 return
             backtrack(root.left)
             res.append(root.val)
             backtrack(root.right)
+
         backtrack(root)
         return res
 
