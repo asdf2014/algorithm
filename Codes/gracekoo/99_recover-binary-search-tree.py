@@ -34,5 +34,9 @@ class Solution:
                 self.second_node = root
             self.pre_node = root
             in_order(root.right)
+
         in_order(root)
-        self.first_node.val, self.second_node.val = self.second_node.val, self.first_node.val
+        self.first_node.val, self.second_node.val = (
+            self.second_node.val,
+            self.first_node.val,
+        )
