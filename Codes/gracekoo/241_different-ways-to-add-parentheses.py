@@ -14,7 +14,7 @@ class Solution:
         for index, value in enumerate(input):
             if value in ["+", "-", "*"]:
                 left = self.diffWaysToCompute(input[:index])
-                right = self.diffWaysToCompute(input[index+1:])
+                right = self.diffWaysToCompute(input[index + 1 :])
                 # 合并结果
                 for l in left:
                     for r in right:
