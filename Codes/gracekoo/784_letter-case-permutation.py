@@ -21,7 +21,7 @@ class Solution:
             else:
                 helper(s[1:], pre + [s[0]])
 
-        help(S, [])
+        helper(S, [])
         return result
 
 
