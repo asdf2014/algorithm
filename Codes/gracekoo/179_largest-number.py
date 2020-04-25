@@ -12,9 +12,10 @@ class LargerNumKey(str):
 
 
 class Solution:
-
     def largestNumber(self, nums):
-        return_value = "".join(sorted(map(str, nums), key=LargerNumKey, reverse=True)).lstrip("0")
+        return_value = "".join(
+            sorted(map(str, nums), key=LargerNumKey, reverse=True)
+        ).lstrip("0")
         return "0" if return_value[0] == "0" else return_value
 
 
