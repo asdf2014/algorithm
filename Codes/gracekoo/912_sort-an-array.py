@@ -34,6 +34,14 @@ class Solution:
             return nums
 
         return quick(0, n - 1)
+# 插入排序
+# def insertion_sort(nums):
+#     n = len(nums)
+#     for i in range(1, n):
+#         while i > 0 and nums[i - 1] > nums[i]:
+#             nums[i - 1], nums[i] = nums[i], nums[i - 1]
+#             i -= 1
+#     return nums
 
 
 so = Solution()
