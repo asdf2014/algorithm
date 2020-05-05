@@ -14,7 +14,7 @@ class Solution:
         nums.sort(reverse=False)
         # 再比较
         for i in range(1, len(nums)):
-            if nums[i] == nums[i-1]:
+            if nums[i] == nums[i - 1]:
                 return True
         return False
 

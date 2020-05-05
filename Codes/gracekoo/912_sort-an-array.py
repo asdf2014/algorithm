@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/4/28 22:52 
+# @Time: 2020/4/28 22:52
 # @Author: GraceKoo
 # @File: 912_sort-an-array.py
 # @Desc: https://leetcode-cn.com/problems/sort-an-array/
@@ -29,11 +29,13 @@ class Solution:
                     i += 1
                 nums[i], nums[j] = nums[j], nums[i]
             nums[pivot], nums[j] = nums[j], nums[pivot]
-            quick(left, j-1)
-            quick(j+1, right)
+            quick(left, j - 1)
+            quick(j + 1, right)
             return nums
 
         return quick(0, n - 1)
+
+
 # 插入排序
 # def insertion_sort(nums):
 #     n = len(nums)
