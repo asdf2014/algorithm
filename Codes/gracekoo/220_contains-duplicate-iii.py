@@ -8,19 +8,22 @@ from typing import List
 
 class Solution:
     def containsNearbyAlmostDuplicate(self, nums: List[int], k: int, t: int) -> bool:
-        if len(nums) <= 1:
+        bucket = dict()
+        if t < 0:
             return False
-        nums_sort = list()
-        nums_sort.append(nums[0])
-        for i in range(1, len(nums)):
-            if len(nums_sort) > k:
-                nums_sort.pop(0)
-            # 查询当前子列表中的每个元素是否满足t的要求
-            tmp_nums_sored = sorted(nums_sort, reverse=False)
-            for v in tmp_nums_sored:
-                if abs(nums[i] - v) <= t:
-                    return True
-            nums_sort.append(nums[i])
+        for i in range(0, len(nums)):
+            # 每个桶序号代表存放t的倍数的数
+            bucket_nth = nums[i] // (t + 1)
+            if bucket_nth in bucket:
+                return True
+            if bucket_nth - 1 in bucket and abs(bucket[bucket_nth - 1] - nums[i]) <= t:
+                return True
+            if bucket_nth + 1 in bucket and abs(bucket[bucket_nth + 1] - nums[i]) <= t:
+                return True
+            bucket[bucket_nth] = nums[i]
+            # 当桶大于k时，代表窗口已经越界，越界元素可以进行清除
+            if i >= k:
+                bucket.pop(nums[i - k] // (t + 1))
         return False
 
 
