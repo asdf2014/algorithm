@@ -11,7 +11,6 @@ class Solution:
         nums_sort = list()
         nums_sort.append(nums[0])
         for i in range(1, len(nums)):
-            print(nums_sort)
             if nums[i] in nums_sort:
                 return True
             elif len(nums_sort) >= k:
