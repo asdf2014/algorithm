@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/7 12:31 
+# @Time: 2020/5/7 12:31
 # @Author: GraceKoo
 # @File: er-wei-shu-zu-zhong-de-cha-zhao-lcof.py
 # @Desc: https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
@@ -31,11 +31,15 @@ class Solution:
 
 
 so = Solution()
-print(so.findNumberIn2DArray([
-  [1,   4,  7, 11, 15],
-  [2,   5,  8, 12, 19],
-  [3,   6,  9, 16, 22],
-  [10, 13, 14, 17, 24],
-  [18, 21, 23, 26, 30]
-], 21
-))
+print(
+    so.findNumberIn2DArray(
+        [
+            [1, 4, 7, 11, 15],
+            [2, 5, 8, 12, 19],
+            [3, 6, 9, 16, 22],
+            [10, 13, 14, 17, 24],
+            [18, 21, 23, 26, 30],
+        ],
+        21,
+    )
+)
