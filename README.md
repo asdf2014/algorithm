@@ -71,16 +71,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-05-07 12:54:52 |
+| **[ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang)** | 2020-05-07 23:52:12 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-05-07 12:56:49 |
 | **[Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119)** | 2020-05-05 22:30:35 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 2020-04-02 10:40:19 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2020-04-02 10:40:19 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2020-03-13 13:31:26 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2020-03-02 11:39:32 |
 | [BoCai](https://github.com/asdf2014/algorithm/tree/master/Codes/BoCai) | 2020-02-17 23:06:11 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2020-02-16 10:07:25 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2020-02-15 12:25:07 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-01-22 18:37:49 |
-| [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 2020-01-06 01:04:58 |
 
 排行榜的更新会在提交后自动执行。
 
