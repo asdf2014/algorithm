@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/8 22:38 
+# @Time: 2020/5/8 22:38
 # @Author: GraceKoo
 # @File: ti-huan-kong-ge-lcof.py
 # @Desc: https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
