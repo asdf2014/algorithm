@@ -31,6 +31,7 @@
 | 15.[3 SUM](15_3SUM/Solution.java) |   20/0508    |      |      |      |
 | 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |   20/0508    |    |      |      |
 | 70.[Climbing Stais](70_ClimbingStairs/Solution.java) |   20/0507    |    20/0508  |      |      |
+| 141.[Linked List Cycle](141_Linked_List_Cycle/Solution.java) | 20/0508  |      |      |      |
 | 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) | 20/0508  |      |      |      |
 | 283.[Move Zeroes](283_MoveZeroes/Solution.java) | 20/0507  |    20/0508  |      |      |
 
