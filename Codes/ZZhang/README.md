@@ -26,10 +26,12 @@
 ### 记录
 | Problem    | No.1    | No.2 | No.3 | No.4 |
 | ---------- | ------- | ---- | ---- | ---- |
-| 1.[Two Sum](1.TwoSum/Solution.java) | 20/0507 |  20/0508    |      |      |
-| 11.[Container With Most Water](11.Container_With_Most_Water/Solution.java) |  20/0507  |   20/0508   |      |      |
-| 15.[3 SUM](15.3SUM/Solution.java) |   20/0508    |      |      |      |
-| 70.[Climbing Stais](70.ClimbingStairs/Solution.java) |   20/0507    |    20/0508  |      |      |
-| 283.[Move Zeroes](283.MoveZeroes/Solution.java) | 20/0507  |    20/0508  |      |      |
+| 1.[Two Sum](1_TwoSum/Solution.java) | 20/0507 |  20/0508    |      |      |
+| 11.[Container With Most Water](11_Container_With_Most_Water/Solution.java) |  20/0507  |   20/0508   |      |      |
+| 15.[3 SUM](15_3SUM/Solution.java) |   20/0508    |      |      |      |
+| 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |   20/0508    |    |      |      |
+| 70.[Climbing Stais](70_ClimbingStairs/Solution.java) |   20/0507    |    20/0508  |      |      |
+| 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) | 20/0508  |      |      |      |
+| 283.[Move Zeroes](283_MoveZeroes/Solution.java) | 20/0507  |    20/0508  |      |      |
 
 > 注: 第一遍第二遍合并在No.1
