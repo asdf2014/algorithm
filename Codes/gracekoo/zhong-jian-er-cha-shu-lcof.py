@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/10 22:47 
+# @Time: 2020/5/10 22:47
 # @Author: GraceKoo
 # @File: zhong-jian-er-cha-shu-lcof.py
 # @Desc: https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
@@ -24,10 +24,10 @@ class Solution(object):
         root_index = inorder.index(root_value)
         # 在中序列表中的左右子树
         left_in_inorder = inorder[:root_index]
-        right_in_inorder = inorder[root_index+1:]
+        right_in_inorder = inorder[root_index + 1 :]
         # 在前序列表中的左右子树
-        left_in_preorder = preorder[1:root_index+1]  # 左子树数量就是root_index的个数
-        right_in_preorder = preorder[root_index+1:]
+        left_in_preorder = preorder[1 : root_index + 1]  # 左子树数量就是root_index的个数
+        right_in_preorder = preorder[root_index + 1 :]
 
         # 递归创建子树
         root.left = self.buildTree(left_in_preorder, left_in_inorder)
