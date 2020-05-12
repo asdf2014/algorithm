@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/12 12:40 
+# @Time: 2020/5/12 12:40
 # @Author: GraceKoo
 # @File: 232_implement-queue-using-stacks.py
 # @Desc: https://leetcode-cn.com/problems/implement-queue-using-stacks/
 
 
 class MyQueue:
-
     def __init__(self):
         """
         Initialize your data structure here.
