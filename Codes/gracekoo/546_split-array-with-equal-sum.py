@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/13 12:33 
+# @Time: 2020/5/13 12:33
 # @Author: GraceKoo
 # @File: 546_split-array-with-equal-sum.py
 # @Desc: https://leetcode-cn.com/problems/split-array-with-equal-sum/
@@ -22,8 +22,10 @@ class Solution:
                 if sum_list[i - 1] == sum_list[j - 1] - sum_list[i]:
                     sum_set.add(sum_list[i - 1])
             for k in range(j + 2, len_nums - 1):
-                if sum_list[-1] - sum_list[k] == sum_list[k - 1] - sum_list[j] \
-                        and (sum_list[k - 1] - sum_list[j]) in sum_set:
+                if (
+                    sum_list[-1] - sum_list[k] == sum_list[k - 1] - sum_list[j]
+                    and (sum_list[k - 1] - sum_list[j]) in sum_set
+                ):
                     return True
         return False
 
