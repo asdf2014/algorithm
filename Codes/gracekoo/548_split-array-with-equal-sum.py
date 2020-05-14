@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/5/13 12:33
 # @Author: GraceKoo
-# @File: 546_split-array-with-equal-sum.py
+# @File: 548_split-array-with-equal-sum.py
 # @Desc: https://leetcode-cn.com/problems/split-array-with-equal-sum/
 from typing import List
 
