@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/14 19:37 
+# @Time: 2020/5/14 19:37
 # @Author: GraceKoo
 # @File: 406_queue-reconstruction-by-height.py
 # @Desc: https://leetcode-cn.com/problems/queue-reconstruction-by-height/
