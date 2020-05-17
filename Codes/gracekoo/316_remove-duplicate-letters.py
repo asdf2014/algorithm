@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/17 23:06 
+# @Time: 2020/5/17 23:06
 # @Author: GraceKoo
 # @File: 316_remove-duplicate-letters.py
 # @Desc: https://leetcode-cn.com/problems/remove-duplicate-letters/
@@ -11,7 +11,7 @@ class Solution:
             return s
         stack = []
         value_in_stack = set()
-        last_occurance = {k:i for i, k in enumerate(s)}
+        last_occurance = {k: i for i, k in enumerate(s)}
         for i, c in enumerate(s):
             if c not in value_in_stack:
                 # stack[-1] > c:如果栈顶元素的字典序大于当前的c
