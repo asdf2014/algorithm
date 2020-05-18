@@ -60,13 +60,13 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 28 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 24 |
 | [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
-| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 11 |
+| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 12 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang)** | 2020-05-18 17:54:04 |
+| **[ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang)** | 2020-05-18 22:01:03 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-05-17 15:48:12 |
 | **[Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119)** | 2020-05-05 14:30:35 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2020-04-02 02:40:19 |
