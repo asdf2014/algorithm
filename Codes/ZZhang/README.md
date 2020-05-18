@@ -26,14 +26,16 @@
 ### 记录
 | Problem    | No.1    | No.2 | No.3 | No.4 |
 | ---------- | ------- | ---- | ---- | ---- |
-| 1.[Two Sum](1_TwoSum/Solution.java) | 20/0507 |  20/0508    |      |      |
-| 11.[Container With Most Water](11_Container_With_Most_Water/Solution.java) |  20/0507  |   20/0508   |      |      |
-| 15.[3 SUM](15_3SUM/Solution.java) |   20/0508    |      |      |      |
-| 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |   20/0508    |    |      |      |
-| 70.[Climbing Stais](70_ClimbingStairs/Solution.java) |   20/0507    |    20/0508  |      |      |
-| 141.[Linked List Cycle](141_Linked_List_Cycle/Solution.java) | 20/0508  |      |      |      |
-| 142.[Linked List Cycle II](142_Linked_List_Cycle_ii/Solution.java) | 20/0508  |      |      |      |
-| 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) | 20/0508  |      |      |      |
-| 283.[Move Zeroes](283_MoveZeroes/Solution.java) | 20/0507  |    20/0508  |      |      |
+| 1.[Two Sum](1_TwoSum/Solution.java) |20/0507|20/0508|20/0517||
+| 11.[Container With Most Water](11_Container_With_Most_Water/Solution.java) |20/0507|20/0508|20/0517||
+| 15.[3 SUM](15_3SUM/Solution.java) |20/0508|20/0516|||
+| 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |20/0508|20/0516|||
+| 25.[Reverse Nodes in k-Group](25_Reverse_Nodes_in_k-Group/Solution.java) |20/0518||||
+| 26.[Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Array/Solution.java) |20/0518||||
+| 70.[Climbing Stais](70_ClimbingStairs/Solution.java) |20/0507|20/0508|20/0517||
+| 141.[Linked List Cycle](141_Linked_List_Cycle/Solution.java) |20/0508|20/0516|||
+| 142.[Linked List Cycle II](142_Linked_List_Cycle_ii/Solution.java) |20/0508|20/0516|||
+| 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) |20/0508|20/0516|||
+| 283.[Move Zeroes](283_MoveZeroes/Solution.java) |20/0507|20/0508|20/0517||
 
 > 注: 第一遍第二遍合并在No.1
