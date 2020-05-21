@@ -40,5 +40,7 @@
 |21.[Merge Two Sorted Lists](21_Merge_Two_Sorted_Lists/Solution.java)|20/0519|20/0520|||
 |88.[Merge Sorted Array](88_Merge_Sorted_Array/Solution.java)|20/0519|20/0520|||
 |66.[Plus One](66_Plus_One/Solution.java)|20/0519|20/0520|||
-|155.[Min Stack](155_Min_Stack/Solution.java)|20/0520||||
-|20.[Valid Parentheses](20_Valid_Parentheses/Solution.java)|20/0520||||
+|155.[Min Stack](155_Min_Stack/Solution.java)|20/0520|20/0521|||
+|20.[Valid Parentheses](20_Valid_Parentheses/Solution.java)|20/0520|20/0521|||
+|239.[Sliding Window Maximum](239_Sliding_Window_Maximum/Solution.java)|20/0521||||
+|84.[Largest Rectangle in Histogram](84_Largest_Rectangle_in_Histogram/Solution.java)|20/0521||||
