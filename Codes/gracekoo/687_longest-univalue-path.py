@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/19 23:48 
+# @Time: 2020/5/19 23:48
 # @Author: GraceKoo
 # @File: 687_longest-univalue-path.py
 # @Desc: https://leetcode-cn.com/problems/longest-univalue-path/
@@ -27,8 +27,8 @@ class Solution:
                 left_arrow = left_length + 1
             if node.right and node.val == node.right.val:
                 right_arrow = right_length + 1
-            self.ans = max(self.ans, left_arrow+right_arrow)
+            self.ans = max(self.ans, left_arrow + right_arrow)
             return max(left_arrow, right_arrow)
+
         arrow_length(root)
         return self.ans
-
