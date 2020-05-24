@@ -28,15 +28,15 @@
 | ---------- | ------- | ---- | ---- | ---- |
 | 1.[Two Sum](1_TwoSum/Solution.java) |20/0507|20/0508|20/0517||
 | 11.[Container With Most Water](11_Container_With_Most_Water/Solution.java) |20/0507|20/0508|20/0517||
-| 15.[3 SUM](15_3SUM/Solution.java) |20/0508|20/0516|||
-| 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |20/0508|20/0516|||
+| 15.[3 SUM](15_3SUM/Solution.java) |20/0508|20/0516|20/0524||
+| 24.[Swap Nodes In Pairs](24_Swap_Nodes_In_Pairs/Solution.java) |20/0508|20/0516|20/0524||
 | 25.[Reverse Nodes in k-Group](25_Reverse_Nodes_in_k-Group/Solution.java) |20/0518|20/0519|||
 | 26.[Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Array/Solution.java) |20/0518|20/0519|||
 | 70.[Climbing Stais](70_ClimbingStairs/Solution.java) |20/0507|20/0508|20/0517||
-| 141.[Linked List Cycle](141_Linked_List_Cycle/Solution.java) |20/0508|20/0516|||
-| 142.[Linked List Cycle II](142_Linked_List_Cycle_ii/Solution.java) |20/0508|20/0516|||
+| 141.[Linked List Cycle](141_Linked_List_Cycle/Solution.java) |20/0508|20/0516|20/0524||
+| 142.[Linked List Cycle II](142_Linked_List_Cycle_ii/Solution.java) |20/0508|20/0516|20/0524||
 | 189.[Rotate Array](189_Rotate_Array/Solution.java) |20/0518|20/0519|||
-| 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) |20/0508|20/0516|||
+| 206.[Reverse Linked List](206_Reverse_Linked_List/Solution.java) |20/0508|20/0516|20/0524||
 |21.[Merge Two Sorted Lists](21_Merge_Two_Sorted_Lists/Solution.java)|20/0519|20/0520|||
 |88.[Merge Sorted Array](88_Merge_Sorted_Array/Solution.java)|20/0519|20/0520|||
 |66.[Plus One](66_Plus_One/Solution.java)|20/0519|20/0520|||
@@ -44,4 +44,5 @@
 |20.[Valid Parentheses](20_Valid_Parentheses/Solution.java)|20/0520|20/0521|||
 |239.[Sliding Window Maximum](239_Sliding_Window_Maximum/Solution.java)|20/0521|20/0522|||
 |84.[Largest Rectangle in Histogram](84_Largest_Rectangle_in_Histogram/Solution.java)|20/0521|20/0522|||
-|2.[Add Two Numbers](2_Add_Two_Numbers/Solution.java)|20/0522|20/0522|||
+|2.[Add Two Numbers](2_Add_Two_Numbers/Solution.java)|20/0522|20/0523|||
+|42.[Trapping Rain Water](42_Trapping_Rain_Water/Solution.java)|20/0524||||
