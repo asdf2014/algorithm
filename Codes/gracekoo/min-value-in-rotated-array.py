@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/5/25 12:37 
+# @Time: 2020/5/25 12:37
 # @Author: GraceKoo
 # @File: min-value-in-rotated-array.py
 # @Desc: https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&tPage=1&rp=1&ru=/ta/
