@@ -16,8 +16,8 @@ class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         head_pre = ListNode(-1)
         pre = head_pre
-        while l1 or l2:
-            if l1.value < l2.value:
+        while l1 and l2:
+            if l1.val < l2.val:
                 pre.next = l1
                 l1 = l1.next
             else:
