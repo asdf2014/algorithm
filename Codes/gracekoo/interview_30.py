@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/7 21:36 
+# @Time: 2020/6/7 21:36
 # @Author: GraceKoo
 # @File: interview_30.py
 # @Desc: https://leetcode-cn.com/problems/
@@ -7,7 +7,6 @@
 
 
 class MinStack:
-
     def __init__(self):
         """
         initialize your data structure here.

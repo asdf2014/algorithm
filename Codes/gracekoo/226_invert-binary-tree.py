@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/3 12:28 
+# @Time: 2020/6/3 12:28
 # @Author: GraceKoo
 # @File: 226_invert-binary-tree.py
 # @Desc: https://leetcode-cn.com/problems/invert-binary-tree/
