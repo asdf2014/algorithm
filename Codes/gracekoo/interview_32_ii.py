@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/8 19:28 
+# @Time: 2020/6/8 19:28
 # @Author: GraceKoo
 # @File: interview_32_ii.py
 # @Desc: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
