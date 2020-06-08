@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/7 23:44 
+# @Time: 2020/6/7 23:44
 # @Author: GraceKoo
 # @File: interview_31.py
 # @Desc: https://leetcode-cn.com/problems/
