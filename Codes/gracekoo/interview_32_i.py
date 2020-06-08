@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/8 19:19 
+# @Time: 2020/6/8 19:19
 # @Author: GraceKoo
 # @File: interview_32_i.py
 # @Desc: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
@@ -29,4 +29,3 @@ class Solution:
             if node.right:
                 deque.append(node.right)
         return res
-
