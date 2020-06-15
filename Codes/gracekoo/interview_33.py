@@ -28,6 +28,5 @@ class Solution:
         return is_post_tree(0, len(postorder)-1)
 
 
-
 so = Solution()
 print(so.verifyPostorder([1, 3, 2, 6, 5]))
