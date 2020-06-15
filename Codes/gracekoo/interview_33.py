@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/15 22:18 
+# @Time: 2020/6/15 22:18
 # @Author: GraceKoo
 # @File: interview_33.py
 # @Desc: https://leetcode-cn.com/problems/
@@ -23,9 +23,13 @@ class Solution:
             m = p
             while postorder[p] > postorder[j]:
                 p += 1
-            return p == j and is_post_tree(postorder[i:m-1]) and is_post_tree(postorder[m:j-1])
+            return (
+                p == j
+                and is_post_tree(postorder[i : m - 1])
+                and is_post_tree(postorder[m : j - 1])
+            )
 
-        return is_post_tree(0, len(postorder)-1)
+        return is_post_tree(0, len(postorder) - 1)
 
 
 so = Solution()
