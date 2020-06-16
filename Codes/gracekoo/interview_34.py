@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/15 23:03 
+# @Time: 2020/6/15 23:03
 # @Author: GraceKoo
 # @File: interview_34.py
 # @Desc: https://leetcode-cn.com/problems/
@@ -19,6 +19,7 @@ class TreeNode:
 class Solution:
     def pathSum(self, root: TreeNode, sum: int) -> List[List[int]]:
         res, path = [], []
+
         def recur(root, tar):
             if not root:
                 return
@@ -29,7 +30,6 @@ class Solution:
             recur(root.left, tar)
             recur(root.right, tar)
             path.pop()
+
         recur(root, sum)
         return res
-
-
