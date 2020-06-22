@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/6/22 22:33 
+# @Time: 2020/6/22 22:33
 # @Author: GraceKoo
 # @File: interview_36.py
 # @Desc: https://leetcode-cn.com/problems/
@@ -24,11 +24,11 @@ class Solution:
         return self.zhongxu(root.left) + [root] + self.zhongxu(root.right)
 
     # 将中序遍历结果进行连接
-    def treeToDoublyList(self, root: 'Node') -> 'Node':
+    def treeToDoublyList(self, root: "Node") -> "Node":
         list_result = self.zhongxu(root)
         if len(list_result) == 0 or len(list_result) == 1:
             return root
         for i in range(len(list_result) - 1):
-            list_result[i].right = list_result[i+1]
-            list_result[i+1].left = list_result[i]
+            list_result[i].right = list_result[i + 1]
+            list_result[i + 1].left = list_result[i]
         return list_result[0]
