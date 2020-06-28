@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/8 19:48
 # @Author: GraceKoo
-# @File: interview_32_iii.py
+# @File: interview_22_iii.py
 # @Desc: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
 from typing import List
 import collections

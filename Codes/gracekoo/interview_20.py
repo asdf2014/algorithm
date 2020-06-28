@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/7 21:36
 # @Author: GraceKoo
-# @File: interview_30.py
+# @File: interview_20.py
 # @Desc: https://leetcode-cn.com/problems/
 # bao-han-minhan-shu-de-zhan-lcof/
 

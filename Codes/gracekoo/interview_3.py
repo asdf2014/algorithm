@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/5/9 23:22
 # @Author: GraceKoo
-# @File: printListFromTailToHead.py
-# @Desc:
+# @File: interview_3.py
+# @Desc: https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
+# qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 
 
 class ListNode:

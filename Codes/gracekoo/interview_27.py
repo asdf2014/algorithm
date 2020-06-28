@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/27 14:35
 # @Author: GraceKoo
-# @File: interview_37.py
+# @File: interview_27.py
 # @Desc: https://leetcode-cn.com/problems/
 # zi-fu-chuan-de-pai-lie-lcof/
 from typing import List

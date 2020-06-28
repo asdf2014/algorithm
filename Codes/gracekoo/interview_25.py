@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/19 10:28
 # @Author: GraceKoo
-# @File: interview_35.py
+# @File: interview_25.py
 # @Desc: https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 
 

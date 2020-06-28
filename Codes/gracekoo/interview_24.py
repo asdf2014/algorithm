@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/15 23:03
 # @Author: GraceKoo
-# @File: interview_34.py
+# @File: interview_24.py
 # @Desc: https://leetcode-cn.com/problems/
 # er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/
 

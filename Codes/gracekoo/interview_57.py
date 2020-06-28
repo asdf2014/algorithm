@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/5/11 19:47
 # @Author: GraceKoo
-# @File: GetNext.py
+# @File: interview_57.py
 # @Desc: https://www.nowcoder.com/questionTerminal/9023a0c988684a53960365b889ceaf5e
 
 

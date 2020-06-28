@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/15 22:18
 # @Author: GraceKoo
-# @File: interview_33.py
+# @File: interview_23.py
 # @Desc: https://leetcode-cn.com/problems/
 # er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
 from typing import List
