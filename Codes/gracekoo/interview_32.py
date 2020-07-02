@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/7/2 11:54 
+# @Time: 2020/7/2 11:54
 # @Author: GraceKoo
 # @File: interview_32.py
 # @Desc: https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/
@@ -21,7 +21,7 @@ class Solution(object):
                 if (nums[i] + nums[j]) > (nums[j] + nums[i]):
                     nums[i], nums[j] = nums[j], nums[i]
 
-        return ''.join(nums)
+        return "".join(nums)
 
 
 so = Solution()
