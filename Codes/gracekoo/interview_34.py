@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/7/7 10:56 
+# @Time: 2020/7/7 10:56
 # @Author: GraceKoo
 # @File: interview_34.py
 # @Desc: https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
