@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/7/16 11:33 
+# @Time: 2020/7/16 11:33
 # @Author: GraceKoo
 # @File: interview_5.py
 # @Desc: https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qr
@@ -58,4 +58,3 @@ class MyQueue:
 # param_2 = obj.pop()
 # param_3 = obj.peek()
 # param_4 = obj.empty()
-

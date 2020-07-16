@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/7/16 15:41 
+# @Time: 2020/7/16 15:41
 # @Author: GraceKoo
 # @File: interview_11.py
 # @Desc: https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/

@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/7/16 11:38 
+# @Time: 2020/7/16 11:38
 # @Author: GraceKoo
 # @File: interview_8.py
 # @Desc: https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qr
 # u=%2Fta%2Fcoding-interviews%2Fquestion-ranking
+
 
 class Solution:
     def climbStairs(self, n: int) -> int:
