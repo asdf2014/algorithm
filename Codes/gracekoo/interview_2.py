@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/5/8 22:38
 # @Author: GraceKoo
-# @File: ti-huan-kong-ge-lcof.py
+# @File: interview_2.py
 # @Desc: https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 
 

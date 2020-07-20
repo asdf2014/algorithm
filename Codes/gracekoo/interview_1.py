@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/5/7 12:31
 # @Author: GraceKoo
-# @File: er-wei-shu-zu-zhong-de-cha-zhao-lcof.py
+# @File: interview_1.py
 # @Desc: https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
 from typing import List
 

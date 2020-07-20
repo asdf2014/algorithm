@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/1/1 9:04 下午
+# @Time: 2020/7/16 16:41
 # @Author: GraceKoo
-# @File: 21_merge-two-sorted-lists.py
-# @Desc: https://leetcode-cn.com/problems/merge-two-sorted-lists/
+# @File: interview_16.py
+# @Desc: https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qr
+# u=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 
 
-# Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
         self.val = x
