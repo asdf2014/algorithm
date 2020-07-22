@@ -46,5 +46,6 @@
 |84.[Largest Rectangle in Histogram](84_Largest_Rectangle_in_Histogram/Solution.java)|20/0521|20/0522|20/0720||
 |2.[Add Two Numbers](2_Add_Two_Numbers/Solution.java)|20/0522|20/0523|||
 |42.[Trapping Rain Water](42_Trapping_Rain_Water/Solution.java)|20/0524|20/0525|20/0720||
-|242.[Valid Anagram](242_Valid_Anagram/Solution.java)|20/0721||||
-|49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721||||
+|242.[Valid Anagram](242_Valid_Anagram/Solution.java)|20/0721|20/0722|||
+|49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721|20/0722|||
+|94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722||||
