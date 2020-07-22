@@ -23,23 +23,21 @@ class Solution {
     }
 
     private int monotonicStack(int[] height) {
-        if (height == null) return 0;
+        if (height == null || height.length < 2) return 0;
         Stack<Integer> stack = new Stack<>();
-        int ans = 0;
-        for (int i = 0; i < height.length; i++) {
-            while(!stack.isEmpty() && height[stack.peek()] < height[i]) {
-                int curIdx = stack.pop();
-                while (!stack.isEmpty() && height[stack.peek()] == height[curIdx]) {
-                    stack.pop();
-                }
+        int water = 0, i = 0;
+        while (i < height.length) {
+            if (stack.isEmpty() || height[i] <= height[stack.peek()]) {
+                stack.push(i++);
+            } else {
+                int pre = stack.pop();
                 if (!stack.isEmpty()) {
-                    int stackTop = stack.peek();
-                    ans += (Math.min(height[stackTop], height[i]) - height[curIdx]) * (i - stackTop - 1);
+                    int minHeight = Math.min(height[stack.peek()], height[i]);
+                    water += (minHeight - height[pre]) * (i - stack.peek() - 1);
                 }
             }
-            stack.add(i);
         }
-        return ans;
+        return water;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
