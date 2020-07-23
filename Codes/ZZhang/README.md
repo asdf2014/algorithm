@@ -50,3 +50,4 @@
 |49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721|20/0722|||
 |94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722|20/0723|||
 |144.[Binary Tree Preorder Traversal](144_Binary_Tree_Preorder_Traversal/Solution.java)|20/0723||||
+|590.[N-ary Tree Postorder Traversal](590_N-ary_Tree_Postorder_Traversal/Solution.java)|20/0723||||
