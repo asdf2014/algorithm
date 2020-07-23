@@ -52,3 +52,4 @@
 |144.[Binary Tree Preorder Traversal](144_Binary_Tree_Preorder_Traversal/Solution.java)|20/0723||||
 |590.[N-ary Tree Postorder Traversal](590_N-ary_Tree_Postorder_Traversal/Solution.java)|20/0723||||
 |589.[N-ary Tree Preorder Traversal](589_N-ary_Tree_Preorder_Traversal/Solution.java)|20/0723||||
+|429.[N-ary Tree Level Order Traversal](429_N-ary_Tree_Level_Order_Traversal/Solution.java)|20/0723||||
