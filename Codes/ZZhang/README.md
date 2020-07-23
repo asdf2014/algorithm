@@ -48,4 +48,5 @@
 |42.[Trapping Rain Water](42_Trapping_Rain_Water/Solution.java)|20/0524|20/0525|20/0720||
 |242.[Valid Anagram](242_Valid_Anagram/Solution.java)|20/0721|20/0722|||
 |49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721|20/0722|||
-|94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722||||
+|94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722|20/0723|||
+|144.[Binary Tree Preorder Traversal](144_Binary_Tree_Preorder_Traversal/Solution.java)|20/0723||||
