@@ -53,4 +53,5 @@
 |590.[N-ary Tree Postorder Traversal](590_N-ary_Tree_Postorder_Traversal/Solution.java)|20/0723|20/0724|||
 |589.[N-ary Tree Preorder Traversal](589_N-ary_Tree_Preorder_Traversal/Solution.java)|20/0723|20/0724|||
 |429.[N-ary Tree Level Order Traversal](429_N-ary_Tree_Level_Order_Traversal/Solution.java)|20/0723|20/0724|||
-|22.[Generate Parentheses](22_Generate_Parentheses/Solution.java)|20/0724||||
+|22.[Generate Parentheses](22_Generate_Parentheses/Solution.java)|20/0724|20/0725|||
+|226.[Invert Binary Tree](226_Invert_Binary_Tree/Solution.java)|20/0725||||
