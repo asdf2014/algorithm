@@ -58,3 +58,4 @@
 |98.[Validate Binary Search Tree](98_Validate_Binary_Search_Tree/Solution.java)|20/0725|20/0726|||
 |111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726||||
 |104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726||||
+|297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726||||
