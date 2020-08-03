@@ -12,17 +12,23 @@ if [[ ${user_name}_x != "_x" ]]; then
     echo "Get github's username: ${user_name}."
 else
     echo "Please set github's username firstly!"
+    command -v open >/dev/null 2>&1 || {
+        echo >&2 "FYI, https://yuzhouwan.com/posts/30041/#Git-Config"; exit 1;
+    }
     open "https://yuzhouwan.com/posts/30041/#Git-Config"
     exit 1
 fi
 
 # check SSH
-ssh_succ=`ssh -T git@github.com 2>&1 | grep "successfully" | wc -l`
+ssh_succ=`ssh -T git@github.com 2>&1 | grep "successfully"`
 
-if [[ $(echo "${ssh_succ}" | bc) -eq 1 ]]; then
+if [[ "${ssh_succ}" != "" ]]; then
     echo "You've successfully authenticated."
 else
     echo "Please set SSH to github!"
+    command -v open >/dev/null 2>&1 || {
+        echo >&2 "FYI, https://yuzhouwan.com/posts/30041/#SSH-%E5%85%8D%E5%AF%86"; exit 1;
+    }
     open "https://yuzhouwan.com/posts/30041/#SSH-%E5%85%8D%E5%AF%86"
     exit 1
 fi
