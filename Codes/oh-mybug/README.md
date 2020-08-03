@@ -106,6 +106,6 @@
 ### Data Structure
 
 ### Algorithm
-- [Morris二叉树遍历算法](docs/Morris.md)
-- [KMP字符串匹配算法](docs/KMP.md)
-- [动态规划(Dynamic Programming, DP)](docs/DP.md)
+- [Morris二叉树遍历算法](note/Morris.md)
+- [KMP字符串匹配算法](note/KMP.md)
+- [动态规划(Dynamic Programming, DP)](note/DP.md)
