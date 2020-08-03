@@ -1,5 +1,4 @@
 # LeetCode
-Programming ideas &amp; Code
 ### List of solved problems
 | Title | Running Time | Memory Consumption | Note|
 |:-----|:-----:       |:-----:             |:-----             |
