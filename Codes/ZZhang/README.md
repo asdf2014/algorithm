@@ -46,16 +46,16 @@
 |84.[Largest Rectangle in Histogram](84_Largest_Rectangle_in_Histogram/Solution.java)|20/0521|20/0522|20/0720||
 |2.[Add Two Numbers](2_Add_Two_Numbers/Solution.java)|20/0522|20/0523|20/0726||
 |42.[Trapping Rain Water](42_Trapping_Rain_Water/Solution.java)|20/0524|20/0525|20/0720||
-|242.[Valid Anagram](242_Valid_Anagram/Solution.java)|20/0721|20/0722|||
-|49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721|20/0722|||
-|94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722|20/0723|||
-|144.[Binary Tree Preorder Traversal](144_Binary_Tree_Preorder_Traversal/Solution.java)|20/0723|20/0724|||
-|590.[N-ary Tree Postorder Traversal](590_N-ary_Tree_Postorder_Traversal/Solution.java)|20/0723|20/0724|||
-|589.[N-ary Tree Preorder Traversal](589_N-ary_Tree_Preorder_Traversal/Solution.java)|20/0723|20/0724|||
-|429.[N-ary Tree Level Order Traversal](429_N-ary_Tree_Level_Order_Traversal/Solution.java)|20/0723|20/0724|||
-|22.[Generate Parentheses](22_Generate_Parentheses/Solution.java)|20/0724|20/0725|||
-|226.[Invert Binary Tree](226_Invert_Binary_Tree/Solution.java)|20/0725|20/0726|||
-|98.[Validate Binary Search Tree](98_Validate_Binary_Search_Tree/Solution.java)|20/0725|20/0726|||
-|111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726||||
-|104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726||||
-|297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726||||
+|242.[Valid Anagram](242_Valid_Anagram/Solution.java)|20/0721|20/0722|20/07/31||
+|49.[Group Anagrams](49_Group_Anagrams/Solution.java)|20/0721|20/0722|20/08/02||
+|94.[Binary Tree Inorder Traversal](94_Binary_Tree_Inorder_Traversal/Solution.java)|20/0722|20/0723|20/08/02||
+|144.[Binary Tree Preorder Traversal](144_Binary_Tree_Preorder_Traversal/Solution.java)|20/0723|20/0724|20/08/05||
+|590.[N-ary Tree Postorder Traversal](590_N-ary_Tree_Postorder_Traversal/Solution.java)|20/0723|20/0724|20/08/05||
+|589.[N-ary Tree Preorder Traversal](589_N-ary_Tree_Preorder_Traversal/Solution.java)|20/0723|20/0724|20/08/05||
+|429.[N-ary Tree Level Order Traversal](429_N-ary_Tree_Level_Order_Traversal/Solution.java)|20/0723|20/0724|20/08/05||
+|22.[Generate Parentheses](22_Generate_Parentheses/Solution.java)|20/0724|20/0725|20/08/05||
+|226.[Invert Binary Tree](226_Invert_Binary_Tree/Solution.java)|20/0725|20/0726|20/08/05||
+|98.[Validate Binary Search Tree](98_Validate_Binary_Search_Tree/Solution.java)|20/0725|20/0726|20/08/05||
+|111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
+|104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
+|297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726|20/08/05|||
