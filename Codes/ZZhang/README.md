@@ -62,3 +62,5 @@
 |235.[Lowest Common Ancestor of a Binary Search Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)|20/0806|20/0807|||
 |105.[Construct Binary Tree from Preorder and Inorder Traversal](105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)|20/0806|20/0807|||
 |236.[Lowest Common Ancestor of a Binary Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)|20/0806|20/0807|||
+|50.[Pow(x, n)](50_Pow(x,_n)/Solution.java)|20/0807||||
+|78.[Subsets](78_Subsets/Solution.java)|20/0807||||
