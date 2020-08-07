@@ -59,6 +59,6 @@
 |111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
 |104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
 |297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726|20/08/05|||
-|235.[Lowest Common Ancestor of a Binary Search Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)|20/0806||||
-|105.[Construct Binary Tree from Preorder and Inorder Traversal](105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)|20/0806||||
-|236.[Lowest Common Ancestor of a Binary Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)|20/0806||||
+|235.[Lowest Common Ancestor of a Binary Search Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)|20/0806|20/0807|||
+|105.[Construct Binary Tree from Preorder and Inorder Traversal](105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)|20/0806|20/0807|||
+|236.[Lowest Common Ancestor of a Binary Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)|20/0806|20/0807|||
