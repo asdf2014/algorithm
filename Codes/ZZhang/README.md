@@ -3,7 +3,7 @@
 ### 关于
 - 学生, 坐标都柏林, 刷题快乐
 
-- GitHub： [ZZhang](https://github.com/ZhongyanZHANG)
+- GitHub： [ZZhang](https://github.com/ZZBear20)
 
 - 语言: Java
 
