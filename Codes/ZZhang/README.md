@@ -66,4 +66,4 @@
 |78.[Subsets](78_Subsets/Solution.java)|20/0807|20/0808|||
 |169.[Majority Element](169_Majority_Element/Solution.java)|20/0809|20/0810|||
 |17.[Letter Combinations of a Phone Number](17_Letter_Combinations_of_a_Phone_Number/Solution.java)|20/0809|20/0810|||
-|51.[N Queue](51_N-Queens//Solution.java)|20/0810||||
+|51.[N Queue](51_N-Queens//Solution.py)|20/0810||||
