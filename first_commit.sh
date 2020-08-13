@@ -20,7 +20,8 @@ else
 fi
 
 # check SSH
-ssh_succ=$(ssh -T git@github.com 2>&1 | grep -c "successfully")
+# shellcheck disable=SC2126
+ssh_succ=$(ssh -T git@github.com 2>&1 | grep "successfully" | wc -l)
 
 if [[ $(echo "${ssh_succ}" | bc) -eq 1 ]]; then
     echo "You've successfully authenticated."
