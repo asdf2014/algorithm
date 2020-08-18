@@ -7,8 +7,8 @@ from typing import List
 
 
 class LargerNumKey(str):
-    def __lt__(x, y):
-        return x + y < y + x
+    def __lt__(self, y):
+        return self + y < y + self
 
 
 class Solution:

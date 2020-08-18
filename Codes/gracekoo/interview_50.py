@@ -4,12 +4,13 @@
 # @File: interview_50.py
 # @Desc: https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
 # qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
+from typing import List
 
 
 class Solution:
     # 这里要特别注意~找到任意重复的一个值并赋值到duplication[0]
     # 函数返回True/False
-    def duplicateInArray(nums):
+    def duplicateInArray(self, nums: List[int]):
         """
         抽屉原理
         :type nums: List[int]
