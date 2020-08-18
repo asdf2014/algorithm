@@ -20,7 +20,7 @@ class Solution:
 
         # 方案：排序之后，双指针进行对比
 
-        sorted_nums = sorted(nums)
+        sorted_nums = sorted(nums)  # lgtm [py/unreachable-statement]
         p1 = 0
         p2 = len(nums) - 1
         while p1 <= p2 and sorted_nums[p1] == nums[p1]:
