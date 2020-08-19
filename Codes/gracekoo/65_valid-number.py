@@ -3,7 +3,6 @@
 # @Author: GraceKoo
 # @File: 65_valid-number.py
 # @Desc:https://leetcode-cn.com/problems/valid-number/
-import re
 
 
 class Solution:

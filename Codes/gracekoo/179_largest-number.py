@@ -3,7 +3,6 @@
 # @Author: GraceKoo
 # @File: 179_largest-number.py
 # @Desc: https://leetcode-cn.com/problems/largest-number/
-from typing import List
 
 
 class LargerNumKey(str):

@@ -3,7 +3,6 @@
 # @Author: GraceKoo
 # @File: 52_n-queens-ii.py
 # @Desc:https://leetcode-cn.com/problems/n-queens-ii/
-from typing import List
 
 
 class Solution:
