@@ -66,15 +66,15 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-08-19 11:33:38 |
+| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2020-08-19 11:32:03 |
 | **[HuaiyuGong](https://github.com/asdf2014/algorithm/tree/master/Codes/HuaiyuGong)** | 2020-08-11 17:01:06 |
-| **[ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang)** | 2020-08-10 20:03:43 |
-| **[molinchn](https://github.com/asdf2014/algorithm/tree/master/Codes/molinchn)** | 2020-08-07 14:08:16 |
+| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-08-10 20:03:43 |
+| [molinchn](https://github.com/asdf2014/algorithm/tree/master/Codes/molinchn) | 2020-08-07 14:08:16 |
 | [oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug) | 2020-08-04 19:09:05 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2020-07-27 12:54:46 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2020-07-16 09:42:18 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 2020-06-07 15:26:47 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2020-04-02 02:40:19 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2020-03-13 05:31:26 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 2020-03-02 03:39:32 |
 
 Updates to the leaderboards are automatically executed after submission.
