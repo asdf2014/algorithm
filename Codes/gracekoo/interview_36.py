@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/8/24 19:56 
+# @Time: 2020/8/24 19:56
 # @Author: GraceKoo
 # @File: interview_36.py
 # @Desc: https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
