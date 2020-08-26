@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/8/26 20:01 
+# @Time: 2020/8/26 20:01
 # @Author: GraceKoo
 # @File: interview_37.py
 # @Desc: https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
