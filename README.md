@@ -64,17 +64,17 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 42 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 29 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 29 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-08-26 20:26:04 |
+| **[ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang)** | 2020-09-07 04:26:50 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-08-26 20:27:35 |
 | **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2020-08-19 19:32:03 |
-| **[HuaiyuGong](https://github.com/asdf2014/algorithm/tree/master/Codes/HuaiyuGong)** | 2020-08-12 01:01:06 |
-| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-08-11 04:03:43 |
+| [HuaiyuGong](https://github.com/asdf2014/algorithm/tree/master/Codes/HuaiyuGong) | 2020-08-12 01:01:06 |
 | [molinchn](https://github.com/asdf2014/algorithm/tree/master/Codes/molinchn) | 2020-08-07 22:08:16 |
 | [oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug) | 2020-08-05 03:09:05 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2020-07-27 20:54:46 |
