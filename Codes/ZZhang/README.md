@@ -56,14 +56,15 @@
 |22.[Generate Parentheses](22_Generate_Parentheses/Solution.java)|20/0724|20/0725|20/08/05||
 |226.[Invert Binary Tree](226_Invert_Binary_Tree/Solution.java)|20/0725|20/0726|20/08/05||
 |98.[Validate Binary Search Tree](98_Validate_Binary_Search_Tree/Solution.java)|20/0725|20/0726|20/08/05||
-|111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
-|104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|||
-|297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726|20/08/05|||
-|235.[Lowest Common Ancestor of a Binary Search Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)|20/0806|20/0807|||
-|105.[Construct Binary Tree from Preorder and Inorder Traversal](105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)|20/0806|20/0807|||
-|236.[Lowest Common Ancestor of a Binary Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)|20/0806|20/0807|||
-|50.[Pow(x, n)](50_Pow(x,_n)/Solution.java)|20/0807|20/0808|||
-|78.[Subsets](78_Subsets/Solution.java)|20/0807|20/0808|||
-|169.[Majority Element](169_Majority_Element/Solution.java)|20/0809|20/0810|||
-|17.[Letter Combinations of a Phone Number](17_Letter_Combinations_of_a_Phone_Number/Solution.java)|20/0809|20/0810|||
-|51.[N Queue](51_N-Queens//Solution.py)|20/0810||||
+|111.[Minimum Depth of Binary Tree](111_Minimum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|20/09/04||
+|104.[Maximum Depth of Binary Tree](104_Maximum_Depth_of_Binary_Tree/Solution.java)|20/0726|20/08/05|20/09/04||
+|297.[Serialize and Deserialize Binary Tree](297_Serialize_and_Deserialize_Binary_Tree/Solution.java)|20/0726|20/08/05|20/09/04||
+|235.[Lowest Common Ancestor of a Binary Search Tree](235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)|20/0806|20/0807|20/09/04||
+|105.[Construct Binary Tree from Preorder and Inorder Traversal](105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)|20/0806|20/0807|20/09/04||
+|236.[Lowest Common Ancestor of a Binary Tree](236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)|20/0806|20/0807|20/09/04||
+|50.[Pow(x, n)](50_Pow(x,_n)/Solution.java)|20/0807|20/0808|20/09/04||
+|78.[Subsets](78_Subsets/Solution.java)|20/0807|20/0808|20/09/04||
+|169.[Majority Element](169_Majority_Element/Solution.java)|20/0809|20/0810|20/09/04||
+|17.[Letter Combinations of a Phone Number](17_Letter_Combinations_of_a_Phone_Number/Solution.java)|20/0809|20/0810|20/09/05||
+|51.[N Queue](51_N-Queens//Solution.py)|20/0810|20/09/05|||
+|77.[Combinations](77_Combinations/Solution.java)|20/0906||||
