@@ -69,3 +69,4 @@
 |51.[N Queue](51_N-Queens//Solution.py)|20/0810|20/09/05|||
 |77.[Combinations](77_Combinations/Solution.java)|20/0906|20/0907|||
 |46.[Permutations](46_Permutations/Solution.java)|20/0907||||
+|47.[Permutations II](47_Permutations_II/Solution.java)|20/0907||||
