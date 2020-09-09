@@ -70,4 +70,5 @@
 |77.[Combinations](77_Combinations/Solution.java)|20/09/06|20/09/07|||
 |46.[Permutations](46_Permutations/Solution.java)|20/09/07|20/09/08|||
 |47.[Permutations II](47_Permutations_II/Solution.java)|20/09/07|20/09/08|||
-|102.[Binary Tree Level Order Traversal](102_Binary_Tree_Level_Order_Traversal/Solution.java)|20/09/08||||
+|102.[Binary Tree Level Order Traversal](102_Binary_Tree_Level_Order_Traversal/Solution.java)|20/09/08|20/09/09|||
+|433.[Minimum Genetic Mutation](433_Minimum_Genetic_Mutation/Solution.java)|20/0909||||
