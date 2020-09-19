@@ -64,8 +64,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
-| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 29 |
+| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
 
 ### 最活跃的小伙伴
 
