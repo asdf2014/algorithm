@@ -67,9 +67,9 @@
 |169.[Majority Element](169_Majority_Element/Solution.java)|20/0809|20/0810|20/09/04||
 |17.[Letter Combinations of a Phone Number](17_Letter_Combinations_of_a_Phone_Number/Solution.java)|20/0809|20/0810|20/09/05||
 |51.[N Queue](51_N-Queens//Solution.py)|20/0810|20/09/05|||
-|77.[Combinations](77_Combinations/Solution.java)|20/09/06|20/09/07|||
-|46.[Permutations](46_Permutations/Solution.java)|20/09/07|20/09/08|||
-|47.[Permutations II](47_Permutations_II/Solution.java)|20/09/07|20/09/08|||
+|77.[Combinations](77_Combinations/Solution.java)|20/09/06|20/09/07|20/09/19||
+|46.[Permutations](46_Permutations/Solution.java)|20/09/07|20/09/08|20/09/19||
+|47.[Permutations II](47_Permutations_II/Solution.java)|20/09/07|20/09/08|20/09/19||
 |102.[Binary Tree Level Order Traversal](102_Binary_Tree_Level_Order_Traversal/Solution.java)|20/09/08|20/09/09|||
-|433.[Minimum Genetic Mutation](433_Minimum_Genetic_Mutation/Solution.java)|20/0909||||
-|515.[Find Largest Value in Each Tree Row](515_Find_Largest_Value_in_Each_Tree_Row/Solution.java)|20/0909||||
+|433.[Minimum Genetic Mutation](433_Minimum_Genetic_Mutation/Solution.java)|20/09/09|20/09/10|||
+|515.[Find Largest Value in Each Tree Row](515_Find_Largest_Value_in_Each_Tree_Row/Solution.java)|20/09/09|20/09/10|||
