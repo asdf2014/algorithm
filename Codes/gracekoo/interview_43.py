@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/23 18:33 
+# @Time: 2020/9/23 18:33
 # @Author: GraceKoo
 # @File: interview_43.py
 # @Desc: https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
@@ -15,4 +15,3 @@ class Solution:
 
 so = Solution()
 print(so.reverseLeftWords("abcdefg", 2))
-

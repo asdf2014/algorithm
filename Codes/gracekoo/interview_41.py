@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/23 18:33 
+# @Time: 2020/9/23 18:33
 # @Author: GraceKoo
 # @File: interview_41.py
 # @Desc: https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/

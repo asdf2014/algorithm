@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/8/26 20:27 
+# @Time: 2020/8/26 20:27
 # @Author: GraceKoo
 # @File: interview_38.py
 # @Desc: https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/

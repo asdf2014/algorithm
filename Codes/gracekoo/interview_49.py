@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/25 14:37 
+# @Time: 2020/9/25 14:37
 # @Author: GraceKoo
 # @File: interview_49.py
 # @Desc: https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
@@ -11,7 +11,7 @@ class Solution:
             return 0
         # string = str.split()[0]  # 不使用split，strip等方法可以将空间复杂度降到O(1)
         result, i, sign, len_str = 0, 0, 1, len(str)  # 结果，开始的索引，正负号，str的长度
-        int_max, int_min, boundary = 2 ** 31 - 1, -2 ** 31, 2 ** 31 // 10
+        int_max, int_min, boundary = 2 ** 31 - 1, -(2 ** 31), 2 ** 31 // 10
 
         # 去除空格
         while str[i] == " ":

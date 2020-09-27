@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/25 14:37 
+# @Time: 2020/9/25 14:37
 # @Author: GraceKoo
 # @File: interview_51.py
 # @Desc: https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/

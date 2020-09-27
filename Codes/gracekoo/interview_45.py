@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/24 15:16 
+# @Time: 2020/9/24 15:16
 # @Author: GraceKoo
 # @File: interview_45.py
 # @Desc: https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
