@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/28 16:16 
+# @Time: 2020/9/28 16:16
 # @Author: GraceKoo
 # @File: interview_56.py
 # @Desc: https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
@@ -30,4 +30,3 @@ class Solution:
                 # 不相同则令p指向不重复的元素
                 p.next = cur
         return head.next
-

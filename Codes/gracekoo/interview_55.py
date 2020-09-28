@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/28 16:16 
+# @Time: 2020/9/28 16:16
 # @Author: GraceKoo
 # @File: interview_55.py
 # @Desc: https://leetcode-cn.com/problems/linked-list-cycle/
@@ -36,4 +36,3 @@ class Solution:
 
         # 否则不存在环
         return None
-
