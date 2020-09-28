@@ -6,11 +6,23 @@
 
 
 class Solution:
-    def firstUniqChar(self, s: str) -> str:
-        result_dict = {}
-        for item in s:
-            result_dict[item] = item not in result_dict
-        for k, v in result_dict.items():
-            if v:
-                return k
-        return " "
+    def __init__(self):
+        self.char_appearing_dict = {}
+        self.char_insert = []
+
+    def FirstAppearingOnce(self):
+        # write code here
+        if not self.char_appearing_dict:
+            return "#"
+        for c in self.char_insert:
+            if self.char_appearing_dict[c] == 1:
+                return c
+        return "#"
+
+    def Insert(self, char):
+        # write code here
+        self.char_insert.append(char)
+        if char in self.char_appearing_dict:
+            self.char_appearing_dict[char] += 1
+        else:
+            self.char_appearing_dict[char] = 1
