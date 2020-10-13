@@ -21,14 +21,12 @@ class Solution:
     def kthLargest(self, root: TreeNode, k: int) -> int:
         def dfs(root):
             # 递归结束条件
-            if not root:
+            if not root or self.k == 0:
                 return
             # 先遍历右结点
             dfs(root.right)
 
             # 对当前结点进行判断，如果当前k已经减到0了，则找到第k大的结点了，返回
-            if self.k == 0:
-                return
             self.k -= 1
             if self.k == 0:
                 self.result_node = root.val
