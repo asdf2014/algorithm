@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/28 20:43 
+# @Time: 2020/9/28 20:43
 # @Author: GraceKoo
 # @File: interview_61.py
 # @Desc: https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/
@@ -15,7 +15,6 @@ class TreeNode(object):
 
 
 class Codec:
-
     def serialize(self, root):
         """Encodes a tree to a single string.
 
@@ -48,7 +47,7 @@ class Codec:
             else:
                 result.append("null")
 
-        return "["+",".join(result)+"]"
+        return "[" + ",".join(result) + "]"
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.

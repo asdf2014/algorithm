@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2020/9/28 20:43 
+# @Time: 2020/9/28 20:43
 # @Author: GraceKoo
 # @File: interview_62.py
 # @Desc: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
