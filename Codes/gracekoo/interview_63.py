@@ -7,7 +7,6 @@ from heapq import *
 
 
 class MedianFinder:
-
     def __init__(self):
         """
         initialize your data structure here.
@@ -30,6 +29,7 @@ class MedianFinder:
             return self.B[0]
         else:
             return (-self.A[0] + self.B[0]) / 2.0
+
 
 # Your MedianFinder object will be instantiated and called as such:
 # obj = MedianFinder()
