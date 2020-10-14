@@ -16,7 +16,7 @@ class Solution:
         for left, right in zip(range(1 - k, len_nums + 1 - k), range(len_nums)):
             # 为队列元素同步滑动窗口：队列内仅包含窗口内的元素,每轮窗口滑动移除了元素 nums[left - 1] ，需将队列内的对应元素一起删除。
             # 如果不相等，则证明当前最大不等于滑动窗口刚滑过的元素
-            if left > 0 and de[0] == nums[left-1]:
+            if left > 0 and de[0] == nums[left - 1]:
                 de.popleft()
 
             # 为保持队列的单调性：若队列中最小的元素小于待比较的元素，则将队尾元素弹出，新元素加入队尾
