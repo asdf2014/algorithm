@@ -9,6 +9,8 @@ import collections
 
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        if k == 0:
+            return []
         de = collections.deque()  # 构建一个双向单调递减队列，队列头记录当前窗口的最大值
         result, len_nums = [], len(nums)
         for left, right in zip(range(1 - k, len_nums + 1 - k), range(len_nums)):
