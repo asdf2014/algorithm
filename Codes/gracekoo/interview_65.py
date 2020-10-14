@@ -10,17 +10,27 @@ class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         def dfs(i, j, k):
             # 递归异常退出的条件：索引超出范围或者与当前字母不匹配
-            if not 0 <= i < len(board) or not 0 <= j < len(board[0]) or word[k] != board[i][j] or board[i][j] == "*":
+            if (
+                not 0 <= i < len(board)
+                or not 0 <= j < len(board[0])
+                or word[k] != board[i][j]
+                or board[i][j] == "*"
+            ):
                 return False
             # 递归成功退出的条件
-            if k == len(word)-1:
+            if k == len(word) - 1:
                 return True
 
             # 继续向上下左右进行遍历
             tmp = board[i][j]
             board[i][j] = "*"  # *表示已经遍历过
 
-            result = dfs(i-1, j, k+1) or dfs(i+1, j, k+1) or dfs(i, j-1, k+1) or dfs(i, j+1, k+1)
+            result = (
+                dfs(i - 1, j, k + 1)
+                or dfs(i + 1, j, k + 1)
+                or dfs(i, j - 1, k + 1)
+                or dfs(i, j + 1, k + 1)
+            )
 
             board[i][j] = tmp  # 不管遍历结果如何，都需要恢复相应字符
             return result
