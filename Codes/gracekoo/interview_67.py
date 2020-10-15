@@ -20,11 +20,11 @@ class Solution:
             # 1 * F(n-1)、2 * F(n-2).....、i * F(n - i)
             for i in range(1, n):
                 # 剪或不剪
-                result = max(result, max(i * (n-i), i * memorize(n - i)))
+                result = max(result, max(i * (n - i), i * memorize(n - i)))
             fn[n] = result
             return result
 
-        fn = [0 for _ in range(n+1)]  # 用于计算已计算过的函数变量
+        fn = [0 for _ in range(n + 1)]  # 用于计算已计算过的函数变量
         return memorize(n)
 
 
