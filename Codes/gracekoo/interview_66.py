@@ -31,7 +31,7 @@ class Solution:
                 # 只考虑向下和向右即可
                 for dx, dy in [(1, 0), (0, 1)]:
                     if x + dx < m and y + dy < n:
-                        de.append((x+dx, y+dy))
+                        de.append((x + dx, y + dy))
         return len(marked)
 
     def movingCount_DFS(self, m: int, n: int, k: int) -> int:
