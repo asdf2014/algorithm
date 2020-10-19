@@ -3,12 +3,15 @@
 # @Author: GraceKoo
 # @File: interview_52.py
 # @Desc: https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/
+from functools import lru_cache
 
 
 class Solution:
+    @lru_cache(None)
     def isMatch(self, s: str, p: str) -> bool:
+        # 结束条件：如果现在p为空，那匹配结果取决于s是否为空，s为空，返回True
         if not p:
-            return not s  # 结束条件
+            return not s
 
         first_match = (len(s) > 0) and p[0] in {s[0], "."}
         # 先处理 `*`
