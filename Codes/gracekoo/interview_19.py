@@ -11,14 +11,18 @@ class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         # 生成器
         def spiral_matrix(r1, c1, r2, c2):
+            # 先输出r1行的坐标
             for c in range(c1, c2 + 1):
                 yield r1, c
+            # 再输出c2列的坐标
             for r in range(r1 + 1, r2 + 1):
                 yield r, c2
-            # 如果r1==r2,或者c1==c2证明已经行或列已有重合，上面已经输出过了，无需重复输出
+            # 判断r1与r2，c1与c2是否重合
             if r1 < r2 and c1 < c2:
+                # 先输出r2行的坐标
                 for c in range(c2 - 1, c1, -1):
                     yield r2, c
+                # 再输出c1列的坐标
                 for r in range(r2, r1, -1):
                     yield r, c1
 
