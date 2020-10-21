@@ -26,20 +26,24 @@ class Solution:
     def quicksort(self, arr, left, right):
         """
         简单版快速排序
+        返回一个坐标，坐标左侧都小于返回值，右侧都大于返回值
         """
         i = left
         j = right
         temp = arr[left]
         while i < j:
+            # 从右侧搜索小元素，并进行交换
             while i < j and arr[j] >= temp:
                 j -= 1
             arr[i] = arr[j]
+            # 从左侧搜索大元素，并进行交换
             while i < j and arr[i] < temp:
                 i += 1
             arr[j] = arr[i]
+        # 最初left上的数字已经被覆盖了，所以需要重新赋值
         arr[i] = temp
         return i
 
 
 so = Solution()
-print(so.getLeastNumbers([3, 2, 1], 2))
+print(so.getLeastNumbers([4, 5, 1, 6, 2], 4))
