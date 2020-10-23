@@ -42,7 +42,7 @@ class Solution:
             while i >= 0 and j >= 0:
                 # 存在一对逆序
                 if nums1[i] > nums2[j]:
-                    self.count += (j + 1)
+                    self.count += j + 1
                     sum_nums[sum_nums_index] = nums1[i]
                     i -= 1
                     sum_nums_index -= 1
