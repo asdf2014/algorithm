@@ -8,29 +8,17 @@ from typing import List
 
 
 class Solution:
-    # 这里要特别注意~找到任意重复的一个值并赋值到duplication[0]
-    # 函数返回True/False
-    def duplicateInArray(self, nums: List[int]):
-        """
-        抽屉原理
-        :type nums: List[int]
-        :rtype int
-        """
-        left_value = 1
-        right_value = len(nums) - 1
-        while left_value < right_value:
-            middle_value = int(left_value + (right_value - left_value) / 2)
-            count_left = 0
-            count_right = 0
-            for value in nums:
-                if left_value <= value <= middle_value:
-                    count_left += 1
-                else:
-                    count_right += 1
-            # 左半段存在重复（左半段的个数大于左半段的长度），根据抽屉原理，在左半段进行查找
-            if count_left > middle_value - left_value + 1:
-                right_value = middle_value
-            # 右半段存在重复，在右半段进行查找
-            else:
-                left_value = middle_value + 1
-        return left_value
+    def findRepeatNumber(self, nums: List[int]) -> int:
+        if not nums:
+            return -1
+        i = 0
+        while i < len(nums):
+            if nums[i] == i:
+                i += 1
+                continue
+            if nums[i] == nums[nums[i]]:
+                return nums[i]
+            nums[nums[i]], nums[i] = nums[i], nums[nums[i]]
+
+        return -1
+
