@@ -9,11 +9,12 @@ from typing import List
 class Solution:
     def constructArr(self, a: List[int]) -> List[int]:
         b, tmp = [1] * len(a), 1
-        # 先计算下三角
+        # 先计算下三角,也就是B[i]乘积左侧部分
         for i in range(1, len(a)):
             b[i] = b[i - 1] * a[i - 1]
-        # 再计算上三角
+        # 再计算上三角,,也就是B[i]乘积右侧部分
         for i in range(len(a) - 2, -1, -1):
+            # tmp用于逐个记录a从右至左的乘积
             tmp *= a[i + 1]
             b[i] *= tmp
         return b
