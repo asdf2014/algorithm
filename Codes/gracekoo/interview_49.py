@@ -29,7 +29,7 @@ class Solution:
         for c in str[i:]:
             if not "0" <= c <= "9":
                 break
-            if result > boundary or result == boundary and c > "7":
+            if result > boundary or (result == boundary and c > "7"):
                 return int_max if sign == 1 else int_min
             result = result * 10 + ord(c) - ord("0")  # 结果通过字符与"0"的ASCII码求得
         return sign * result
