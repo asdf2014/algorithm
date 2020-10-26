@@ -15,6 +15,7 @@ class Solution:
         # 遍历dp: 即F(n)
         for i in range(3, n + 1):
             # 求解loop，求每个F(n)的解
+            # j代表在i长的绳子上要怎么剪，j==0or==i都代表不需要剪
             for j in range(i):
                 dp[i] = max(dp[i], max((i - j) * j, dp[i - j] * j))
         return dp[n]
