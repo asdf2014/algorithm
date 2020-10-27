@@ -7,7 +7,13 @@
 
 class Solution:
     def reverseWords(self, s: str) -> str:
-        return " ".join(list(s.split())[::-1])
+        if not s:
+            return s
+        s_rotate = s.split()
+        # " "的情况，直接返回s
+        if len(s_rotate) <= 1:
+            return s
+        return " ".join(s_rotate[::-1])
 
 
 so = Solution()
