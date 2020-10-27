@@ -18,7 +18,7 @@ class Solution:
                 result.add(tmp)
                 return
             for i in range(len(nums)):
-                backtrack(nums[:i] + nums[i + 1:], tmp + nums[i])
+                backtrack(nums[:i] + nums[i + 1 :], tmp + nums[i])
 
         result = set()
         backtrack(s, "")
