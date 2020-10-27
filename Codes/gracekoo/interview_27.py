@@ -12,12 +12,13 @@ class Solution:
         if not s:
             return []
 
+        # nums存放需要继续遍历的字符，tmp存放当前遍历的结果
         def backtrack(nums, tmp):
             if not nums:
                 result.add(tmp)
                 return
             for i in range(len(nums)):
-                backtrack(nums[:i] + nums[i + 1 :], tmp + nums[i])
+                backtrack(nums[:i] + nums[i + 1:], tmp + nums[i])
 
         result = set()
         backtrack(s, "")
