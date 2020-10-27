@@ -2,8 +2,7 @@
 # @Time: 2020/6/27 14:35
 # @Author: GraceKoo
 # @File: interview_27.py
-# @Desc: https://leetcode-cn.com/problems/
-# zi-fu-chuan-de-pai-lie-lcof/
+# @Desc: https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/
 from typing import List
 
 
@@ -26,4 +25,4 @@ class Solution:
 
 
 so = Solution()
-print(so.permutation("ryawrowv"))
+print(so.permutation("aab"))
