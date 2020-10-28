@@ -11,14 +11,17 @@ class Solution:
         # write code here
         if not head:
             return None
+        # 让p，q相隔k个
         p = head
         q = head
         count = 0
         while p:
             p = p.next
             count += 1
+            # count至少大于等于2的时候才p才走
             if count >= k + 1:
                 q = q.next
+        # 当k的长度比链表都长时，直接返回None
         if k > count:
             return None
         return q
