@@ -14,7 +14,7 @@ class ListNode:
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         if not head or not head.next:
-            return None
+            return head
         pre_node = None
         current_node = head
         while current_node:
