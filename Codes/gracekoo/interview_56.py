@@ -27,6 +27,6 @@ class Solution:
                 cur_val = cur.val
                 while cur and cur.val == cur_val:
                     cur = cur.next
-                # 不相同则令p指向不重复的元素
+                # 不相同则令p指向不重复的元素,如果cur不存在，则p指向None就好了
                 p.next = cur
         return head.next
