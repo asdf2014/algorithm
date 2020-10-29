@@ -2,7 +2,7 @@
 # @Time: 2020/9/24 15:16
 # @Author: GraceKoo
 # @File: interview_46.py
-# @Desc: https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
+# @Desc: https://leetcode-cni.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
 
 
 class Solution:
