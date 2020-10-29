@@ -2,7 +2,8 @@
 # @Time: 2020/9/28 16:16
 # @Author: GraceKoo
 # @File: interview_55.py
-# @Desc: https://leetcode-cn.com/problems/linked-list-cycle/
+# @Desc: https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qr
+# u=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 
 
 # Definition for singly-linked list.
@@ -15,24 +16,18 @@ class ListNode:
 class Solution:
     def EntryNodeOfLoop(self, pHead):
         # write code here
-        if not pHead or not pHead.next or pHead.next.next:
+        if pHead == None and pHead.next == None:
             return None
-        slow = pHead.next
-        fast = pHead.next.next
-
-        # 让快指针走两步，慢指针走一步，这样如果存在环，快慢指针就会相遇
-        while fast != slow and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-        # 如果相遇了
-        if slow == fast:
-            # 慢指针指向表头，快指针停留在相遇点
-            slow = pHead
-            # 两个指针分别从链表头和相遇点出发，最后一定相遇于环入口
-            while slow != fast:
-                slow = slow.next
-                fast = fast.next
-            return slow
-
-        # 否则不存在环
+        onestep = pHead
+        twostep = pHead
+        # 之所以不用写twostep.next.next， 是因为如果twostep.next.next为None，则下次循环twostep就为None了，就会退出
+        while twostep and twostep.next:
+            onestep = onestep.next
+            twostep = twostep.next.next
+            if onestep == twostep:
+                onestep = pHead
+                while onestep != twostep:
+                    onestep = onestep.next
+                    twostep = twostep.next
+                return onestep
         return None
