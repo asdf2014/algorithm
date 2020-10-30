@@ -2,8 +2,7 @@
 # @Time: 2020/6/15 22:18
 # @Author: GraceKoo
 # @File: interview_23.py
-# @Desc: https://leetcode-cn.com/problems/
-# er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+# @Desc: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
 from typing import List
 
 
@@ -12,24 +11,23 @@ class Solution:
         if not postorder:
             return False
 
-        def is_post_tree(i, j):
+        # 待分析的区间
+        def recur(i, j):
+            #  已经对比完毕，返回True
             if i >= j:
                 return True
-            # 找寻根结点的左子树，应该都小于根节点
+            # 根结点在最右边，左子树应该都比它小
             p = i
             while postorder[p] < postorder[j]:
                 p += 1
-            # 找寻根结点的右子树，应该都大于根节点
-            m = p
+            left_end = p
+            # 右子树应该都比它小
             while postorder[p] > postorder[j]:
                 p += 1
-            return (
-                p == j
-                and is_post_tree(postorder[i : m - 1])
-                and is_post_tree(postorder[m : j - 1])
-            )
+            # 若是后序遍历序列，那p应该已经和j相等了; 并且遍历左右子树序列也应该是后序遍历序列
+            return p == j and recur(i, left_end - 1) and recur(left_end, j - 1)
 
-        return is_post_tree(0, len(postorder) - 1)
+        return recur(0, len(postorder) - 1)
 
 
 so = Solution()
