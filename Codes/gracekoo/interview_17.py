@@ -14,6 +14,7 @@ class TreeNode:
 
 
 class Solution:
+    # 用于判断B是不是A的子结构，在A里进行搜索
     def isSubStructure(self, A: TreeNode, B: TreeNode) -> bool:
         if not A or not B:
             return False
@@ -23,6 +24,7 @@ class Solution:
             or self.isSubStructure(A.right, B)
         )
 
+    # 用于判断以A为子结点的树是否包含B
     def recure(self, A: TreeNode, B: TreeNode) -> bool:
         if not B:
             return True
