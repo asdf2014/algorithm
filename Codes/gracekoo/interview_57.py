@@ -2,7 +2,8 @@
 # @Time: 2020/5/11 19:47
 # @Author: GraceKoo
 # @File: interview_57.py
-# @Desc: https://www.nowcoder.com/questionTerminal/9023a0c988684a53960365b889ceaf5e
+# @Desc: https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&qr
+# u=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 
 
 class TreeLinkNode:
@@ -25,11 +26,10 @@ class Solution:
                 pNode = pNode.left
             return pNode
         # 如果当前节点没有右节点
-        else:
-            while pNode.next:
-                # 如果当前节点位于左子树上
-                if pNode.next.left == pNode:  # pNode.next为父节点
-                    return pNode.next
-                # 否则循环找，直到当前节点为其父节点的左子树
-                pNode = pNode.next
+        while pNode.next:
+            # 如果当前节点位于左子树上
+            if pNode.next.left == pNode:  # pNode.next为父节点
+                return pNode.next
+            # 否则循环找，直到当前节点为其父节点的左子树
+            pNode = pNode.next
         return None
