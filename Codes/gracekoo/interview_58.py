@@ -16,11 +16,14 @@ class TreeNode:
 class Solution:
     def isSymmetric(self, root: TreeNode) -> bool:
         def recur(LeftNode, RightNode):
+            # 先比较当前节点
+            # 证明已经越过了叶节点，返回True
             if not LeftNode and not RightNode:
                 return True
+            # 如果只有一边越过了叶节点，返回False
             if not LeftNode or not RightNode or LeftNode.val != RightNode.val:
                 return False
-            # 不满足直接退出的条件，则继续向下递归
+            # 再递归比较叶子节点
             return recur(LeftNode.left, RightNode.right) and recur(
                 LeftNode.right, RightNode.left
             )
