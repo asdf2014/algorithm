@@ -8,6 +8,8 @@
 
 class Solution:
     def climbStairs(self, n: int) -> int:
+        if 0 <= n <= 2:
+            return n
         dp = [i for i in range(n)]
         dp[0] = 1
         dp[1] = 2
