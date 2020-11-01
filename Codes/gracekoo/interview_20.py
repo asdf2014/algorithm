@@ -2,8 +2,7 @@
 # @Time: 2020/6/7 21:36
 # @Author: GraceKoo
 # @File: interview_20.py
-# @Desc: https://leetcode-cn.com/problems/
-# bao-han-minhan-shu-de-zhan-lcof/
+# @Desc: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
 
 
 class MinStack:
@@ -16,7 +15,7 @@ class MinStack:
 
     def push(self, x: int) -> None:
         self.stack.append(x)
-        if not self.mins or x <= self.mins[-1]:
+        if not self.mins or x < self.mins[-1]:
             self.mins.append(x)
 
     def pop(self) -> None:
