@@ -19,6 +19,7 @@ class Solution:
         self.result_node = None
 
     def kthLargest(self, root: TreeNode, k: int) -> int:
+        # 对二叉搜索树进行反中序遍历，将产生一个从大到小的序列
         def dfs(root):
             # 递归结束条件
             if not root or self.k == 0:
