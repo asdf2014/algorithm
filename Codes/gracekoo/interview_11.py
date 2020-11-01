@@ -8,9 +8,11 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
         res = 0
-        while n:
+        count = 1  # 牛客网要求只输出该数32位二进制表示中1的个数，故利用count来计数
+        while n and count <= 32:
             res += n & 1
             n >>= 1
+            count += 1
         return res
 
 
