@@ -2,7 +2,7 @@
 # @Time: 2020/9/28 20:43
 # @Author: GraceKoo
 # @File: interview_61.py
-# @Desc: https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/
+# @Desc: https://leetcode-cn.com/prdoblems/xu-lie-hua-er-cha-shu-lcof/
 from collections import deque
 
 
