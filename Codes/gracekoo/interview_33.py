@@ -7,15 +7,17 @@
 
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
+        if n <= 0:
+            return 0
         dp, a, b, c = [1] * n, 0, 0, 0
         for i in range(1, n):
-            n2, n3, n5 = dp[a] * 2, dp[b] * 3, dp[c] * 5
-            dp[i] = min(n2, n3, n5)
-            if dp[i] == n2:
+            min_ugly = min(dp[a] * 2, dp[b] * 3, dp[c] * 5)
+            dp[i] = min_ugly
+            if min_ugly == dp[a] * 2:
                 a += 1
-            if dp[i] == n3:
+            if min_ugly == dp[b] * 3:
                 b += 1
-            if dp[i] == n5:
+            if min_ugly == dp[c] * 5:
                 c += 1
         return dp[-1]
 
