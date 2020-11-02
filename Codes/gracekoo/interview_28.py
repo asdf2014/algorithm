@@ -2,8 +2,8 @@
 # @Time: 2020/6/28 19:45
 # @Author: GraceKoo
 # @File: interview_28.py
-# @Desc: https://leetcode-cn.com/problems/
-# shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
+# @Desc: https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
+
 from typing import List
 
 

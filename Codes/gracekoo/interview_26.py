@@ -2,8 +2,7 @@
 # @Time: 2020/6/22 22:33
 # @Author: GraceKoo
 # @File: interview_26.py
-# @Desc: https://leetcode-cn.com/problems/
-# er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
+# @Desc: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
 
 
 """
