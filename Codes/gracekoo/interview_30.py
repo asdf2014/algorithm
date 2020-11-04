@@ -2,7 +2,7 @@
 # @Time: 2020/6/30 14:52
 # @Author: GraceKoo
 # @File: interview_30.py
-# @Desc: https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
+# @Desc: https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&rp=1&ru=%2Fta%2Fcoding-interviews&
 # qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 from typing import List
 
