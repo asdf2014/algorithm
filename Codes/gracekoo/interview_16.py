@@ -16,6 +16,7 @@ class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         head_pre = ListNode(-1)
         pre = head_pre
+        # 如果l1或者l2还未遍历完
         while l1 and l2:
             if l1.val < l2.val:
                 pre.next = l1
