@@ -28,10 +28,13 @@ class MedianFinder:
         if len(self.A) != len(self.B):
             return self.B[0]
         else:
+            # A由于是存放的都是相反数，所以计算时，A中最大的数其实在A[0],也就是-A[0]是A中最大的数
             return (-self.A[0] + self.B[0]) / 2.0
 
 
 # Your MedianFinder object will be instantiated and called as such:
-# obj = MedianFinder()
-# obj.addNum(num)
-# param_2 = obj.findMedian()
+obj = MedianFinder()
+obj.addNum(3)
+obj.addNum(4)
+obj.addNum(5)
+param_2 = obj.findMedian()
