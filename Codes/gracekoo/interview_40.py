@@ -3,34 +3,32 @@
 # @Author: GraceKoo
 # @File: interview_40.py
 # @Desc: https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
-from typing import List
 
 
 class Solution:
-    def singleNumbers(self, nums: List[int]) -> List[int]:
-        len_nums = len(nums)
-        if len_nums <= 1:
-            return nums
-        output = []
-        #  首先进行排序
-        sort_nums = sorted(nums)
-        i, j = 0, 1
-        # i指向相同元素的第一个元素，j负责找与nums[i]不同的元素
-        for j in range(1, len_nums):
-            if sort_nums[i] != sort_nums[j]:
-                # 如果不同元素是相邻的
+    # 返回[a,b] 其中ab是出现一次的两个数字
+    def FindNumsAppearOnce(self, array):
+        # write code here
+        if not array:
+            return []
+        len_array = len(array)
+        if len_array <= 3:
+            return []
+        result = []
+        array.sort()
+        i, j = 0, 1 # i指向重复的首字符，j负责寻找
+        for j in range(1, len_array):
+            if array[i] != array[j]:
+                # 如果间隔小于1，证明重复次数小于1
                 if j - i == 1:
-                    output.append(sort_nums[i])
-                    i = j
-                # 如果不同元素不相邻，说明nums[i]有重复出现，则排除，将i指向当前j指向的元素
-                if j - i > 1:
-                    i = j
-        # 判断最后一个元素是否重复
-        if sort_nums[-1] != sort_nums[-2]:
-            output.append(sort_nums[-1])
-        return output
+                    result.append(array[i])
+                # 如果间隔大于1，证明j又找到一个新的不相等的数
+                i = j
+        # 最后需要判断下最后一个字符
+        if array[-1] != array[-2]:
+            result.append(array[-1])
+        return ",".join(str(_) for _ in result)
 
 
-test_arr = [1, 289, 23, 23, 24]
 so = Solution()
-print(so.singleNumbers(test_arr))
+print(so.FindNumsAppearOnce([2, 4, 3, 6, 3, 2, 5, 5]))
