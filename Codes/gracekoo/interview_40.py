@@ -16,7 +16,7 @@ class Solution:
             return []
         result = []
         array.sort()
-        i, j = 0, 1 # i指向重复的首字符，j负责寻找
+        i, j = 0, 1  # i指向重复的首字符，j负责寻找
         for j in range(1, len_array):
             if array[i] != array[j]:
                 # 如果间隔小于1，证明重复次数小于1
