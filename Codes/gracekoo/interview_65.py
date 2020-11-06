@@ -35,7 +35,7 @@ class Solution:
             board[i][j] = tmp  # 不管遍历结果如何，都需要恢复相应字符
             return result
 
-        # 从不同的起点出发, k代表当前遍历到的单词字母的索引
+        # 从board中不同的起点出发, k代表当前遍历到的单词字母的索引
         for i in range(len(board)):
             for j in range(len(board[0])):
                 if dfs(i, j, 0):
