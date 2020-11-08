@@ -4,6 +4,7 @@
 # @File: interview_49.py
 # @Desc: https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 
+
 class Solution:
     def strToInt(self, str: str) -> int:
         if not str:
@@ -35,7 +36,7 @@ class Solution:
 
         # 求小数部分
         x = 1
-        if str[i-1] == ".":
+        if str[i - 1] == ".":
             for c in str[i:]:
                 if not "0" <= c <= "9":
                     break
@@ -49,4 +50,3 @@ class Solution:
 
 so = Solution()
 print(so.strToInt("+12.3"))
-
