@@ -4,7 +4,6 @@
 # @File: interview_49.py
 # @Desc: https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 
-
 class Solution:
     def strToInt(self, str: str) -> int:
         if not str:
@@ -27,13 +26,27 @@ class Solution:
 
         # 整数拼接
         for c in str[i:]:
+            i += 1
             if not "0" <= c <= "9":
                 break
             if result > boundary or (result == boundary and c > "7"):
                 return int_max if sign == 1 else int_min
             result = result * 10 + ord(c) - ord("0")  # 结果通过字符与"0"的ASCII码求得
+
+        # 求小数部分
+        x = 1
+        if str[i-1] == ".":
+            for c in str[i:]:
+                if not "0" <= c <= "9":
+                    break
+                if result > boundary or (result == boundary and c > "7"):
+                    return int_max if sign == 1 else int_min
+                result = result + (ord(c) - ord("0")) * 0.1 ** x
+                x += 1
+
         return sign * result
 
 
 so = Solution()
-print(so.strToInt("+123i adf"))
+print(so.strToInt("+12.3"))
+
