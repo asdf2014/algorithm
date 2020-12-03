@@ -2,7 +2,7 @@
 # @Time : 2019/10/8 8:17 下午
 # @Author: GraceKoo
 # @File:  3_length_of_longest_substring.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 import timeit
 
 

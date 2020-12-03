@@ -2,32 +2,28 @@
 # @Time: 2019/12/17 9:07 上午
 # @Author: GraceKoo
 # @File: 5_longest_palindrome.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        longest_str = ""
-        longestLen = 0
-        matrics = [[0 for i in range(0, len(s))] for i in range(0, len(s))]
-
-        for j in range(0, len(s)):
-            for i in range(0, j + 1):
-                if j - i <= 1:
-                    if s[i] == s[j]:
-                        matrics[i][j] = 1
-                        if longestLen < j - i + 1:
-                            longestLen = j - i + 1
-                            longest_str = s[i : j + 1]
-                else:
-                    if s[i] == s[j] and matrics[i + 1][j - 1]:
-                        matrics[i][j] = 1
-                        if longestLen < j - i + 1:
-                            longestLen = j - i + 1
-                            longest_str = s[i : j + 1]
-        return longest_str
+        if not s:
+            return ""
+        n = len(s)
+        # dp[j][i] 表示从j到i是否是回文串
+        # 如果 s[j] == s[i] && (dp[j+1][i-1] 也是回文串)，那么字符串从 j 到 i 也是回文串，即 dp[j][i] 为真
+        dp = [[0] * n for _ in range(n)]
+        max_str = ""
+        res = ""
+        for i in range(n):
+            for j in range(i + 1):
+                if s[i] == s[j] and (i - j + 1 <= 3 or dp[j + 1][i - 1]):
+                    dp[j][i] = 1
+                    if len(s[j:i + 1]) > len(res):
+                        res = s[j:i + 1]
+        return res
 
 
-s = "abccba"
 so = Solution()
-print(so.longestPalindrome(s))
+assert "bab" == so.longestPalindrome("babad")
+assert "bb" == so.longestPalindrome("cbbd")
