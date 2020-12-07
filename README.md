@@ -3,7 +3,6 @@
 [![](https://img.shields.io/github/contributors/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/lgtm/alerts/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/alerts/)
 [![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
 [![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
 [![](https://img.shields.io/github/commit-activity/m/asdf2014/algorithm?cacheSeconds=3600)](https://yuzhouwan.com/posts/666/)
@@ -58,30 +57,30 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | User | Completed |
 | :--: | :-------: |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 191 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 192 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 54 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
-| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
+| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 29 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 29 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-11-08 23:45:56 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-12-03 20:38:59 |
+| **[shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng)** | 2020-11-26 02:20:07 |
 | **[JJ](https://github.com/asdf2014/algorithm/tree/master/Codes/JJ)** | 2020-10-30 02:34:00 |
-| **[liuliangju](https://github.com/asdf2014/algorithm/tree/master/Codes/liuliangju)** | 2020-09-30 15:12:07 |
+| [liuliangju](https://github.com/asdf2014/algorithm/tree/master/Codes/liuliangju) | 2020-09-30 15:12:07 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-09-10 03:46:14 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-09-07 04:28:37 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2020-08-19 19:32:03 |
 | [HuaiyuGong](https://github.com/asdf2014/algorithm/tree/master/Codes/HuaiyuGong) | 2020-08-12 01:01:06 |
 | [molinchn](https://github.com/asdf2014/algorithm/tree/master/Codes/molinchn) | 2020-08-07 22:08:16 |
 | [oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug) | 2020-08-05 03:09:05 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2020-07-27 20:54:46 |
 
 排行榜的更新会在提交后自动执行。
 

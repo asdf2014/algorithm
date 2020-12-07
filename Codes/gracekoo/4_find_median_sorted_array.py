@@ -2,7 +2,7 @@
 # @Time: 2019/12/4 12:14 上午
 # @Author: GraceKoo
 # @File: 4_find_median_sorted_array.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 import timeit
 
 

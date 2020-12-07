@@ -2,7 +2,7 @@
 # @Time : 2019/9/106:55 下午
 # @Author: GraceKoo
 # @File:  1_twoSum.py
-# @Desc: HashMap{num1:loc1,num2:loc2......}
+# @Desc: https://leetcode-cn.com/problems/two-sum/
 import timeit
 
 
