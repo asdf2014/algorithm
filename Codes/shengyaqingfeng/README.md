@@ -10,7 +10,7 @@
 ## List of solved problems
 | date | Title | Running Time | Memory  |
 |:----------:|:------|:------------:|:------------------:|
-| 2020-11-25 |[1. Two Sum.cpp](leetcode/editor/cn/[1]Two Sum.cpp)| |
-| 2020-11-25 |[2. Add Two Numbers.cpp](leetcode/editor/cn/[2]Add Two Numbers.cpp)| | 
-| 2020-12-08 |[3. Longest Substring Without Repeating Characters.cpp](leetcode/editor/cn/[3]Longest Substring Without Repeating Characters.cpp)| |
-| 2020-12-09 |[4. Median of Two Sorted Arrays.cpp](leetcode/editor/cn/[4]Median of Two Sorted Arrays.cpp)| 72 ms | 87.2 MB |
+| 2020-11-25 |[1. Two-Sum.cpp](leetcode/editor/cn/[1]Two-Sum.cpp)| |
+| 2020-11-25 |[2. Add-Two-Numbers.cpp](leetcode/editor/cn/[2]Add-Two-Numbers.cpp)| | 
+| 2020-12-08 |[3. Longest-Substring-Without-Repeating-Characters.cpp](leetcode/editor/cn/[3]Longest-Substring-Without-Repeating-Characters.cpp)| |
+| 2020-12-09 |[4. Median-of-Two-Sorted-Arrays.cpp](leetcode/editor/cn/[4]Median-of-Two-Sorted-Arrays.cpp)| 72 ms | 87.2 MB |
