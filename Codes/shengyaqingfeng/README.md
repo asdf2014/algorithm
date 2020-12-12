@@ -19,3 +19,4 @@
 | 2020-12-12 |[6. ZigZagConversion.cpp](leetcode/editor/cn/[6]ZigZagConversion.cpp)| 20 ms | 10.9 MB |
 | 2020-12-12 |[7. ReverseInteger.cpp](leetcode/editor/cn/[7]ReverseInteger.cpp)| 0 ms | 6.3 MB |
 | 2020-12-12 |[8. StringToInteger(atoi).cpp](leetcode/editor/cn/[7]ReverseInteger.cpp)| 0 ms | 7.3 MB |
+| 2020-12-12 |[9. PalindromeNumber.cpp](leetcode/editor/cn/[9]PalindromeNumber.cpp)| 16 ms | 6.2 MB |
