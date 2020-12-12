@@ -1,6 +1,10 @@
 // title : [6]ZigZagConversion
 // date : 2020-12-12 12:17:09
 // author : creazyboyone
+// note :
+// 思路1：开数组依次保存和输出. (节省时间,消耗内存)
+// 思路2: 多次循环, 每次计算好位置 push_back "一行". (节省内存,消耗时间)
+
 #include <iostream>
 #include <string>
 #include <vector>

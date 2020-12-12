@@ -16,3 +16,5 @@
 | 2020-12-08 |[3. LongestSubstringWithout-RepeatingCharacters.cpp](leetcode/editor/cn/[3]LongestSubstringWithoutRepeatingCharacters.cpp)| |
 | 2020-12-09 |[4. MedianOfTwoSortedArrays.cpp](leetcode/editor/cn/[4]MedianOfTwoSortedArrays.cpp)| 72 ms | 87.2 MB |
 | 2020-12-11 |[5. LongestPalindromicSubstring.cpp](leetcode/editor/cn/[5]LongestPalindromicSubstring.cpp)| 28 ms | 7.4 MB |
+| 2020-12-12 |[6. ZigZagConversion.cpp](leetcode/editor/cn/[6]ZigZagConversion.cpp)| 20 ms | 10.9 MB |
+| 2020-12-12 |[7. ReverseInteger.cpp](leetcode/editor/cn/[7]ReverseInteger.cpp)| 0 ms | 6.3 MB |
