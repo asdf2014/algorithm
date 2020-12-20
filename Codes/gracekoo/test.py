@@ -3,7 +3,7 @@
 # @Author: GraceKoo
 # @File: test.py
 # @Desc:
-from threading import Lock, Thread
+from threading import Thread
 import time
 
 
