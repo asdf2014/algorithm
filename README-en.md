@@ -65,16 +65,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[Terence.Sun](https://github.com/asdf2014/algorithm/tree/master/Codes/Terence.Sun)** | 2020-12-30 01:25:36 |
 | **[liuxiaohui](https://github.com/asdf2014/algorithm/tree/master/Codes/liuxiaohui)** | 2020-12-29 05:26:48 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-12-20 15:58:06 |
-| **[shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng)** | 2020-12-12 16:22:28 |
+| [shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng) | 2020-12-12 16:22:28 |
 | [JJ](https://github.com/asdf2014/algorithm/tree/master/Codes/JJ) | 2020-10-29 18:34:00 |
 | [liuliangju](https://github.com/asdf2014/algorithm/tree/master/Codes/liuliangju) | 2020-09-30 07:12:07 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-09-09 19:46:14 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-09-06 20:28:37 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2020-08-19 11:32:03 |
 | [HuaiyuGong](https://github.com/asdf2014/algorithm/tree/master/Codes/HuaiyuGong) | 2020-08-11 17:01:06 |
-| [molinchn](https://github.com/asdf2014/algorithm/tree/master/Codes/molinchn) | 2020-08-07 14:08:16 |
 
 Updates to the leaderboards are automatically executed after submission.
 
