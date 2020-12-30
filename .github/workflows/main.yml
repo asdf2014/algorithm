@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: Setup python
         uses: actions/setup-python@v2
@@ -28,9 +28,8 @@ jobs:
           python -m pip install pytz
           python -m pip install wordsegment
           python top.py
-
       - name: Commit changes
-        uses: EndBug/add-and-commit@v2.1.0
+        uses: EndBug/add-and-commit@v3
         with:
           author_name: asdf2014
           author_email: asdf2014@apache.org
