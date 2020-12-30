@@ -38,7 +38,7 @@ jobs:
         with:
           author_name: asdf2014
           author_email: asdf2014@apache.org
-          message: "Code Formatter & Update Leaderboard"
+          message: "[Code Formatter & Update Leaderboard] by 🤖"
           path: "Codes README.md README-en.md .idea/dictionaries/yuzhouwan.xml"
           pattern: "*.*"
           force: true
