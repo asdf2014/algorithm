@@ -16,7 +16,7 @@ class ListNode:
 class Solution:
     def EntryNodeOfLoop(self, pHead):
         # write code here
-        if pHead == None and pHead.next == None:
+        if pHead is None and pHead.next is None:
             return None
         onestep = pHead
         twostep = pHead

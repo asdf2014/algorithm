@@ -13,7 +13,6 @@ class Solution:
         # dp[j][i] 表示从j到i是否是回文串
         # 如果 s[j] == s[i] && (dp[j+1][i-1] 也是回文串)，那么字符串从 j 到 i 也是回文串，即 dp[j][i] 为真
         dp = [[0] * n for _ in range(n)]
-        max_str = ""
         res = ""
         for i in range(n):
             for j in range(i + 1):
