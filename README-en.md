@@ -22,7 +22,7 @@
 
 ### Registration route
 
-　Just leave a message in the comment area at the end of the "[Algorithm](https://yuzhouwan.com/posts/666/)" or in the [issues#40](https://github.com/asdf2014/gitment/issues/40), and you can participate at any time.
+　Just leave a message in the comment area at the end of the "[Algorithm](https://yuzhouwan.github.io/posts/666/)" or in the [issues#40](https://github.com/asdf2014/gitment/issues/40), and you can participate at any time.
 
 ### Way of participation
 
