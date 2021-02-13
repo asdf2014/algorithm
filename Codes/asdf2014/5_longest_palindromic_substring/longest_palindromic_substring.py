@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/longest-palindromic-substring/
+# https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 # Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
 #
@@ -12,6 +12,12 @@
 # Output: "bb"
 #
 # Related Topics String Dynamic Programming
+#
+# 【中心扩展算法】
+# 时间复杂度：O(n^2)
+# 空间复杂度：O(1)
+# 其中 n 是字符串的长度
+# 长度为 1 和 2 的回文中心分别有 n 和 n−1 个，每个回文中心最多会向外扩展 O(n) 次
 
 
 def longest_palindromic_substring(s):

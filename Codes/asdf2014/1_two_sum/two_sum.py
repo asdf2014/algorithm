@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/two-sum/
+# https://leetcode-cn.com/problems/two-sum/
 
 # Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 #
@@ -11,6 +11,12 @@
 # return [0, 1].
 #
 # Related Topics Array Hash Table
+#
+# 时间复杂度：O(N)
+# 空间复杂度：O(N)
+# 其中 N 是数组中的元素数量
+# 对于每一个元素 x，我们可以 O(1) 地寻找 target - x
+# 空间存储上，主要是哈希表的开销
 
 
 # 从 nums 中找到两个数，满足两数之和为 target

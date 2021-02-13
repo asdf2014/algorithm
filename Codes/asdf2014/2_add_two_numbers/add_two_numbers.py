@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/add-two-numbers/
+# https://leetcode-cn.com/problems/add-two-numbers/
 
 # You are given two non-empty linked lists representing two non-negative integers.
 # The digits are stored in reverse order and each of their nodes contain a single digit.
@@ -12,6 +12,12 @@
 # Explanation: 342 + 465 = 807.
 #
 # Related Topics Linked List Math
+#
+# 时间复杂度：O(max(m, n))
+# 空间复杂度：O(max(m, n))
+# 其中 m，n 为两个链表的长度
+# 需要遍历两个链表的全部位置，处理每个位置只需要 O(1) 的时间
+# 链表的长度最多为较长链表的长度 +1
 
 
 # Definition for singly-linked list.

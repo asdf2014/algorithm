@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/valid-parentheses/
+# https://leetcode-cn.com/problems/valid-parentheses/
 
 # Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 #
@@ -29,6 +29,12 @@
 # Output: true
 #
 # Related Topics String Stack
+#
+# 时间复杂度：O(n)
+# 空间复杂度：O(n + ∣Σ∣)
+# 其中 n 是字符串 s 的长度
+# 其中 Σ 表示字符集，本题中字符串只包含 6 种括号，∣Σ∣ = 6
+# 栈中的字符数量为 O(n)，而哈希映射使用的空间为 O(∣Σ∣)，相加即可得到总空间复杂度
 
 revert_pairs = {")": "(", "]": "[", "}": "{"}
 
