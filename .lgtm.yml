@@ -4,4 +4,4 @@ extraction:
       version: 3
   java:
     index:
-      java_version: 12
+      java_version: 11
