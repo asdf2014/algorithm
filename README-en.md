@@ -39,10 +39,11 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ### Topic strategy
 
-　It is divided into two phases:
+　The [question selection robot](https://github.com/asdf2014/algorithm/blob/master/Picker/random_picker.py) will automatically select a question randomly at 12 noon every Friday. The current question is as follows:
 
-* The first 100 questions are classics in the classics, so we first thoroughly read these questions in the first stage.
-* The second stage, **randomly selected** by the [program](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Picker/leetcode_picker.ipynb), the history question bank can be clicked on the [link](https://yuzhouwan.com/posts/666/#Index) to see.
+| ID | Title |
+| :-: | :--: |
+| [1692](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | Number of Ways to Reorder Array to Get Same BST |
 
 ## TopN
 

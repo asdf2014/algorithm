@@ -43,9 +43,11 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ### 选题策略
 
-　分为两个阶段：
-* 前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透
-* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#Index)看到
+　[选题机器人](https://github.com/asdf2014/algorithm/blob/master/Picker/random_picker.py)会在每周五晚八点，自动地随机选定一个题目，当前题目如下：
+
+| ID | Title |
+| :-: | :--: |
+| [1692](https://leetcode-cn.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | Number of Ways to Reorder Array to Get Same BST |
 
 <br/>
 
