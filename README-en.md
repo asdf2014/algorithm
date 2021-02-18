@@ -26,7 +26,7 @@
 
 ### Way of participation
 
-　Each participating partner will get the [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${User}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting Pull Request).
+　Each participating partner will get the [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${Your Github Account Name}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting Pull Request).
 
 ```bash
 # Complete your first code submission with one step
