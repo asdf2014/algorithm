@@ -45,6 +45,10 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :-: | :--: |
 | [1692](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | Number of Ways to Reorder Array to Get Same BST |
 
+🤖: The last update time was `2021-02-12 12:00:00`.
+
+<br/>
+
 ## TopN
 
 ### The most problem-solving partners
@@ -77,7 +81,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-09-09 19:46:14 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-09-06 20:28:37 |
 
-Updates to the leaderboards are automatically executed after submission.
+🤖: Updates to the leaderboards are automatically executed after submission.
 
 <br/>
 

@@ -49,6 +49,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :-: | :--: |
 | [1692](https://leetcode-cn.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | Number of Ways to Reorder Array to Get Same BST |
 
+🤖：最近一次更新时间为 `2021-02-12 20:00:00`。
+
 <br/>
 
 ## 排行榜
@@ -83,7 +85,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 2020-09-10 03:46:14 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-09-07 04:28:37 |
 
-排行榜的更新会在提交后自动执行。
+🤖：排行榜的更新会在提交后自动执行。
 
 <br/>
 

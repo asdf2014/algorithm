@@ -1,6 +1,8 @@
+import datetime
 import json
 import random
 
+import pytz
 import requests
 
 # load all of problems
@@ -31,7 +33,7 @@ for problem in problems["stat_status_pairs"]:
 choice = random.choice(list(id_title_map.keys()))
 
 
-def flush_readme(readme_file, url):
+def flush_readme(readme_file, url, date_comment, local):
     lines = []
     count = 0
     index = -1
@@ -49,10 +51,16 @@ def flush_readme(readme_file, url):
     choice_ = id_title_map[choice]
     lines[index] = "| [%s](%s%s) | %s |\n" % (choice, url, choice_[1], choice_[0])
 
+    dt = datetime.datetime.utcnow()
+    if local:
+        dt = dt.replace(tzinfo=pytz.utc).astimezone(pytz.timezone("Asia/Shanghai"))
+    date_stamp = dt.strftime("%Y-%m-%d %H:%M:%S")
+    lines[index + 2] = date_comment % date_stamp
+
     with open(readme_file, "w") as readme:
         readme.write("".join(lines))
 
 
 # flush README
-flush_readme("README.md", "https://leetcode-cn.com/problems/")
-flush_readme("README-en.md", "https://leetcode.com/problems/")
+flush_readme("README.md", "https://leetcode-cn.com/problems/", "🤖：最近一次更新时间为 `%s`。\n", True)
+flush_readme("README-en.md", "https://leetcode.com/problems/", "🤖: The last update time was `%s`.\n", False)
