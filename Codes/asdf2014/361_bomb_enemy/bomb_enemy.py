@@ -34,31 +34,31 @@ def bomb_enemy(cells):
     row_hits = 0
     for index_row, row in enumerate(cells):
         for index_cell, cell in enumerate(row):
-            if index_cell == 0 or row[index_cell - 1] == 'W':
+            if index_cell == 0 or row[index_cell - 1] == "W":
                 row_hits = 0
                 k = index_cell
                 while k < col_len:
-                    if row[k] == 'W':
+                    if row[k] == "W":
                         break
-                    row_hits += row[k] == 'E'
+                    row_hits += row[k] == "E"
                     k += 1
-            if index_row == 0 or cells[index_row - 1][index_cell] == 'W':
+            if index_row == 0 or cells[index_row - 1][index_cell] == "W":
                 col_hits[index_cell] = 0
                 k = index_row
                 while k < row_len:
-                    if cells[k][index_cell] == 'W':
+                    if cells[k][index_cell] == "W":
                         break
-                    col_hits[index_cell] += cells[k][index_cell] == 'E'
+                    col_hits[index_cell] += cells[k][index_cell] == "E"
                     k += 1
-            if cell == '0':
+            if cell == "0":
                 result = max(result, row_hits + col_hits[index_cell])
     return result
 
 
-assert bomb_enemy([['0', 'E', '0', '0'],
-                   ['E', '0', 'W', 'E'],
-                   ['0', 'E', '0', '0']]) == 3
+assert (
+    bomb_enemy([["0", "E", "0", "0"], ["E", "0", "W", "E"], ["0", "E", "0", "0"]]) == 3
+)
 
-assert bomb_enemy([['0', 'W', 'E', 'W'],
-                   ['W', 'W', '0', 'W'],
-                   ['0', 'W', 'E', 'W']]) == 2
+assert (
+    bomb_enemy([["0", "W", "E", "W"], ["W", "W", "0", "W"], ["0", "W", "E", "W"]]) == 2
+)
