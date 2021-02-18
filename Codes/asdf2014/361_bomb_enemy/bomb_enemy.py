@@ -55,10 +55,5 @@ def bomb_enemy(cells):
     return result
 
 
-assert (
-    bomb_enemy([["0", "E", "0", "0"], ["E", "0", "W", "E"], ["0", "E", "0", "0"]]) == 3
-)
-
-assert (
-    bomb_enemy([["0", "W", "E", "W"], ["W", "W", "0", "W"], ["0", "W", "E", "W"]]) == 2
-)
+assert bomb_enemy([["0", "E", "0", "0"], ["E", "0", "W", "E"], ["0", "E", "0", "0"]]) == 3
+assert bomb_enemy([["0", "W", "E", "W"], ["W", "W", "0", "W"], ["0", "W", "E", "W"]]) == 2
