@@ -28,7 +28,7 @@
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 Pull Request 参与进来）
+　每位参与的小伙伴，都会获得代码仓库的 [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${你的 Github 账号名}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 Pull Request 参与进来）
 
 ```bash
 # 一键完成您的第一次代码提交
