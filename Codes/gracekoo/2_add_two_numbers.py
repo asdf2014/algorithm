@@ -36,7 +36,7 @@ class Solution:
             res.next = ListNode(tmp_sum)
             res = res.next
         if flag:
-            res.mext = ListNode(1)
+            res.next = ListNode(1)
         res = tmp.next
         del tmp
 
