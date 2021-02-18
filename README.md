@@ -89,7 +89,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ## 初衷
 
-　说实话，这纯属公益项目，只是召集大家一起刷题，一起交流。对我而言，顶多就是锻炼一下我的运营能力。想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+　纯属公益项目，号召大家一起刷题，互相交流，共同进步。
 
 ## 鸣谢
 
