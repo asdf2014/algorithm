@@ -47,9 +47,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1692](https://leetcode-cn.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | Number of Ways to Reorder Array to Get Same BST |
+| [51](https://leetcode-cn.com/problems/n-queens) | N-Queens |
 
-🤖：最近一次更新时间为 `2021-02-12 20:00:00`。
+🤖：最近一次更新时间为 `2021-02-19 20:14:23`。
 
 <br/>
 
