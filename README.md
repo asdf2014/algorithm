@@ -6,9 +6,11 @@
 [![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
 [![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
 [![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://badges.gitter.im/yuzhouwan/community.svg)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![](https://img.shields.io/badge/-discussions-5EA8FC?logo=livechat)](https://github.com/asdf2014/algorithm/discussions)
+[![](https://img.shields.io/badge/-gitter-55B698?logo=gitter)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asdf2014/algorithm)
+[![](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asdf2014/algorithm)
+
 
 中文 | [English](https://github.com/asdf2014/algorithm/blob/master/README-en.md)
 
