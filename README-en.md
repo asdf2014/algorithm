@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [51](https://leetcode.com/problems/n-queens) | N-Queens |
+| [460](https://leetcode.com/problems/lfu-cache) | LFU Cache |
 
-🤖: The last update time was `2021-02-19 12:14:23`.
+🤖: The last update time was `2021-02-26 12:19:42`.
 
 <br/>
 

@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [51](https://leetcode-cn.com/problems/n-queens) | N-Queens |
+| [460](https://leetcode-cn.com/problems/lfu-cache) | LFU Cache |
 
-🤖：最近一次更新时间为 `2021-02-19 20:14:23`。
+🤖：最近一次更新时间为 `2021-02-26 20:19:42`。
 
 <br/>
 
