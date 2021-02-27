@@ -18,8 +18,8 @@ class Solution:
             for i in range(end + 1):
                 if s[end] == s[i] and (end - i + 1 <= 3 or dp[i + 1][end - 1]):
                     dp[i][end] = 1
-                    if len(s[i: end + 1]) > len(res):
-                        res = s[i: end + 1]
+                    if len(s[i : end + 1]) > len(res):
+                        res = s[i : end + 1]
         return res
 
 
