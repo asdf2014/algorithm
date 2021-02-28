@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time: 2021/2/28 下午6:54 
+# @Time: 2021/2/28 下午6:54
 # @Author: GraceKoo
 # @File: 146_lru-cache.py
 # @Desc: https://leetcode-cn.com/problems/lru-cache/
@@ -12,7 +12,6 @@ class DLinkedNode:
 
 
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.cache = dict()  # 存放每个节点的值
         self.head = DLinkedNode()  # 双向链表头节点存放最近使用过的节点
@@ -63,6 +62,7 @@ class LRUCache:
         node = self.tail.prev
         self.removeNode(node)
         return node
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
