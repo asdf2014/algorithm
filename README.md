@@ -70,22 +70,22 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 31 |
-| [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 29 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-03-02 09:51:33 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2021-03-01 00:48:31 |
 | **[liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan)** | 2021-02-28 01:00:05 |
-| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2021-02-26 09:15:47 |
+| [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2021-02-26 09:15:47 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2021-02-18 22:37:56 |
 | [LittleCuteRabbit](https://github.com/asdf2014/algorithm/tree/master/Codes/LittleCuteRabbit) | 2021-01-12 13:32:48 |
 | [Terence.Sun](https://github.com/asdf2014/algorithm/tree/master/Codes/Terence.Sun) | 2020-12-30 17:48:56 |
 | [liuxiaohui](https://github.com/asdf2014/algorithm/tree/master/Codes/liuxiaohui) | 2020-12-29 13:26:48 |
 | [shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng) | 2020-12-13 00:22:28 |
 | [JJ](https://github.com/asdf2014/algorithm/tree/master/Codes/JJ) | 2020-10-30 02:34:00 |
-| [liuliangju](https://github.com/asdf2014/algorithm/tree/master/Codes/liuliangju) | 2020-09-30 15:12:07 |
 
 🤖：排行榜的更新会在提交后自动执行。
 
