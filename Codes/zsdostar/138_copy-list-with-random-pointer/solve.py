@@ -33,28 +33,28 @@ class Node:
 class Solution:
     def copyRandomList(self, head: "Node") -> "Node":
         """
-            92 ms, 16 MB
-            第一次做链表的题，由于不太直观打印链表的值，重写__str__的时候把其存在数组里
-            突然想到可以用哈希来存储每一个链表的信息，然后更新，O(n)吧。。有点蛇皮的做法
-            看别人都是各种花式操作，不太看得懂_(:зゝ∠)_
+        92 ms, 16 MB
+        第一次做链表的题，由于不太直观打印链表的值，重写__str__的时候把其存在数组里
+        突然想到可以用哈希来存储每一个链表的信息，然后更新，O(n)吧。。有点蛇皮的做法
+        看别人都是各种花式操作，不太看得懂_(:зゝ∠)_
 
-            后来看到排名第一的老哥的解法，哈哈竟然是一个原理，他的更精简
-            相比之下我写的有点冗余了，他的不需要额外存储一个字典，而且没有items()操作：
-            class Solution:
-                def copyRandomList(self, head: 'Node') -> 'Node':
-                    hmap = {None: None}
-                    p = head
-                    while p:
-                        hmap[p] = Node(p.val, None, None)
-                        p = p.next
+        后来看到排名第一的老哥的解法，哈哈竟然是一个原理，他的更精简
+        相比之下我写的有点冗余了，他的不需要额外存储一个字典，而且没有items()操作：
+        class Solution:
+            def copyRandomList(self, head: 'Node') -> 'Node':
+                hmap = {None: None}
+                p = head
+                while p:
+                    hmap[p] = Node(p.val, None, None)
+                    p = p.next
 
-                    p = head
-                    while p:
-                        hmap[p].next = hmap[p.next]
-                        hmap[p].random = hmap[p.random]
-                        p = p.next
+                p = head
+                while p:
+                    hmap[p].next = hmap[p.next]
+                    hmap[p].random = hmap[p.random]
+                    p = p.next
 
-                    return hmap[head]
+                return hmap[head]
         """
         if not head:
             return None

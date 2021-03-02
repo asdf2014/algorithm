@@ -8,17 +8,13 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         # haystack.find(needle)
-        if len(haystack) < len(needle):
+        haystack_len = len(haystack)
+        needle_len = len(needle)
+        if haystack_len < needle_len:
             return -1
-        j = 0
-        for i in range(0, len(haystack) - len(needle) + 1):
-            index = i
-            for j in range(0, len(needle)):
-                if haystack[i] != needle[j]:
-                    break
-                i += 1
-            if j == len(needle) - 1:
-                return index
+        for i in range(0, haystack_len - needle_len + 1):
+            if haystack[i : i + needle_len] == needle:
+                return i
         return -1
 
 

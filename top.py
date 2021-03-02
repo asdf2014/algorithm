@@ -120,15 +120,15 @@ def expand_dict():
                 all_words.add(item)
     all_words = sorted(all_words)
     # build
-    component = Et.Element('component')
+    component = Et.Element("component")
     component.set("name", "ProjectDictionaryState")
-    dictionary = Et.SubElement(component, 'dictionary')
+    dictionary = Et.SubElement(component, "dictionary")
     dictionary.set("name", "yuzhouwan")
-    words = Et.SubElement(dictionary, 'words')
+    words = Et.SubElement(dictionary, "words")
     for word in all_words:
         if len(word) < 2:
             continue
-        Et.SubElement(words, 'w').text = word
+        Et.SubElement(words, "w").text = word
     data = Et.tostring(component).decode("utf-8")
     # write
     with open(".idea/dictionaries/yuzhouwan.xml", "w") as dict_xml:

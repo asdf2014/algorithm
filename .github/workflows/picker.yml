@@ -1,0 +1,37 @@
+on:
+  schedule:
+    - cron: '0 12 * * 5'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          clean: false
+          fetch-depth: 0
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+
+      - name: Choose a Question Randomly
+        run: |
+          python -m pip install pytz
+          python -m pip install requests
+          python Picker/random_picker.py
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v6
+        with:
+          author_name: asdf2014
+          author_email: asdf2014@apache.org
+          message: "[Choose a Question Randomly] by 🤖"
+          path: "Picker README.md README-en.md"
+          pattern: "*.*"
+          force: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

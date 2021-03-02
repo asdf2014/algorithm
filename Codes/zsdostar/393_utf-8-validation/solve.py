@@ -36,7 +36,7 @@ class Solution:
     @staticmethod
     def which_module(s):
         """
-            判断是几个字节的二进制字符
+        判断是几个字节的二进制字符
         """
         if s[0] == "0":
             return 1
@@ -59,7 +59,7 @@ class Solution:
     @staticmethod
     def get_bin_list(l):
         """
-            转换为二进制字符串数组
+        转换为二进制字符串数组
         """
         return ["%08d" % int(bin(_).replace("0b", "")) for _ in l]
 

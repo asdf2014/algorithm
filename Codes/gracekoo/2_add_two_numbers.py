@@ -2,7 +2,7 @@
 # @Time : 2019/9/1111:11 下午
 # @Author: GraceKoo
 # @File:  2_add_two_numbers.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/add-two-numbers/
 
 
 # Definition for singly-linked list.
@@ -36,7 +36,7 @@ class Solution:
             res.next = ListNode(tmp_sum)
             res = res.next
         if flag:
-            res.mext = ListNode(1)
+            res.next = ListNode(1)
         res = tmp.next
         del tmp
 

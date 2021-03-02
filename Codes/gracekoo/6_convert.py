@@ -2,7 +2,9 @@
 # @Time: 2019/12/18 11:52 下午
 # @Author: GraceKoo
 # @File: 6_convert.py
-# @Desc:
+# @Desc: https://leetcode-cn.com/problems/zigzag-conversion/
+
+
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if not s:

@@ -10,10 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
+        with:
+          clean: false
+          fetch-depth: 0
 
       - name: Setup python
-        uses: actions/setup-python@v1.1.1
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
           architecture: 'x64'
@@ -28,15 +31,16 @@ jobs:
           python -m pip install pytz
           python -m pip install wordsegment
           python top.py
+          python path.py
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v2.1.0
+        uses: EndBug/add-and-commit@v6
         with:
           author_name: asdf2014
           author_email: asdf2014@apache.org
-          message: "Code Formatter & Update Leaderboard"
+          message: "[Code Formatter & Update Leaderboard] by 🤖"
           path: "Codes README.md README-en.md .idea/dictionaries/yuzhouwan.xml"
           pattern: "*.*"
-          force: false
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

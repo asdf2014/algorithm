@@ -3,13 +3,14 @@
 [![](https://img.shields.io/github/contributors/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/lgtm/alerts/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/alerts/)
 [![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
 [![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
-[![](https://img.shields.io/github/commit-activity/m/asdf2014/algorithm?cacheSeconds=3600)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://badges.gitter.im/yuzhouwan/community.svg)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![](https://img.shields.io/badge/-discussions-5EA8FC?logo=livechat)](https://github.com/asdf2014/algorithm/discussions)
+[![](https://img.shields.io/badge/-gitter-55B698?logo=gitter)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
+[![](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asdf2014/algorithm)
+
 
 中文 | [English](https://github.com/asdf2014/algorithm/blob/master/README-en.md)
 
@@ -24,12 +25,12 @@
 
 ### 报名途径
 
-　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末留言，即可随时参与
+　只需要在《[Algorithm](https://yuzhouwan.com/posts/666/)》文末的评论区，或者在 [issues#40](https://github.com/asdf2014/gitment/issues/40) 中留言，即可随时参与
 
 
 ### 参与方式
 
-　每位参与的小伙伴，都会获得代码仓库的 [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${User}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 Pull Request 参与进来）
+　每位参与的小伙伴，都会获得代码仓库的 [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) 权限，可以自由地提交代码（不限制语种）。在 `/Codes/${你的 Github 账号名}` 目录下，每人都将拥有一个自己的代码库。留下 Github 名称后，将很快会收到邀请函，大家可以在 [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) 链接中认领（当然，也欢迎直接通过提交 Pull Request 参与进来）
 
 ```bash
 # 一键完成您的第一次代码提交
@@ -44,9 +45,13 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ### 选题策略
 
-　分为两个阶段：
-* 前 100 题都是经典中的经典，所以我们第一阶段先将这些题目吃透
-* 第二阶段，通过程序进行[**随机选定**](https://nbviewer.jupyter.org/github/asdf2014/algorithm/blob/master/Picker/leetcode_picker.ipynb)，历史题库可以点击[链接](https://yuzhouwan.com/posts/666/#Index)看到
+　[选题机器人](https://github.com/asdf2014/algorithm/blob/master/Picker/random_picker.py)会在每周五晚八点，自动地随机选定一个题目，当前题目如下：
+
+| ID | Title |
+| :-: | :--: |
+| [460](https://leetcode-cn.com/problems/lfu-cache) | LFU Cache |
+
+🤖：最近一次更新时间为 `2021-02-26 20:19:42`。
 
 <br/>
 
@@ -56,40 +61,39 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
+| **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 54 |
-| **[jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264)** | 46 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 43 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
+| [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
+| [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
+| [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 31 |
 | [lxycg](https://github.com/asdf2014/algorithm/tree/master/Codes/lxycg) | 29 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 27 |
-| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 21 |
-| [mggger](https://github.com/asdf2014/algorithm/tree/master/Codes/mggger) | 14 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 12 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 11 |
-| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 11 |
 
 ### 最活跃的小伙伴
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2020-02-15 12:25:07 |
-| **[Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam)** | 2020-02-14 12:43:55 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2020-02-14 10:23:56 |
-| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 2020-01-22 18:37:49 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2020-01-20 22:33:25 |
-| [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 2020-01-06 01:04:58 |
-| [xiaohong2019](https://github.com/asdf2014/algorithm/tree/master/Codes/xiaohong2019) | 2019-12-28 15:01:10 |
-| [beingStrong](https://github.com/asdf2014/algorithm/tree/master/Codes/beingStrong) | 2019-12-19 21:09:04 |
-| [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2019-12-17 18:07:20 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2019-12-04 12:22:18 |
+| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2021-03-01 00:47:09 |
+| **[liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan)** | 2021-02-28 01:00:05 |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2021-02-26 09:15:47 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2021-02-18 22:37:56 |
+| [LittleCuteRabbit](https://github.com/asdf2014/algorithm/tree/master/Codes/LittleCuteRabbit) | 2021-01-12 13:32:48 |
+| [Terence.Sun](https://github.com/asdf2014/algorithm/tree/master/Codes/Terence.Sun) | 2020-12-30 17:48:56 |
+| [liuxiaohui](https://github.com/asdf2014/algorithm/tree/master/Codes/liuxiaohui) | 2020-12-29 13:26:48 |
+| [shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng) | 2020-12-13 00:22:28 |
+| [JJ](https://github.com/asdf2014/algorithm/tree/master/Codes/JJ) | 2020-10-30 02:34:00 |
+| [liuliangju](https://github.com/asdf2014/algorithm/tree/master/Codes/liuliangju) | 2020-09-30 15:12:07 |
 
-排行榜的更新会在提交后自动执行。
+🤖：排行榜的更新会在提交后自动执行。
 
 <br/>
 
 ## 初衷
 
-　说实话，这纯属公益项目，只是召集大家一起刷题，一起交流。对我而言，顶多就是锻炼一下我的运营能力。
-想过最坏的情况，就是到最后就剩我一个人默默地刷题、往里面提代码 :sweat_smile:
+　纯属公益项目，号召大家一起刷题，互相交流，共同进步。
 
 ## 鸣谢
 
