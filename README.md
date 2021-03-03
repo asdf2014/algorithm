@@ -63,7 +63,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :--: | :-------: |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 54 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 59 |
 | [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 54 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
@@ -76,7 +76,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-03-03 09:50:31 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-03-03 10:06:53 |
 | **[liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan)** | 2021-03-02 11:55:26 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2021-03-01 00:48:31 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2021-02-26 09:15:47 |
