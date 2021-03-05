@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [460](https://leetcode.com/problems/lfu-cache) | LFU Cache |
+| [834](https://leetcode.com/problems/ambiguous-coordinates) | Ambiguous Coordinates |
 
-🤖: The last update time was `2021-02-26 12:19:42`.
+🤖: The last update time was `2021-03-05 12:14:58`.
 
 <br/>
 

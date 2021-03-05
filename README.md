@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [460](https://leetcode-cn.com/problems/lfu-cache) | LFU Cache |
+| [834](https://leetcode-cn.com/problems/ambiguous-coordinates) | Ambiguous Coordinates |
 
-🤖：最近一次更新时间为 `2021-02-26 20:19:42`。
+🤖：最近一次更新时间为 `2021-03-05 20:14:58`。
 
 <br/>
 
