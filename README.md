@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [460](https://leetcode-cn.com/problems/lfu-cache) | LFU Cache |
+| [834](https://leetcode-cn.com/problems/ambiguous-coordinates) | Ambiguous Coordinates |
 
-🤖：最近一次更新时间为 `2021-02-26 20:19:42`。
+🤖：最近一次更新时间为 `2021-03-05 20:14:58`。
 
 <br/>
 
@@ -63,8 +63,8 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :--: | :-------: |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
-| **[zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar)** | 54 |
-| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 53 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 59 |
+| [zsdostar](https://github.com/asdf2014/algorithm/tree/master/Codes/zsdostar) | 54 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
@@ -76,9 +76,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-03-02 14:47:07 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-03-03 10:06:53 |
+| **[liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan)** | 2021-03-02 11:55:26 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2021-03-01 00:48:31 |
-| **[liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan)** | 2021-02-28 01:00:05 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2021-02-26 09:15:47 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2021-02-18 22:37:56 |
 | [LittleCuteRabbit](https://github.com/asdf2014/algorithm/tree/master/Codes/LittleCuteRabbit) | 2021-01-12 13:32:48 |
