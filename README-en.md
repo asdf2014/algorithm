@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [834](https://leetcode.com/problems/ambiguous-coordinates) | Ambiguous Coordinates |
+| [1274](https://leetcode.com/problems/number-of-days-between-two-dates) | Number of Days Between Two Dates |
 
-🤖: The last update time was `2021-03-05 12:14:58`.
+🤖: The last update time was `2021-03-12 12:20:26`.
 
 <br/>
 
