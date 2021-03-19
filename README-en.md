@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1274](https://leetcode.com/problems/number-of-days-between-two-dates) | Number of Days Between Two Dates |
+| [923](https://leetcode.com/problems/super-egg-drop) | Super Egg Drop |
 
-🤖: The last update time was `2021-03-12 12:20:26`.
+🤖: The last update time was `2021-03-19 12:20:35`.
 
 <br/>
 

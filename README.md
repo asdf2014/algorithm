@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1274](https://leetcode-cn.com/problems/number-of-days-between-two-dates) | Number of Days Between Two Dates |
+| [923](https://leetcode-cn.com/problems/super-egg-drop) | Super Egg Drop |
 
-🤖：最近一次更新时间为 `2021-03-12 20:20:26`。
+🤖：最近一次更新时间为 `2021-03-19 20:20:35`。
 
 <br/>
 
