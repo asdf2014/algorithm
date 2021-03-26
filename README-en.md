@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [923](https://leetcode.com/problems/super-egg-drop) | Super Egg Drop |
+| [722](https://leetcode.com/problems/remove-comments) | Remove Comments |
 
-🤖: The last update time was `2021-03-19 12:20:35`.
+🤖: The last update time was `2021-03-26 12:04:41`.
 
 <br/>
 
