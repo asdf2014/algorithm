@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [722](https://leetcode-cn.com/problems/remove-comments) | Remove Comments |
+| [724](https://leetcode-cn.com/problems/find-pivot-index) | Find Pivot Index |
 
-🤖：最近一次更新时间为 `2021-03-26 20:04:41`。
+🤖：最近一次更新时间为 `2021-04-02 20:04:29`。
 
 <br/>
 
