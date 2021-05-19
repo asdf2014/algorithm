@@ -58,7 +58,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :--: | :-------: |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 71 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 84 |
 | [StarDrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/StarDrewer) | 54 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
@@ -71,7 +71,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-04-28 08:46:03 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-05-19 01:40:25 |
 | **[ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation)** | 2021-04-18 13:22:42 |
 | **[StarDrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/StarDrewer)** | 2021-03-18 10:43:42 |
 | [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 10:39:23 |
