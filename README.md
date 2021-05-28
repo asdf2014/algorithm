@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [461](https://leetcode-cn.com/problems/hamming-distance) | Hamming Distance |
+| [1255](https://leetcode-cn.com/problems/reverse-subarray-to-maximize-array-value) | Reverse Subarray To Maximize Array Value |
 
-🤖：最近一次更新时间为 `2021-05-21 20:21:43`。
+🤖：最近一次更新时间为 `2021-05-28 20:41:51`。
 
 <br/>
 
