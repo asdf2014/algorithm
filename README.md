@@ -49,9 +49,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1255](https://leetcode-cn.com/problems/reverse-subarray-to-maximize-array-value) | Reverse Subarray To Maximize Array Value |
+| [1823](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike) | Determine if String Halves Are Alike |
 
-🤖：最近一次更新时间为 `2021-05-28 20:41:51`。
+🤖：最近一次更新时间为 `2021-06-04 20:55:58`。
 
 <br/>
 
