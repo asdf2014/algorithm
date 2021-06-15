@@ -13,34 +13,35 @@
 
 [中文](https://github.com/asdf2014/algorithm/blob/master/README.md) | English
 
-# Leetcode teamed up
+# Team up to solve problems on LeetCode together
 
 ## Introduction
 
-### Code warehouse
+### Code repository
 
-　Coordinates of the code repository: **[asdf2014 / algorithm](https://github.com/asdf2014/algorithm)**
+　The address of code repository is **[asdf2014 / algorithm](https://github.com/asdf2014/algorithm)**
 
-### Registration route
+### Way to sign up
 
 　Just leave a message in the comment area at the end of the "[Algorithm](https://yuzhouwan.github.io/posts/666/)" or in the [issues#40](https://github.com/asdf2014/gitment/issues/40), and you can participate at any time.
 
-### Way of participation
+### Way to participate
 
-　Each participating partner will get the [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${Your Github Account Name}`directory, each will have its own code base. After leaving the Github name, you will receive an invitation soon, you can claim it in the [asdf2014 - algorithm - invitations](https://github.com/asdf2014/algorithm/invitations) link (of course, you can also participate directly by submitting Pull Request).
+　Each participating partner will get the [Collaborator](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository) permission of the code repository, and can freely submit the code (unlimited language). In the `/Codes/${Your Github Account Name}`directory, each will have own code base. After leaving the Github name, you will receive an invitation immediately, you can claim it in this [link](https://github.com/asdf2014/algorithm/invitations).
 
 ```bash
-# Complete your first code submission with one step
+# You can use the follow script to complete your first code submission for a quick start.
+# Of course, if you are familiar with Git commands, you can also submit the code yourself.
 bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_commit.sh)"
 ```
 
 ### Frequency
 
-　Considering that there may not be a lot of leisure time for everyone, we tentatively set the frequency of completion as "one week a week".
+　Considering that there may not be much leisure time for everyone, we tentatively set the frequency of completion as "once a week".
 
-### Topic strategy
+### Problem selection strategy
 
-　The [question selection robot](https://github.com/asdf2014/algorithm/blob/master/Picker/random_picker.py) will automatically select a question randomly at 12 noon every Friday. The current question is as follows:
+　The [problem selection robot](https://github.com/asdf2014/algorithm/blob/master/Picker/random_picker.py) will automatically select a problem randomly at 12 noon every Friday. The current problem is as follow:
 
 | ID | Title |
 | :-: | :--: |
@@ -88,7 +89,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ## Original intention
 
-　It is purely a public welfare project, and we call on everyone to work together, communicate with each other and make progress together.
+　It is purely a public welfare project, and we call on everyone to study together, communicate with each other and make progress together.
 
 ## Thanks
 
@@ -96,4 +97,6 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 ---
 
-For more details, see "[Algorithm](https://yuzhouwan.com/posts/666/)". In addition, if you encounter problems related to Git, please refer to "[Git](https://yuzhouwan.com/posts/30041/)".
+For more details, please refer to "[Algorithm](https://yuzhouwan.com/posts/666/)". In addition, if you encounter problems related to Git, please refer to "[Git](https://yuzhouwan.com/posts/30041/)".
+
+
