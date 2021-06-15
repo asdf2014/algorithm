@@ -13,7 +13,7 @@
 
 [English](https://github.com/asdf2014/algorithm/blob/master/README.md) | 中文
 
-# Leetcode 组队刷题
+# LeeCode 组队刷题
 
 ## 介绍
 
