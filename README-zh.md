@@ -71,14 +71,14 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2021-06-15 12:53:45 |
 | **[madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai)** | 2021-06-13 16:09:06 |
 | **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-05-19 09:40:25 |
-| **[ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation)** | 2021-04-18 21:22:42 |
+| [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 21:22:42 |
 | [StarDrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/StarDrewer) | 2021-03-18 18:43:42 |
 | [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 18:39:23 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2021-03-01 00:48:31 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2021-02-26 09:15:47 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2021-02-18 22:37:56 |
 | [LittleCuteRabbit](https://github.com/asdf2014/algorithm/tree/master/Codes/LittleCuteRabbit) | 2021-01-12 13:32:48 |
 | [Terence.Sun](https://github.com/asdf2014/algorithm/tree/master/Codes/Terence.Sun) | 2020-12-30 17:48:56 |
 
