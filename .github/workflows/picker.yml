@@ -30,7 +30,7 @@ jobs:
           author_name: asdf2014
           author_email: asdf2014@apache.org
           message: "[Choose a Question Randomly] by 🤖"
-          path: "Picker README.md README-en.md"
+          path: "Picker README.md README-zh.md"
           pattern: "*.*"
           force: true
         env:

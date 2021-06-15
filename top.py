@@ -139,5 +139,5 @@ def expand_dict():
 expand_dict()
 
 # flush README
-flush_readme("README.md", True)
-flush_readme("README-en.md", False)
+flush_readme("README.md", False)
+flush_readme("README-zh.md", True)
