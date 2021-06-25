@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |
+| [1349](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line |
 
-🤖: The last update time was `2021-06-18 12:03:30`.
+🤖: The last update time was `2021-06-25 12:03:13`.
 
 <br/>
 

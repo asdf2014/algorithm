@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [141](https://leetcode-cn.com/problems/linked-list-cycle) | Linked List Cycle |
+| [1349](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line |
 
-🤖：最近一次更新时间为 `2021-06-18 20:03:30`。
+🤖：最近一次更新时间为 `2021-06-25 20:03:13`。
 
 <br/>
 
