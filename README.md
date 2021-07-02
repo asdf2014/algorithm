@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1349](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line |
+| [220](https://leetcode.com/problems/contains-duplicate-iii) | Contains Duplicate III |
 
-🤖: The last update time was `2021-06-25 12:03:13`.
+🤖: The last update time was `2021-07-02 12:03:34`.
 
 <br/>
 
