@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [220](https://leetcode.com/problems/contains-duplicate-iii) | Contains Duplicate III |
+| [30](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | Substring with Concatenation of All Words |
 
-🤖: The last update time was `2021-07-02 12:03:34`.
+🤖: The last update time was `2021-07-09 12:03:24`.
 
 <br/>
 

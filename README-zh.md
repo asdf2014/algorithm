@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [220](https://leetcode-cn.com/problems/contains-duplicate-iii) | Contains Duplicate III |
+| [30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | Substring with Concatenation of All Words |
 
-🤖：最近一次更新时间为 `2021-07-02 20:03:34`。
+🤖：最近一次更新时间为 `2021-07-09 20:03:24`。
 
 <br/>
 
