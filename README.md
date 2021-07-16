@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [30](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | Substring with Concatenation of All Words |
+| [980](https://leetcode.com/problems/find-the-shortest-superstring) | Find the Shortest Superstring |
 
-🤖: The last update time was `2021-07-09 12:03:24`.
+🤖: The last update time was `2021-07-16 12:03:13`.
 
 <br/>
 

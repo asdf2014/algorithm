@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | Substring with Concatenation of All Words |
+| [980](https://leetcode-cn.com/problems/find-the-shortest-superstring) | Find the Shortest Superstring |
 
-🤖：最近一次更新时间为 `2021-07-09 20:03:24`。
+🤖：最近一次更新时间为 `2021-07-16 20:03:13`。
 
 <br/>
 
