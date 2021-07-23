@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [980](https://leetcode.com/problems/find-the-shortest-superstring) | Find the Shortest Superstring |
+| [112](https://leetcode.com/problems/path-sum) | Path Sum |
 
-🤖: The last update time was `2021-07-16 12:03:13`.
+🤖: The last update time was `2021-07-23 12:03:23`.
 
 <br/>
 
