@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [112](https://leetcode.com/problems/path-sum) | Path Sum |
+| [1056](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Capacity To Ship Packages Within D Days |
 
-🤖: The last update time was `2021-07-23 12:03:23`.
+🤖: The last update time was `2021-07-30 12:03:34`.
 
 <br/>
 
