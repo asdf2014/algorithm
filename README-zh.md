@@ -71,16 +71,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo)** | 2021-08-09 11:53:47 |
 | **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-07-20 08:58:49 |
 | **[madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai)** | 2021-06-23 12:21:20 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2021-06-15 12:53:45 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2021-06-15 12:53:45 |
 | [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 21:22:42 |
 | [StarDrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/StarDrewer) | 2021-03-18 18:43:42 |
 | [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 18:39:23 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2021-03-01 00:48:31 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2021-02-26 09:15:47 |
 | [LittleCuteRabbit](https://github.com/asdf2014/algorithm/tree/master/Codes/LittleCuteRabbit) | 2021-01-12 13:32:48 |
-| [Terence.Sun](https://github.com/asdf2014/algorithm/tree/master/Codes/Terence.Sun) | 2020-12-30 17:48:56 |
 
 🤖：排行榜的更新会在提交后自动执行。
 
