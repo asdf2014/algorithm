@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [173](https://leetcode-cn.com/problems/binary-search-tree-iterator) | Binary Search Tree Iterator |
+| [827](https://leetcode-cn.com/problems/expressive-words) | Expressive Words |
 
-🤖：最近一次更新时间为 `2021-08-06 20:03:36`。
+🤖：最近一次更新时间为 `2021-08-13 20:03:32`。
 
 <br/>
 
