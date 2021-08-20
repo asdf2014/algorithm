@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [827](https://leetcode-cn.com/problems/expressive-words) | Expressive Words |
+| [301](https://leetcode-cn.com/problems/remove-invalid-parentheses) | Remove Invalid Parentheses |
 
-🤖：最近一次更新时间为 `2021-08-13 20:03:32`。
+🤖：最近一次更新时间为 `2021-08-20 20:03:45`。
 
 <br/>
 

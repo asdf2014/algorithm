@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [827](https://leetcode.com/problems/expressive-words) | Expressive Words |
+| [301](https://leetcode.com/problems/remove-invalid-parentheses) | Remove Invalid Parentheses |
 
-🤖: The last update time was `2021-08-13 12:03:32`.
+🤖: The last update time was `2021-08-20 12:03:45`.
 
 <br/>
 
