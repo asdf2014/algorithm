@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [301](https://leetcode.com/problems/remove-invalid-parentheses) | Remove Invalid Parentheses |
+| [810](https://leetcode.com/problems/valid-tic-tac-toe-state) | Valid Tic-Tac-Toe State |
 
-🤖: The last update time was `2021-08-20 12:03:45`.
+🤖: The last update time was `2021-08-27 12:03:14`.
 
 <br/>
 
