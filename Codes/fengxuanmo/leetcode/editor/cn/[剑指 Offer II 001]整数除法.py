@@ -82,4 +82,4 @@ class Solution(object):
 if __name__ == '__main__':
     s=Solution()
     i=s.divide(-1,1)
-    print i
+    print(i)
