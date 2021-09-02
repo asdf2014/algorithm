@@ -23,12 +23,12 @@ type Node struct {
 
 func copyRandomList(head *Node) *Node {
 	cache := map[*Node]*Node{}
-	for p:=head;p!=nil;p=p.Next {
+	for p := head; p != nil; p = p.Next {
 		cache[p] = &Node{
-			Val:    p.Val,
+			Val: p.Val,
 		}
 	}
-	for p:=head;p!=nil;p=p.Next {
+	for p := head; p != nil; p = p.Next {
 		cache[p].Next = cache[p.Next]
 		cache[p].Random = cache[p.Random]
 	}
