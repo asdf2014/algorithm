@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [810](https://leetcode.com/problems/valid-tic-tac-toe-state) | Valid Tic-Tac-Toe State |
+| [381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | Insert Delete GetRandom O(1) - Duplicates allowed |
 
-🤖: The last update time was `2021-08-27 12:03:14`.
+🤖: The last update time was `2021-09-03 12:03:42`.
 
 <br/>
 
