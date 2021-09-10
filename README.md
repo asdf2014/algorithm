@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | Insert Delete GetRandom O(1) - Duplicates allowed |
+| [1823](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Determine if String Halves Are Alike |
 
-🤖: The last update time was `2021-09-03 12:03:42`.
+🤖: The last update time was `2021-09-10 12:03:27`.
 
 <br/>
 
