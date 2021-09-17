@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1823](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Determine if String Halves Are Alike |
+| [349](https://leetcode.com/problems/intersection-of-two-arrays) | Intersection of Two Arrays |
 
-🤖: The last update time was `2021-09-10 12:03:27`.
+🤖: The last update time was `2021-09-17 12:03:11`.
 
 <br/>
 
