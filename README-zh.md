@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [349](https://leetcode-cn.com/problems/intersection-of-two-arrays) | Intersection of Two Arrays |
+| [64](https://leetcode-cn.com/problems/minimum-path-sum) | Minimum Path Sum |
 
-🤖：最近一次更新时间为 `2021-09-17 20:03:11`。
+🤖：最近一次更新时间为 `2021-09-24 20:03:40`。
 
 <br/>
 

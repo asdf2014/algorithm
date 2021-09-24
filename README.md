@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [349](https://leetcode.com/problems/intersection-of-two-arrays) | Intersection of Two Arrays |
+| [64](https://leetcode.com/problems/minimum-path-sum) | Minimum Path Sum |
 
-🤖: The last update time was `2021-09-17 12:03:11`.
+🤖: The last update time was `2021-09-24 12:03:40`.
 
 <br/>
 
