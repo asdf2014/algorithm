@@ -59,7 +59,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 300 |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
-| [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 106 |
+| [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 107 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
@@ -71,7 +71,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer)** | 2021-09-25 01:10:15 |
+| **[stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer)** | 2021-09-27 15:45:37 |
 | **[fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo)** | 2021-09-01 17:07:12 |
 | **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2021-07-20 08:58:49 |
 | [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 12:21:20 |
