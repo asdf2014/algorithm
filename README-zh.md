@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [64](https://leetcode-cn.com/problems/minimum-path-sum) | Minimum Path Sum |
+| [1458](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits) | Sort Integers by The Number of 1 Bits |
 
-🤖：最近一次更新时间为 `2021-09-24 20:03:40`。
+🤖：最近一次更新时间为 `2021-10-01 20:05:19`。
 
 <br/>
 

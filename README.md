@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [64](https://leetcode.com/problems/minimum-path-sum) | Minimum Path Sum |
+| [1458](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Sort Integers by The Number of 1 Bits |
 
-🤖: The last update time was `2021-09-24 12:03:40`.
+🤖: The last update time was `2021-10-01 12:05:19`.
 
 <br/>
 
