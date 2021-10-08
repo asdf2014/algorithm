@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1458](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits) | Sort Integers by The Number of 1 Bits |
+| [2091](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers) | Number of Ways to Separate Numbers |
 
-🤖：最近一次更新时间为 `2021-10-01 20:05:19`。
+🤖：最近一次更新时间为 `2021-10-08 20:03:34`。
 
 <br/>
 
