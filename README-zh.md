@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2091](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers) | Number of Ways to Separate Numbers |
+| [983](https://leetcode-cn.com/problems/validate-stack-sequences) | Validate Stack Sequences |
 
-🤖：最近一次更新时间为 `2021-10-08 20:03:34`。
+🤖：最近一次更新时间为 `2021-10-15 20:03:22`。
 
 <br/>
 
