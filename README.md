@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [983](https://leetcode.com/problems/validate-stack-sequences) | Validate Stack Sequences |
+| [2093](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Check If String Is a Prefix of Array |
 
-🤖: The last update time was `2021-10-15 12:03:22`.
+🤖: The last update time was `2021-10-22 12:03:33`.
 
 <br/>
 

@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [983](https://leetcode-cn.com/problems/validate-stack-sequences) | Validate Stack Sequences |
+| [2093](https://leetcode-cn.com/problems/check-if-string-is-a-prefix-of-array) | Check If String Is a Prefix of Array |
 
-🤖：最近一次更新时间为 `2021-10-15 20:03:22`。
+🤖：最近一次更新时间为 `2021-10-22 20:03:33`。
 
 <br/>
 
