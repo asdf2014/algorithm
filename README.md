@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2093](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Check If String Is a Prefix of Array |
+| [106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Construct Binary Tree from Inorder and Postorder Traversal |
 
-🤖: The last update time was `2021-10-22 12:03:33`.
+🤖: The last update time was `2021-10-29 12:03:19`.
 
 <br/>
 
