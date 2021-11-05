@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Construct Binary Tree from Inorder and Postorder Traversal |
+| [1352](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Maximum Profit in Job Scheduling |
 
-🤖: The last update time was `2021-10-29 12:03:19`.
+🤖: The last update time was `2021-11-05 12:03:31`.
 
 <br/>
 
