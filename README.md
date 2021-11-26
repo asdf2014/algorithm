@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2032](https://leetcode.com/problems/largest-odd-number-in-string) | Largest Odd Number in String |
+| [746](https://leetcode.com/problems/prefix-and-suffix-search) | Prefix and Suffix Search |
 
-🤖: The last update time was `2021-11-19 12:03:37`.
+🤖: The last update time was `2021-11-26 12:03:32`.
 
 <br/>
 
