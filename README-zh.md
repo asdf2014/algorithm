@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [746](https://leetcode-cn.com/problems/prefix-and-suffix-search) | Prefix and Suffix Search |
+| [1389](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | Minimum Moves to Move a Box to Their Target Location |
 
-🤖：最近一次更新时间为 `2021-11-26 20:03:32`。
+🤖：最近一次更新时间为 `2021-12-03 20:03:33`。
 
 <br/>
 
