@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1389](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | Minimum Moves to Move a Box to Their Target Location |
+| [912](https://leetcode.com/problems/random-pick-with-weight) | Random Pick with Weight |
 
-🤖: The last update time was `2021-12-03 12:03:33`.
+🤖: The last update time was `2021-12-10 12:03:22`.
 
 <br/>
 
