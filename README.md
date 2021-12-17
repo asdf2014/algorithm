@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [912](https://leetcode.com/problems/random-pick-with-weight) | Random Pick with Weight |
+| [935](https://leetcode.com/problems/orderly-queue) | Orderly Queue |
 
-🤖: The last update time was `2021-12-10 12:03:22`.
+🤖: The last update time was `2021-12-17 12:03:32`.
 
 <br/>
 
