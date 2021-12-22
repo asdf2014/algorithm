@@ -63,11 +63,11 @@ def flush_readme(readme_file, url, date_comment, local):
 
 # flush README
 flush_readme(
-    "README.md", "https://leetcode-cn.com/problems/", "🤖：最近一次更新时间为 `%s`。\n", True
-)
-flush_readme(
-    "README-en.md",
+    "README.md",
     "https://leetcode.com/problems/",
     "🤖: The last update time was `%s`.\n",
     False,
+)
+flush_readme(
+    "README-zh.md", "https://leetcode-cn.com/problems/", "🤖：最近一次更新时间为 `%s`。\n", True
 )

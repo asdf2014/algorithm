@@ -30,8 +30,8 @@
 def bomb_enemy(cells):
     row_len, col_len = len(cells), len(cells[0])
     result = 0
-    col_hits = [0] * col_len
     row_hits = 0
+    col_hits = [0] * col_len
     for index_row, row in enumerate(cells):
         for index_cell, cell in enumerate(row):
             if index_cell == 0 or row[index_cell - 1] == "W":
