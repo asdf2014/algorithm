@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [213](https://leetcode-cn.com/problems/house-robber-ii) | House Robber II |
+| [1389](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | Minimum Moves to Move a Box to Their Target Location |
 
-🤖：最近一次更新时间为 `2021-12-24 20:03:35`。
+🤖：最近一次更新时间为 `2021-12-31 20:03:31`。
 
 <br/>
 

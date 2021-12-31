@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [213](https://leetcode.com/problems/house-robber-ii) | House Robber II |
+| [1389](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | Minimum Moves to Move a Box to Their Target Location |
 
-🤖: The last update time was `2021-12-24 12:03:35`.
+🤖: The last update time was `2021-12-31 12:03:31`.
 
 <br/>
 
