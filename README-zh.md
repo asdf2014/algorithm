@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1851](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii) | Maximum Number of Events That Can Be Attended II |
+| [800](https://leetcode-cn.com/problems/letter-case-permutation) | Letter Case Permutation |
 
-🤖：最近一次更新时间为 `2022-01-07 20:03:42`。
+🤖：最近一次更新时间为 `2022-01-14 20:03:31`。
 
 <br/>
 
