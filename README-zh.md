@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [800](https://leetcode-cn.com/problems/letter-case-permutation) | Letter Case Permutation |
+| [1302](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string) | Delete Characters to Make Fancy String |
 
-🤖：最近一次更新时间为 `2022-01-14 20:03:31`。
+🤖：最近一次更新时间为 `2022-01-21 20:03:17`。
 
 <br/>
 
