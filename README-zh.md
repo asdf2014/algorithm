@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1302](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string) | Delete Characters to Make Fancy String |
+| [222](https://leetcode-cn.com/problems/count-complete-tree-nodes) | Count Complete Tree Nodes |
 
-🤖：最近一次更新时间为 `2022-01-21 20:03:17`。
+🤖：最近一次更新时间为 `2022-01-28 20:03:47`。
 
 <br/>
 
