@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [222](https://leetcode-cn.com/problems/count-complete-tree-nodes) | Count Complete Tree Nodes |
+| [1275](https://leetcode-cn.com/problems/validate-binary-tree-nodes) | Validate Binary Tree Nodes |
 
-🤖：最近一次更新时间为 `2022-01-28 20:03:47`。
+🤖：最近一次更新时间为 `2022-02-04 20:03:25`。
 
 <br/>
 

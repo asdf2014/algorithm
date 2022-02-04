@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [222](https://leetcode.com/problems/count-complete-tree-nodes) | Count Complete Tree Nodes |
+| [1275](https://leetcode.com/problems/validate-binary-tree-nodes) | Validate Binary Tree Nodes |
 
-🤖: The last update time was `2022-01-28 12:03:47`.
+🤖: The last update time was `2022-02-04 12:03:25`.
 
 <br/>
 
