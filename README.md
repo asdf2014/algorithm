@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2043](https://leetcode.com/problems/cyclically-rotating-a-grid) | Cyclically Rotating a Grid |
+| [1814](https://leetcode.com/problems/jump-game-vi) | Jump Game VI |
 
-🤖: The last update time was `2022-02-18 12:03:45`.
+🤖: The last update time was `2022-02-25 12:03:47`.
 
 <br/>
 
