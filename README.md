@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1814](https://leetcode.com/problems/jump-game-vi) | Jump Game VI |
+| [2096](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position) | Find the Longest Valid Obstacle Course at Each Position |
 
-🤖: The last update time was `2022-02-25 12:03:47`.
+🤖: The last update time was `2022-03-04 12:04:02`.
 
 <br/>
 
