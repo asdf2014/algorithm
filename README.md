@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [825](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | Max Increase to Keep City Skyline |
+| [1901](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Equal Sum Arrays With Minimum Number of Operations |
 
-🤖: The last update time was `2022-03-18 12:03:43`.
+🤖: The last update time was `2022-03-25 12:03:51`.
 
 <br/>
 
