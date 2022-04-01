@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1901](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Equal Sum Arrays With Minimum Number of Operations |
+| [394](https://leetcode.com/problems/decode-string) | Decode String |
 
-🤖: The last update time was `2022-03-25 12:03:51`.
+🤖: The last update time was `2022-04-01 12:08:33`.
 
 <br/>
 
