@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [394](https://leetcode-cn.com/problems/decode-string) | Decode String |
+| [1071](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) | Binary Prefix Divisible By 5 |
 
-🤖：最近一次更新时间为 `2022-04-01 20:08:33`。
+🤖：最近一次更新时间为 `2022-04-08 20:03:58`。
 
 <br/>
 
