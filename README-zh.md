@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1071](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) | Binary Prefix Divisible By 5 |
+| [1680](https://leetcode-cn.com/problems/count-all-possible-routes) | Count All Possible Routes |
 
-🤖：最近一次更新时间为 `2022-04-08 20:03:58`。
+🤖：最近一次更新时间为 `2022-04-15 20:03:58`。
 
 <br/>
 
