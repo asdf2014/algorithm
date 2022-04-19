@@ -17,10 +17,10 @@ class Solution:
             count1 = 0
             for val2 in num1[::-1]:
                 multi_sum = (int(val1) * int(val2) + add) % 10
-                multiply_sum += multi_sum * (10 ** count1)
+                multiply_sum += multi_sum * (10**count1)
                 add = (int(val1) * int(val2) + add) // 10
                 count1 += 1
-            return_sum += multiply_sum * (10 ** count)
+            return_sum += multiply_sum * (10**count)
             count += 1
 
         return str(return_sum)

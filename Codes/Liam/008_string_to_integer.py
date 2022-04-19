@@ -29,7 +29,7 @@ class Solution:
         result = int(result)
 
         # upper bound
-        if abs(result) > (2 ** 31 - 1):
-            return -(2 ** 31) if result < 0 else (2 ** 31 - 1)
+        if abs(result) > (2**31 - 1):
+            return -(2**31) if result < 0 else (2**31 - 1)
 
         return result

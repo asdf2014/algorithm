@@ -4,7 +4,7 @@
 def reverse_integer(x):
     sign = (x > 0) - (x < 0)
     res = int(str(x * sign)[::-1])
-    return sign * res * (res < 2 ** 31)
+    return sign * res * (res < 2**31)
 
 
 assert reverse_integer(123) == 321

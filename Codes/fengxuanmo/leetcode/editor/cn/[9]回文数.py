@@ -57,7 +57,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x < 0 or x > (2 ** 31 - 1) or x < -(2 ** 31):
+        if x < 0 or x > (2**31 - 1) or x < -(2**31):
             return False
         else:
             s = str(x)
