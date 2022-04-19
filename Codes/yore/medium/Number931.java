@@ -6,32 +6,28 @@ package com.yore.medium;
  * @description
  */
 public class Number931 {
-    int[][] matrixLocal;
-    int[][] memory;
-
     public int minFallingPathSum(int[][] matrix) {
-        int len = matrix.length;
-        int result = Integer.MAX_VALUE;
-        memory = new int[len][len];
-        matrixLocal = matrix;
-        for (int i = 0; i < len; i++) {
-            result = Math.min(result, dp(len - 1, i));
+        int n = matrix.length;
+        int[][] dp = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            dp[0][i] = matrix[0][i];
         }
-        return result;
-    }
-
-    public int dp(int i, int j) {
-        if (i < 0 || j < 0 || i >= matrixLocal.length || j >= matrixLocal.length) {
-            return 100000;
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                dp[i][j] = dp[i - 1][j];
+                if (j > 0) {
+                    dp[i][j] = Math.min(dp[i][j], dp[i - 1][j - 1]);
+                }
+                if (j < n - 1) {
+                    dp[i][j] = Math.min(dp[i][j], dp[i - 1][j + 1]);
+                }
+                dp[i][j] += matrix[i][j];
+            }
         }
-        if (memory[i][j] != 0) {
-            return memory[i][j];
+        int min = Integer.MAX_VALUE;
+        for (int j = 0; j < n; j++) {
+            min = Math.min(min, dp[n - 1][j]);
         }
-        if (i == 0) {
-            return matrixLocal[i][j];
-        }
-        memory[i][j] = matrixLocal[i][j] + Math.min(dp(i - 1, j - 1),
-                Math.min(dp(i - 1, j), dp(i - 1, j + 1)));
-        return memory[i][j];
+        return min;
     }
 }

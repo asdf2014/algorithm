@@ -9,16 +9,49 @@ import java.util.Set;
  * @description
  */
 public class Number268 {
-    public int missingNumber(int[] nums) {
+
+    public static int missingNumber1(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {
             set.add(num);
         }
         for (int i = 0; i <= nums.length; i++) {
-            if(!set.contains(i)){
+            if (!set.contains(i)) {
                 return i;
             }
         }
         return -1;
+    }
+
+    /**
+     * 巧妙解法 利用位运算
+     * @param nums
+     * @return
+     */
+    public int missingNumberBit(int[] nums) {
+        int number = 0;
+        int n = nums.length;
+        for (int num : nums) {
+            number ^= num;
+        }
+        for(int i=0;i<=n;i++){
+            number ^= i;
+        }
+        return number;
+    }
+
+    /**
+     * 数学公式
+     * @param nums
+     * @return
+     */
+    public int missingNumberMath(int[] nums) {
+        int sum =0;
+        for(int num : nums){
+            sum+=num;
+        }
+        int n = nums.length;
+        int totalSum = n*(n+1)/2;
+        return totalSum-sum;
     }
 }
