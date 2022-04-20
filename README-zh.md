@@ -56,7 +56,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 486 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 487 |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 119 |
@@ -71,7 +71,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-04-20 09:14:22 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-04-20 10:23:09 |
 | **[fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo)** | 2022-04-19 19:46:06 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2022-04-19 19:46:06 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
