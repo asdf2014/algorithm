@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2364](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters) | Longest Path With Different Adjacent Characters |
+| [1282](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) | Number of Valid Words for Each Puzzle |
 
-🤖：最近一次更新时间为 `2022-04-22 20:04:07`。
+🤖：最近一次更新时间为 `2022-04-29 20:05:26`。
 
 <br/>
 
