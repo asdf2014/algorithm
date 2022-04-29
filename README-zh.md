@@ -56,7 +56,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 503 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 510 |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 119 |
@@ -71,12 +71,12 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-04-26 09:59:41 |
-| **[fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo)** | 2022-04-19 19:46:06 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2022-04-19 19:46:06 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-04-29 10:43:47 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2022-04-19 19:46:06 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2022-04-19 19:46:06 |
 | [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2022-04-19 19:46:06 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 19:46:06 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 19:46:06 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 19:46:06 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 15:57:20 |
 | [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 12:21:20 |
 | [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 21:22:42 |
