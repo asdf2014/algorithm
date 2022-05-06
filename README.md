@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1282](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle) | Number of Valid Words for Each Puzzle |
+| [414](https://leetcode.com/problems/third-maximum-number) | Third Maximum Number |
 
-🤖: The last update time was `2022-04-29 12:05:26`.
+🤖: The last update time was `2022-05-06 12:06:02`.
 
 <br/>
 
