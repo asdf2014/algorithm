@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [414](https://leetcode.com/problems/third-maximum-number) | Third Maximum Number |
+| [9](https://leetcode.com/problems/palindrome-number) | Palindrome Number |
 
-🤖: The last update time was `2022-05-06 12:06:02`.
+🤖: The last update time was `2022-05-13 12:04:13`.
 
 <br/>
 

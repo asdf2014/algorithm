@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [414](https://leetcode-cn.com/problems/third-maximum-number) | Third Maximum Number |
+| [9](https://leetcode-cn.com/problems/palindrome-number) | Palindrome Number |
 
-🤖：最近一次更新时间为 `2022-05-06 20:06:02`。
+🤖：最近一次更新时间为 `2022-05-13 20:04:13`。
 
 <br/>
 
