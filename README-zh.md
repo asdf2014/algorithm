@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [9](https://leetcode-cn.com/problems/palindrome-number) | Palindrome Number |
+| [2263](https://leetcode-cn.com/problems/maximum-running-time-of-n-computers) | Maximum Running Time of N Computers |
 
-🤖：最近一次更新时间为 `2022-05-13 20:04:13`。
+🤖：最近一次更新时间为 `2022-05-20 20:04:05`。
 
 <br/>
 
