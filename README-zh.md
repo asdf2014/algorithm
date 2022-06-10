@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2246](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting) | Maximum Employees to Be Invited to a Meeting |
+| [1558](https://leetcode-cn.com/problems/course-schedule-iv) | Course Schedule IV |
 
-🤖：最近一次更新时间为 `2022-06-03 20:04:07`。
+🤖：最近一次更新时间为 `2022-06-10 20:04:40`。
 
 <br/>
 
