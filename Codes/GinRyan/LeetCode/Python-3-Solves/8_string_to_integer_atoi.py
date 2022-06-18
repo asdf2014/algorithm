@@ -67,8 +67,8 @@ class Solution:
         # 截取掉所有空格
         # 剩下的开头只有可能是数字和符号了
         noSpaceRaw = rawstr.strip()
-        INT_MAX = 2 ** 31 - 1
-        INT_MIN = -(2 ** 31)
+        INT_MAX = 2**31 - 1
+        INT_MIN = -(2**31)
 
         # 长度为0 的直接返回0
         if len(noSpaceRaw) == 0:
@@ -130,7 +130,7 @@ class Solution:
 
         if get_num > INT_MAX:
             get_num = INT_MAX
-        elif get_num < -(2 ** 31):
+        elif get_num < -(2**31):
             get_num = INT_MIN
         return get_num
 

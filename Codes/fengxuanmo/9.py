@@ -8,7 +8,7 @@ def isPalindrome(x):
     else:
 
         s = str(x)
-        print s[::0]
+        print(s[::0])
         for i, j in enumerate(s):
             if i >= len(s) / 2:
                 return True

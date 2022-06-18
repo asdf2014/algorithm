@@ -32,7 +32,7 @@ def reverse_integer(x):
         refactor = 10 ** (size - i)
         res += remaining * refactor
         x //= 10
-    if res > 2 ** 31 - 1:
+    if res > 2**31 - 1:
         return 0
     return sign * res
 

@@ -11,7 +11,7 @@ class Solution:
             n = len(strs) - 1
             num = 0
             for i in strs:
-                num += hash[i] * 10 ** n
+                num += hash[i] * 10**n
                 n -= 1
             return num
 

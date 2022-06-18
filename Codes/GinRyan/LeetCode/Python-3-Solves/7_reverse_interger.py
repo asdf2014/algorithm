@@ -52,9 +52,9 @@ class Solution:
             x //= 10
 
         ret = sign * reversedNum
-        if reversedNum > 2 ** 31 - 1:
+        if reversedNum > 2**31 - 1:
             return 0
-        elif reversedNum < -(2 ** 31):
+        elif reversedNum < -(2**31):
             return 0
         return int(ret)
 

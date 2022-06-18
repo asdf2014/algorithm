@@ -9,21 +9,19 @@ import com.yore.base.ListNode;
  */
 public class Number83 {
     public ListNode deleteDuplicates(ListNode head) {
-        if (head == null) {
+        if(head == null){
             return null;
         }
-        ListNode node = head.next;
-        int preValue = head.val;
-        ListNode preNode = head;
-        while (node != null) {
-            if (node.val == preValue) {
-                preNode.next = node.next;
-            } else {
-                preNode = preNode.next;
-                preValue = preNode.val;
+        ListNode left = head;
+        ListNode right = head;
+        while(right !=null && right.next!=null){
+            if(right.val != right.next.val){
+                left = left.next;
+                left.val = right.next.val;
             }
-            node = node.next;
+            right = right.next;
         }
+        left.next = null;
         return head;
     }
 }

@@ -15,4 +15,4 @@ def log_str(s):
 
 
 if __name__ == "__main__":
-    print log_str("abcabcbb")
+    print(log_str("abcabcbb"))
