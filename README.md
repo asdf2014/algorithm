@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [518](https://leetcode.com/problems/coin-change-2) | Coin Change 2 |
+| [341](https://leetcode.com/problems/flatten-nested-list-iterator) | Flatten Nested List Iterator |
 
-🤖: The last update time was `2022-07-01 12:04:12`.
+🤖: The last update time was `2022-07-08 12:04:26`.
 
 <br/>
 
