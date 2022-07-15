@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [341](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | Flatten Nested List Iterator |
+| [1694](https://leetcode-cn.com/problems/make-sum-divisible-by-p) | Make Sum Divisible by P |
 
-🤖：最近一次更新时间为 `2022-07-08 20:04:26`。
+🤖：最近一次更新时间为 `2022-07-15 20:04:15`。
 
 <br/>
 

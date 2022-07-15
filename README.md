@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [341](https://leetcode.com/problems/flatten-nested-list-iterator) | Flatten Nested List Iterator |
+| [1694](https://leetcode.com/problems/make-sum-divisible-by-p) | Make Sum Divisible by P |
 
-🤖: The last update time was `2022-07-08 12:04:26`.
+🤖: The last update time was `2022-07-15 12:04:15`.
 
 <br/>
 
