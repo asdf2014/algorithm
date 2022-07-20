@@ -12,8 +12,8 @@ public class Number905 {
         Number905 number905 = new Number905();
         long startTime = System.currentTimeMillis();
         int[] B = number905.sortArrayByParity(new int[]{3, 1, 2, 4});
-        for(int num : B){
-            System.out.println(num+ " ");
+        for (int num : B) {
+            System.out.println(num + " ");
         }
         System.out.println();
         System.out.println("耗时：" + (System.currentTimeMillis() - startTime) + "ms");
@@ -37,5 +37,26 @@ public class Number905 {
             }
         }
         return A;
+    }
+
+    public int[] sortArrayByParity2(int[] nums) {
+        int left = 0;
+        int right = nums.length - 1;
+        while (left <= right) {
+            while (left <= right && nums[left] % 2 == 0) {
+                left++;
+            }
+            while (left <= right && nums[right] % 2 != 0) {
+                right--;
+            }
+            if (left < right) {
+                int tmp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = tmp;
+                left++;
+                right--;
+            }
+        }
+        return nums;
     }
 }
