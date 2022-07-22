@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1694](https://leetcode-cn.com/problems/make-sum-divisible-by-p) | Make Sum Divisible by P |
+| [1313](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony) | Count Ways to Build Rooms in an Ant Colony |
 
-🤖：最近一次更新时间为 `2022-07-15 20:04:15`。
+🤖：最近一次更新时间为 `2022-07-22 20:04:34`。
 
 <br/>
 

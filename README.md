@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1694](https://leetcode.com/problems/make-sum-divisible-by-p) | Make Sum Divisible by P |
+| [1313](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) | Count Ways to Build Rooms in an Ant Colony |
 
-🤖: The last update time was `2022-07-15 12:04:15`.
+🤖: The last update time was `2022-07-22 12:04:34`.
 
 <br/>
 
