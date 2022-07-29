@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1313](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony) | Count Ways to Build Rooms in an Ant Colony |
+| [1013](https://leetcode-cn.com/problems/fibonacci-number) | Fibonacci Number |
 
-🤖：最近一次更新时间为 `2022-07-22 20:04:34`。
+🤖：最近一次更新时间为 `2022-07-29 20:04:49`。
 
 <br/>
 

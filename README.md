@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1313](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) | Count Ways to Build Rooms in an Ant Colony |
+| [1013](https://leetcode.com/problems/fibonacci-number) | Fibonacci Number |
 
-🤖: The last update time was `2022-07-22 12:04:34`.
+🤖: The last update time was `2022-07-29 12:04:49`.
 
 <br/>
 
