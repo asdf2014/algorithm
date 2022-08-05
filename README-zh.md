@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1013](https://leetcode-cn.com/problems/fibonacci-number) | Fibonacci Number |
+| [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) | Longest Word in Dictionary through Deleting |
 
-🤖：最近一次更新时间为 `2022-07-29 20:04:49`。
+🤖：最近一次更新时间为 `2022-08-05 20:04:20`。
 
 <br/>
 
