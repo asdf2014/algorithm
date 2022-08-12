@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) | Longest Word in Dictionary through Deleting |
+| [1119](https://leetcode-cn.com/problems/robot-bounded-in-circle) | Robot Bounded In Circle |
 
-🤖：最近一次更新时间为 `2022-08-05 20:04:20`。
+🤖：最近一次更新时间为 `2022-08-12 20:04:20`。
 
 <br/>
 
