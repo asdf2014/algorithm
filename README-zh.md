@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [954](https://leetcode-cn.com/problems/maximum-sum-circular-subarray) | Maximum Sum Circular Subarray |
+| [1249](https://leetcode-cn.com/problems/snapshot-array) | Snapshot Array |
 
-🤖：最近一次更新时间为 `2022-08-19 20:04:23`。
+🤖：最近一次更新时间为 `2022-08-26 20:04:58`。
 
 <br/>
 
