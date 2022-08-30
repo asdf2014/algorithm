@@ -71,16 +71,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2022-08-30 17:21:56 |
 | **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-07-20 10:31:02 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2022-04-19 19:46:06 |
-| **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 2022-04-19 19:46:06 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2022-04-19 19:46:06 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2022-04-19 19:46:06 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 19:46:06 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 19:46:06 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 19:46:06 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 15:57:20 |
 | [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 12:21:20 |
 | [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 21:22:42 |
-| [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 18:39:23 |
 
 🤖：排行榜的更新会在提交后自动执行。
 
