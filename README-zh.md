@@ -44,9 +44,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1249](https://leetcode-cn.com/problems/snapshot-array) | Snapshot Array |
+| [214](https://leetcode-cn.com/problems/shortest-palindrome) | Shortest Palindrome |
 
-🤖：最近一次更新时间为 `2022-08-26 20:04:58`。
+🤖：最近一次更新时间为 `2022-09-02 20:04:47`。
 
 <br/>
 
