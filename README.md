@@ -45,9 +45,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [214](https://leetcode.com/problems/shortest-palindrome) | Shortest Palindrome |
+| [1433](https://leetcode.com/problems/encrypt-and-decrypt-strings) | Encrypt and Decrypt Strings |
 
-🤖: The last update time was `2022-09-02 12:04:47`.
+🤖: The last update time was `2022-09-09 12:04:46`.
 
 <br/>
 
