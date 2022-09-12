@@ -15,6 +15,20 @@ English | [中文](https://github.com/asdf2014/algorithm/blob/master/README-zh.m
 
 # Team up to solve problems on LeetCode together
 
+## Outline
+
+* [Introduction](#introduction)
+  + [Code repository](#code-repository)
+  + [Way to sign up](#way-to-sign-up)
+  + [Way to participate](#way-to-participate)
+  + [Frequency](#frequency)
+  + [Problem selection strategy](#problem-selection-strategy)
+* [TopN](#topn)
+  + [The most problem-solving partners](#the-most-problem-solving-partners)
+  + [The most active partners](#the-most-active-partners)
+* [Original intention](#original-intention)
+* [Thanks](#thanks)
+
 ## Introduction
 
 ### Code repository
