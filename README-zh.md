@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1433](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings) | Encrypt and Decrypt Strings |
+| [1257](https://leetcode-cn.com/problems/rank-transform-of-a-matrix) | Rank Transform of a Matrix |
 
-🤖：最近一次更新时间为 `2022-09-09 20:04:46`。
+🤖：最近一次更新时间为 `2022-09-16 20:05:00`。
 
 <br/>
 
