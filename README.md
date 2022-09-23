@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1257](https://leetcode.com/problems/rank-transform-of-a-matrix) | Rank Transform of a Matrix |
+| [1722](https://leetcode.com/problems/throne-inheritance) | Throne Inheritance |
 
-🤖: The last update time was `2022-09-16 12:05:00`.
+🤖: The last update time was `2022-09-23 12:04:53`.
 
 <br/>
 

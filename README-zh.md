@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1257](https://leetcode-cn.com/problems/rank-transform-of-a-matrix) | Rank Transform of a Matrix |
+| [1722](https://leetcode-cn.com/problems/throne-inheritance) | Throne Inheritance |
 
-🤖：最近一次更新时间为 `2022-09-16 20:05:00`。
+🤖：最近一次更新时间为 `2022-09-23 20:04:53`。
 
 <br/>
 
