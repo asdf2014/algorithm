@@ -109,32 +109,6 @@ public:
                             }
                             // 循环完了，还是匹配不上，直接失败
                             return false;
-//                            int pos;
-//                            while (pos = s.find(p[pi], si), pos != s.npos) {
-//                                string subs = s.substr(pos, s.size() - si);
-//                                string subp = p.substr(pi, p.size() - pi);
-//                                cout << "子匹配：s->" << subs << " p->" << subp << endl;
-//                                if (isMatch(subs, subp)) {
-//                                    return true;
-//                                }
-//                                cout << "子匹配：s->" << subs << " p->" << subp << " => 匹配失败" << endl;
-//                                si = pos + 1;
-//                            }
-                            // s找完了，p还有东西
-//                            if (si >= s.size() - 1) {
-//                                if (p[pi + 1] == '*') {
-//                                    // .*和a*两种情况或者是组合
-//                                    string pStr = p.substr(pi, p.size() - pi);
-//                                    cout << "s匹配完了，p还有" << endl;
-//                                    cout << "空值匹配：s-> " << " p->" << pStr << endl;
-//                                    return isMatch("", pStr);
-//                                } else {
-//                                    // .a或..无法匹配
-//                                    return false;
-//                                }
-//                            } else {
-//                                return false;
-//                            }
                         }
                     }
                 } else if (si == s.size()) {
