@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1722](https://leetcode-cn.com/problems/throne-inheritance) | Throne Inheritance |
+| [140](https://leetcode-cn.com/problems/word-break-ii) | Word Break II |
 
-🤖：最近一次更新时间为 `2022-09-23 20:04:53`。
+🤖：最近一次更新时间为 `2022-09-30 20:05:16`。
 
 <br/>
 

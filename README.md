@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1722](https://leetcode.com/problems/throne-inheritance) | Throne Inheritance |
+| [140](https://leetcode.com/problems/word-break-ii) | Word Break II |
 
-🤖: The last update time was `2022-09-23 12:04:53`.
+🤖: The last update time was `2022-09-30 12:05:16`.
 
 <br/>
 
