@@ -26,4 +26,28 @@ public class Number300 {
         }
         return res;
     }
+
+    public int lengthOfLIS_2(int[] nums) {
+        int n = nums.length;
+        int[] d = new int[n];
+        int res = 0;
+        for (int num : nums) {
+            int left = 0;
+            int right = res;
+            while (left < right) {
+                int m = left + ((right - left) >> 1);
+                if (d[m] < num) {
+                    left = m + 1;
+                } else {
+                    right = m;
+                }
+            }
+            d[right] = num;
+            if (res == right) {
+                res++;
+            }
+        }
+        return res;
+    }
+
 }

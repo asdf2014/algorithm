@@ -15,6 +15,20 @@ English | [中文](https://github.com/asdf2014/algorithm/blob/master/README-zh.m
 
 # Team up to solve problems on LeetCode together
 
+## Outline
+
+* [Introduction](#introduction)
+  + [Code repository](#code-repository)
+  + [Way to sign up](#way-to-sign-up)
+  + [Way to participate](#way-to-participate)
+  + [Frequency](#frequency)
+  + [Problem selection strategy](#problem-selection-strategy)
+* [TopN](#topn)
+  + [The most problem-solving partners](#the-most-problem-solving-partners)
+  + [The most active partners](#the-most-active-partners)
+* [Original intention](#original-intention)
+* [Thanks](#thanks)
+
 ## Introduction
 
 ### Code repository
@@ -45,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1851](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii) | Maximum Number of Events That Can Be Attended II |
+| [140](https://leetcode.com/problems/word-break-ii) | Word Break II |
 
-🤖: The last update time was `2022-06-17 12:04:15`.
+🤖: The last update time was `2022-09-30 12:05:16`.
 
 <br/>
 
@@ -57,13 +71,13 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 538 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 591 |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 119 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 31 |
@@ -72,16 +86,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-05-09 02:23:29 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2022-04-19 11:46:06 |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2022-08-30 09:21:56 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-07-20 02:31:02 |
 | **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2022-04-19 11:46:06 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 11:46:06 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 11:46:06 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 11:46:06 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 11:46:06 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 11:46:06 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 07:57:20 |
 | [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 04:21:20 |
 | [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 13:22:42 |
-| [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 10:39:23 |
 
 🤖: Updates to the leaderboards are automatically executed after submission.
 

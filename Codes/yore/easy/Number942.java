@@ -16,20 +16,15 @@ public class Number942 {
         System.out.println("耗时：" + (System.currentTimeMillis() - startTime) + "ms");
     }
 
-    public int[] diStringMatch(String S) {
-        int[] array = new int[S.length() + 1];
-        char[] charArray = S.toCharArray();
-        int index = 0;
-        int small=0;
-        int big = S.length();
-        for (char character : charArray) {
-            if (character == 'I') {
-                array[index++] = small++;
-            } else {
-                array[index++] =big--;
-            }
+    public int[] diStringMatch(String s) {
+        int n = s.length();
+        int[] res = new int[n + 1];
+        int min = 0;
+        int max = n;
+        for (int i = 0; i < n; i++) {
+            res[i] = s.charAt(i) == 'I' ? min++ : max--;
         }
-        array[S.length()] = big;
-        return array;
+        res[n] = max;
+        return res;
     }
 }

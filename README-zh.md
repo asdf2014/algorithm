@@ -15,6 +15,20 @@
 
 # LeetCode 组队刷题
 
+## 目录
+
+* [介绍](#介绍)
+  + [代码仓库](#代码仓库)
+  + [报名途径](#报名途径)
+  + [参与方式](#参与方式)
+  + [刷题频率](#刷题频率)
+  + [选题策略](#选题策略)
+* [排行榜](#排行榜)
+  + [完成题目最多的小伙伴](#完成题目最多的小伙伴)
+  + [最活跃的小伙伴](#最活跃的小伙伴)
+* [初衷](#初衷)
+* [鸣谢](#鸣谢)
+
 ## 介绍
 
 ### 代码仓库
@@ -44,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1851](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii) | Maximum Number of Events That Can Be Attended II |
+| [140](https://leetcode-cn.com/problems/word-break-ii) | Word Break II |
 
-🤖：最近一次更新时间为 `2022-06-17 20:04:15`。
+🤖：最近一次更新时间为 `2022-09-30 20:05:16`。
 
 <br/>
 
@@ -56,13 +70,13 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Completed |
 | :--: | :-------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 538 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 591 |
 | **[oh-mybug](https://github.com/asdf2014/algorithm/tree/master/Codes/oh-mybug)** | 218 |
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 119 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 31 |
@@ -71,16 +85,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-05-09 10:23:29 |
-| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2022-04-19 19:46:06 |
+| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2022-08-30 17:21:56 |
+| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-07-20 10:31:02 |
 | **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2022-04-19 19:46:06 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 19:46:06 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 19:46:06 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 19:46:06 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 15:57:20 |
 | [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 12:21:20 |
 | [ghoslation](https://github.com/asdf2014/algorithm/tree/master/Codes/ghoslation) | 2021-04-18 21:22:42 |
-| [liyongquan](https://github.com/asdf2014/algorithm/tree/master/Codes/liyongquan) | 2021-03-04 18:39:23 |
 
 🤖：排行榜的更新会在提交后自动执行。
 

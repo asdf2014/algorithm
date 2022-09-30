@@ -1,5 +1,7 @@
 package com.yore.hard;
 
+import java.util.PriorityQueue;
+
 /**
  * create on 2019/7/6
  * 4_寻找两个有序数组的中位数
@@ -11,9 +13,9 @@ package com.yore.hard;
 @SuppressWarnings("all")
 public class Number4 {
     public static void main(String[] args) {
-        int[] nums1 = {2, 3};
-        int[] nums2 = {1};
-        System.out.println(findMedianSortedArrays(nums1, nums2));
+        int[] nums1 = {1, 2};
+        int[] nums2 = {3, 4};
+        System.out.println(findMedianSortedArrays2(nums1, nums2));
     }
 
     /**
@@ -103,5 +105,30 @@ public class Number4 {
             return (num[i] + num[i + 1]) / 2.0;
         }
         return num[i];
+    }
+
+
+    public static double findMedianSortedArrays2(int[] nums1, int[] nums2) {
+        PriorityQueue<Integer> heapA = new PriorityQueue<>();
+        PriorityQueue<Integer> heapB = new PriorityQueue<>((x, y) -> y - x);
+        for (int num : nums1) {
+            if (heapA.size() != heapB.size()) {
+                heapA.add(num);
+                heapB.add(heapA.poll());
+            } else {
+                heapB.add(num);
+                heapA.add(heapB.poll());
+            }
+        }
+        for (int num : nums2) {
+            if (heapA.size() != heapB.size()) {
+                heapA.add(num);
+                heapB.add(heapA.poll());
+            } else {
+                heapB.add(num);
+                heapA.add(heapB.poll());
+            }
+        }
+        return heapA.size() == heapB.size() ? (heapA.peek()  + heapB.peek()) / 2.0: heapA.peek() * 1.0;
     }
 }

@@ -21,38 +21,16 @@ public class Number929 {
     }
 
     public int numUniqueEmails(String[] emails) {
-        Set<String> targetSet = new HashSet<>();
+        Set<String> union = new HashSet<>();
         for (String email : emails) {
-            boolean domainFlag = false;
-            boolean plusFlag = false;
-            char[] emailCharArray = email.toCharArray();
-            StringBuilder sb = new StringBuilder();
-            for (char singleChar : emailCharArray) {
-                if (domainFlag) {
-                    sb.append(singleChar);
-                    continue;
-                }
-                if (singleChar == '@') {
-                    sb.append(singleChar);
-                    domainFlag = true;
-                    continue;
-                }
-                if (plusFlag && !domainFlag) {
-                    continue;
-                }
-                if (singleChar == '+') {
-                    plusFlag = true;
-                    continue;
-                }
-                if (singleChar == '.') {
-                    continue;
-                }
-                sb.append(singleChar);
+            String[] content = email.split("@");
+            String local = content[0];
+            local = local.replaceAll("\\.", "");
+            if (local.contains("+")) {
+                local = local.substring(0, local.indexOf("+"));
             }
-            targetSet.add(sb.toString());
+            union.add(local + "@" + content[1]);
         }
-      //  System.out.println(targetSet);
-        return targetSet.size();
+        return union.size();
     }
-
 }
