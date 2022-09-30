@@ -1,1 +1,4 @@
 *.json
+leetcode/editor/cn/cmake-build-debug
+leetcode/editor/cn/test*
+leetcode/editor/cn/CMakeLists.txt
