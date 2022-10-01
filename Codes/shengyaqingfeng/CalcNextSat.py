@@ -24,7 +24,7 @@ with open("README.md", "r", encoding="utf-8") as fp:
     # date
     time_str[3] = datetime.now().strftime("%Y-%m-%d")
     # Title
-    next_file_name = "[12]IntegerToRoman.cpp"
+    next_file_name = "[14]LongestCommonPrefix.cpp"
     q_index = next_file_name[1 : next_file_name.find("]")]
     q_title = next_file_name[next_file_name.find("]") + 1 :]
     time_str[4] = "|[{}.{}](leetcode/editor/cn/{})|".format(
@@ -33,7 +33,7 @@ with open("README.md", "r", encoding="utf-8") as fp:
     # ms
     time_str[5] = "xx"
     # MB
-    time_str[8] = "xx.xx"
+    time_str[8] = "xxx"
     # info
     info = " ".join(time_str)
     print(info)
