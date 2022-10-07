@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [140](https://leetcode.com/problems/word-break-ii) | Word Break II |
+| [517](https://leetcode.com/problems/super-washing-machines) | Super Washing Machines |
 
-🤖: The last update time was `2022-09-30 12:05:16`.
+🤖: The last update time was `2022-10-07 12:05:18`.
 
 <br/>
 
