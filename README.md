@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [517](https://leetcode.com/problems/super-washing-machines) | Super Washing Machines |
+| [2085](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | Array With Elements Not Equal to Average of Neighbors |
 
-🤖: The last update time was `2022-10-07 12:05:18`.
+🤖: The last update time was `2022-10-14 12:05:12`.
 
 <br/>
 
