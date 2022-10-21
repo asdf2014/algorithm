@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2085](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | Array With Elements Not Equal to Average of Neighbors |
+| [987](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) | Reveal Cards In Increasing Order |
 
-🤖：最近一次更新时间为 `2022-10-14 20:05:12`。
+🤖：最近一次更新时间为 `2022-10-21 20:05:30`。
 
 <br/>
 

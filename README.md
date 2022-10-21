@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2085](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | Array With Elements Not Equal to Average of Neighbors |
+| [987](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Reveal Cards In Increasing Order |
 
-🤖: The last update time was `2022-10-14 12:05:12`.
+🤖: The last update time was `2022-10-21 12:05:30`.
 
 <br/>
 
