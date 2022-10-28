@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [987](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Reveal Cards In Increasing Order |
+| [1771](https://leetcode.com/problems/sell-diminishing-valued-colored-balls) | Sell Diminishing-Valued Colored Balls |
 
-🤖: The last update time was `2022-10-21 12:05:30`.
+🤖: The last update time was `2022-10-28 12:05:00`.
 
 <br/>
 

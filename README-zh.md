@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [987](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) | Reveal Cards In Increasing Order |
+| [1771](https://leetcode-cn.com/problems/sell-diminishing-valued-colored-balls) | Sell Diminishing-Valued Colored Balls |
 
-🤖：最近一次更新时间为 `2022-10-21 20:05:30`。
+🤖：最近一次更新时间为 `2022-10-28 20:05:00`。
 
 <br/>
 
