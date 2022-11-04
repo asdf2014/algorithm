@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1771](https://leetcode.com/problems/sell-diminishing-valued-colored-balls) | Sell Diminishing-Valued Colored Balls |
+| [1894](https://leetcode.com/problems/merge-strings-alternately) | Merge Strings Alternately |
 
-🤖: The last update time was `2022-10-28 12:05:00`.
+🤖: The last update time was `2022-11-04 12:04:37`.
 
 <br/>
 

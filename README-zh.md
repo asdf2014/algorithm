@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1771](https://leetcode-cn.com/problems/sell-diminishing-valued-colored-balls) | Sell Diminishing-Valued Colored Balls |
+| [1894](https://leetcode-cn.com/problems/merge-strings-alternately) | Merge Strings Alternately |
 
-🤖：最近一次更新时间为 `2022-10-28 20:05:00`。
+🤖：最近一次更新时间为 `2022-11-04 20:04:37`。
 
 <br/>
 
