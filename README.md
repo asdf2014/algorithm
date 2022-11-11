@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1894](https://leetcode.com/problems/merge-strings-alternately) | Merge Strings Alternately |
+| [2319](https://leetcode.com/problems/longest-substring-of-one-repeating-character) | Longest Substring of One Repeating Character |
 
-🤖: The last update time was `2022-11-04 12:04:37`.
+🤖: The last update time was `2022-11-11 12:04:32`.
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1894](https://leetcode-cn.com/problems/merge-strings-alternately) | Merge Strings Alternately |
+| [2319](https://leetcode-cn.com/problems/longest-substring-of-one-repeating-character) | Longest Substring of One Repeating Character |
 
-🤖：最近一次更新时间为 `2022-11-04 20:04:37`。
+🤖：最近一次更新时间为 `2022-11-11 20:04:32`。
 
 <br/>
 
