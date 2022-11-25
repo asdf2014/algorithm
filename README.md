@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2401](https://leetcode.com/problems/count-asterisks) | Count Asterisks |
+| [208](https://leetcode.com/problems/implement-trie-prefix-tree) | Implement Trie (Prefix Tree) |
 
-🤖: The last update time was `2022-11-18 12:04:19`.
+🤖: The last update time was `2022-11-25 12:04:12`.
 
 <br/>
 
