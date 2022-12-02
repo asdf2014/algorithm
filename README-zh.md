@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | Implement Trie (Prefix Tree) |
+| [1436](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends) | Get Watched Videos by Your Friends |
 
-🤖：最近一次更新时间为 `2022-11-25 20:04:12`。
+🤖：最近一次更新时间为 `2022-12-02 20:04:04`。
 
 <br/>
 

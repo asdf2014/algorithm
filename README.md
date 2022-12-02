@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [208](https://leetcode.com/problems/implement-trie-prefix-tree) | Implement Trie (Prefix Tree) |
+| [1436](https://leetcode.com/problems/get-watched-videos-by-your-friends) | Get Watched Videos by Your Friends |
 
-🤖: The last update time was `2022-11-25 12:04:12`.
+🤖: The last update time was `2022-12-02 12:04:04`.
 
 <br/>
 
