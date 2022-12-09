@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1436](https://leetcode.com/problems/get-watched-videos-by-your-friends) | Get Watched Videos by Your Friends |
+| [1065](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | Binary String With Substrings Representing 1 To N |
 
-🤖: The last update time was `2022-12-02 12:04:04`.
+🤖: The last update time was `2022-12-09 12:04:05`.
 
 <br/>
 
