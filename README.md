@@ -59,9 +59,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1065](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | Binary String With Substrings Representing 1 To N |
+| [988](https://leetcode.com/problems/flip-equivalent-binary-trees) | Flip Equivalent Binary Trees |
 
-🤖: The last update time was `2022-12-09 12:04:05`.
+🤖: The last update time was `2022-12-16 12:03:56`.
 
 <br/>
 

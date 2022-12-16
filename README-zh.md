@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1065](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) | Binary String With Substrings Representing 1 To N |
+| [988](https://leetcode-cn.com/problems/flip-equivalent-binary-trees) | Flip Equivalent Binary Trees |
 
-🤖：最近一次更新时间为 `2022-12-09 20:04:05`。
+🤖：最近一次更新时间为 `2022-12-16 20:03:56`。
 
 <br/>
 
