@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [988](https://leetcode.com/problems/flip-equivalent-binary-trees) | Flip Equivalent Binary Trees |
+| [2380](https://leetcode.com/problems/booking-concert-tickets-in-groups) | Booking Concert Tickets in Groups |
 
-🤖: The last update time was `2022-12-16 12:03:56`.
+🤖: The last update time was `2022-12-23 12:04:07`.
 
 <br/>
 
