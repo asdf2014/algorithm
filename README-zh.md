@@ -3,7 +3,6 @@
 [![](https://img.shields.io/github/contributors/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
 [![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
 [![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/-discussions-5EA8FC?logo=livechat)](https://github.com/asdf2014/algorithm/discussions)
