@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2380](https://leetcode.com/problems/booking-concert-tickets-in-groups) | Booking Concert Tickets in Groups |
+| [2401](https://leetcode.com/problems/count-asterisks) | Count Asterisks |
 
-🤖: The last update time was `2022-12-23 12:04:07`.
+🤖: The last update time was `2022-12-30 12:03:54`.
 
 <br/>
 

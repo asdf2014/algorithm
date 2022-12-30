@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2380](https://leetcode-cn.com/problems/booking-concert-tickets-in-groups) | Booking Concert Tickets in Groups |
+| [2401](https://leetcode-cn.com/problems/count-asterisks) | Count Asterisks |
 
-🤖：最近一次更新时间为 `2022-12-23 20:04:07`。
+🤖：最近一次更新时间为 `2022-12-30 20:03:54`。
 
 <br/>
 
