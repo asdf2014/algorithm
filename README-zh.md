@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2401](https://leetcode-cn.com/problems/count-asterisks) | Count Asterisks |
+| [2341](https://leetcode-cn.com/problems/count-prefixes-of-a-given-string) | Count Prefixes of a Given String |
 
-🤖：最近一次更新时间为 `2022-12-30 20:03:54`。
+🤖：最近一次更新时间为 `2023-01-06 20:04:01`。
 
 <br/>
 
