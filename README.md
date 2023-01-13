@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2341](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Count Prefixes of a Given String |
+| [546](https://leetcode.com/problems/remove-boxes) | Remove Boxes |
 
-🤖: The last update time was `2023-01-06 12:04:01`.
+🤖: The last update time was `2023-01-13 12:04:25`.
 
 <br/>
 

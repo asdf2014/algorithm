@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2341](https://leetcode-cn.com/problems/count-prefixes-of-a-given-string) | Count Prefixes of a Given String |
+| [546](https://leetcode-cn.com/problems/remove-boxes) | Remove Boxes |
 
-🤖：最近一次更新时间为 `2023-01-06 20:04:01`。
+🤖：最近一次更新时间为 `2023-01-13 20:04:25`。
 
 <br/>
 
