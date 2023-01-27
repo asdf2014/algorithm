@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1963](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and) | Find XOR Sum of All Pairs Bitwise AND |
+| [2294](https://leetcode.com/problems/minimum-time-to-complete-trips) | Minimum Time to Complete Trips |
 
-🤖: The last update time was `2023-01-20 12:04:20`.
+🤖: The last update time was `2023-01-27 12:04:11`.
 
 <br/>
 
