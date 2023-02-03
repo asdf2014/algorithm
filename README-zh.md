@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2294](https://leetcode-cn.com/problems/minimum-time-to-complete-trips) | Minimum Time to Complete Trips |
+| [1522](https://leetcode-cn.com/problems/stone-game-iii) | Stone Game III |
 
-🤖：最近一次更新时间为 `2023-01-27 20:04:11`。
+🤖：最近一次更新时间为 `2023-02-03 20:04:19`。
 
 <br/>
 
