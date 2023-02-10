@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1522](https://leetcode.com/problems/stone-game-iii) | Stone Game III |
+| [1407](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Group the People Given the Group Size They Belong To |
 
-🤖: The last update time was `2023-02-03 12:04:19`.
+🤖: The last update time was `2023-02-10 12:04:16`.
 
 <br/>
 
