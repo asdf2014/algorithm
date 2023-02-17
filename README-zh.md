@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1407](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) | Group the People Given the Group Size They Belong To |
+| [1019](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array |
 
-🤖：最近一次更新时间为 `2023-02-10 20:04:16`。
+🤖：最近一次更新时间为 `2023-02-17 20:04:09`。
 
 <br/>
 
