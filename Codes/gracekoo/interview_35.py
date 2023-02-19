@@ -16,7 +16,6 @@ class Solution:
         """
 
         def mergeSort(nums):
-
             len_nums = len(nums)
             # 递归的出口
             if len_nums <= 1:

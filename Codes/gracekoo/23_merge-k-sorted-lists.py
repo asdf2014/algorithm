@@ -6,6 +6,7 @@
 
 from queue import PriorityQueue
 
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):

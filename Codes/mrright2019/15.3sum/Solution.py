@@ -1,5 +1,4 @@
 class Solution(object):
-
     global_records = dict()
 
     def p(self, nums, target):

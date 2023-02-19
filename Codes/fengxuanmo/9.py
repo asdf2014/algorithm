@@ -6,7 +6,6 @@ def isPalindrome(x):
     if x < 0:
         return False
     else:
-
         s = str(x)
         print(s[::0])
         for i, j in enumerate(s):

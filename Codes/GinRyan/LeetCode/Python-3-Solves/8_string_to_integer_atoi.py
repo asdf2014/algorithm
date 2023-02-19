@@ -95,7 +95,6 @@ class Solution:
             return 0
 
         for i in range(length):
-
             if not start:
                 if (
                     (noSpaceRaw[i] > "0" and noSpaceRaw[i] < "9")
