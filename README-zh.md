@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
 [![](https://img.shields.io/badge/-discussions-5EA8FC?logo=livechat)](https://github.com/asdf2014/algorithm/discussions)
 [![](https://img.shields.io/badge/-gitter-55B698?logo=gitter)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
+[![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://qm.qq.com/cgi-bin/qm/qr?k=i_HFpjyhq2S_c6RPFOidnu450j6rY7sy&jump_from=webapi&authKey=o9AAM2+uGld4uNpm2RVyXLmEvUKMe7RThgZPA2iuLR575/5NbC4qEE+tPcnGd2bF)
 [![](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asdf2014/algorithm)
 
 [English](https://github.com/asdf2014/algorithm/blob/master/README.md) | 中文
