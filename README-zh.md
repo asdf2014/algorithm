@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1545](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | Form Largest Integer With Digits That Add up to Target |
+| [1885](https://leetcode-cn.com/problems/count-number-of-homogenous-substrings) | Count Number of Homogenous Substrings |
 
-🤖：最近一次更新时间为 `2023-03-03 20:04:29`。
+🤖：最近一次更新时间为 `2023-03-10 20:04:40`。
 
 <br/>
 
