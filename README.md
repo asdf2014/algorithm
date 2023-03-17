@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1885](https://leetcode.com/problems/count-number-of-homogenous-substrings) | Count Number of Homogenous Substrings |
+| [886](https://leetcode.com/problems/score-of-parentheses) | Score of Parentheses |
 
-🤖: The last update time was `2023-03-10 12:04:40`.
+🤖: The last update time was `2023-03-17 12:04:26`.
 
 <br/>
 

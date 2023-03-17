@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1885](https://leetcode-cn.com/problems/count-number-of-homogenous-substrings) | Count Number of Homogenous Substrings |
+| [886](https://leetcode-cn.com/problems/score-of-parentheses) | Score of Parentheses |
 
-🤖：最近一次更新时间为 `2023-03-10 20:04:40`。
+🤖：最近一次更新时间为 `2023-03-17 20:04:26`。
 
 <br/>
 
