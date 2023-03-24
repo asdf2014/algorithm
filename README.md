@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [886](https://leetcode.com/problems/score-of-parentheses) | Score of Parentheses |
+| [2508](https://leetcode.com/problems/maximum-sum-of-an-hourglass) | Maximum Sum of an Hourglass |
 
-🤖: The last update time was `2023-03-17 12:04:26`.
+🤖: The last update time was `2023-03-24 12:04:15`.
 
 <br/>
 
