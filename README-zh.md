@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2508](https://leetcode-cn.com/problems/maximum-sum-of-an-hourglass) | Maximum Sum of an Hourglass |
+| [2575](https://leetcode-cn.com/problems/minimum-cuts-to-divide-a-circle) | Minimum Cuts to Divide a Circle |
 
-🤖：最近一次更新时间为 `2023-03-24 20:04:15`。
+🤖：最近一次更新时间为 `2023-03-31 20:04:04`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2508](https://leetcode.com/problems/maximum-sum-of-an-hourglass) | Maximum Sum of an Hourglass |
+| [2575](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) | Minimum Cuts to Divide a Circle |
 
-🤖: The last update time was `2023-03-24 12:04:15`.
+🤖: The last update time was `2023-03-31 12:04:04`.
 
 <br/>
 
