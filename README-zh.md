@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2575](https://leetcode-cn.com/problems/minimum-cuts-to-divide-a-circle) | Minimum Cuts to Divide a Circle |
+| [1332](https://leetcode-cn.com/problems/count-vowels-permutation) | Count Vowels Permutation |
 
-🤖：最近一次更新时间为 `2023-03-31 20:04:04`。
+🤖：最近一次更新时间为 `2023-04-07 20:04:06`。
 
 <br/>
 
