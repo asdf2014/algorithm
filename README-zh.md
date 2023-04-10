@@ -84,16 +84,16 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng)** | 2022-10-01 18:48:39 |
-| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2022-08-30 17:21:56 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-07-20 10:31:02 |
+| **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2023-02-20 00:23:14 |
+| **[fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo)** | 2023-02-20 00:23:14 |
+| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 2023-02-20 00:23:14 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2023-02-20 00:23:14 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2023-02-20 00:23:14 |
+| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2023-02-20 00:23:14 |
+| [shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng) | 2022-10-01 18:48:39 |
+| [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2022-08-30 17:21:56 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2022-07-20 10:31:02 |
 | [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 19:46:06 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 19:46:06 |
-| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 19:46:06 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 19:46:06 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2022-04-19 19:46:06 |
-| [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 15:57:20 |
-| [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 12:21:20 |
 
 🤖：排行榜的更新会在提交后自动执行。
 
