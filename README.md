@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1332](https://leetcode.com/problems/count-vowels-permutation) | Count Vowels Permutation |
+| [1094](https://leetcode.com/problems/matrix-cells-in-distance-order) | Matrix Cells in Distance Order |
 
-🤖: The last update time was `2023-04-07 12:04:06`.
+🤖: The last update time was `2023-04-14 12:04:18`.
 
 <br/>
 

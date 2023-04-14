@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1332](https://leetcode-cn.com/problems/count-vowels-permutation) | Count Vowels Permutation |
+| [1094](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) | Matrix Cells in Distance Order |
 
-🤖：最近一次更新时间为 `2023-04-07 20:04:06`。
+🤖：最近一次更新时间为 `2023-04-14 20:04:18`。
 
 <br/>
 
