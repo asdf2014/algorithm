@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1393](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles) | Maximum Value of K Coins From Piles |
+| [2337](https://leetcode-cn.com/problems/remove-digit-from-number-to-maximize-result) | Remove Digit From Number to Maximize Result |
 
-🤖：最近一次更新时间为 `2023-04-21 20:04:13`。
+🤖：最近一次更新时间为 `2023-04-28 20:03:50`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1393](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles) | Maximum Value of K Coins From Piles |
+| [2337](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Remove Digit From Number to Maximize Result |
 
-🤖: The last update time was `2023-04-21 12:04:13`.
+🤖: The last update time was `2023-04-28 12:03:50`.
 
 <br/>
 
