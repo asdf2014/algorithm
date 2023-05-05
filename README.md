@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2337](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | Remove Digit From Number to Maximize Result |
+| [1135](https://leetcode.com/problems/customers-who-bought-all-products) | Customers Who Bought All Products |
 
-🤖: The last update time was `2023-04-28 12:03:50`.
+🤖: The last update time was `2023-05-05 12:03:49`.
 
 <br/>
 
