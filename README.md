@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2304](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Cells in a Range on an Excel Sheet |
+| [1511](https://leetcode.com/problems/count-number-of-teams) | Count Number of Teams |
 
-🤖: The last update time was `2023-05-26 12:04:10`.
+🤖: The last update time was `2023-06-02 12:03:57`.
 
 <br/>
 

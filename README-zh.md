@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2304](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet) | Cells in a Range on an Excel Sheet |
+| [1511](https://leetcode-cn.com/problems/count-number-of-teams) | Count Number of Teams |
 
-🤖：最近一次更新时间为 `2023-05-26 20:04:10`。
+🤖：最近一次更新时间为 `2023-06-02 20:03:57`。
 
 <br/>
 
