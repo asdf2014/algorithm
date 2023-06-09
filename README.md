@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1511](https://leetcode.com/problems/count-number-of-teams) | Count Number of Teams |
+| [1757](https://leetcode.com/problems/minimum-jumps-to-reach-home) | Minimum Jumps to Reach Home |
 
-🤖: The last update time was `2023-06-02 12:03:57`.
+🤖: The last update time was `2023-06-09 12:04:04`.
 
 <br/>
 

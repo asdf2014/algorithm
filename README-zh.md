@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1511](https://leetcode-cn.com/problems/count-number-of-teams) | Count Number of Teams |
+| [1757](https://leetcode-cn.com/problems/minimum-jumps-to-reach-home) | Minimum Jumps to Reach Home |
 
-🤖：最近一次更新时间为 `2023-06-02 20:03:57`。
+🤖：最近一次更新时间为 `2023-06-09 20:04:04`。
 
 <br/>
 
