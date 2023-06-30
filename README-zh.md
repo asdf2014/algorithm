@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1072](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) | Next Greater Node In Linked List |
+| [1316](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) | Fizz Buzz Multithreaded |
 
-🤖：最近一次更新时间为 `2023-06-23 20:04:47`。
+🤖：最近一次更新时间为 `2023-06-30 20:04:11`。
 
 <br/>
 

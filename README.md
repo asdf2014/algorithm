@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1072](https://leetcode.com/problems/next-greater-node-in-linked-list) | Next Greater Node In Linked List |
+| [1316](https://leetcode.com/problems/fizz-buzz-multithreaded) | Fizz Buzz Multithreaded |
 
-🤖: The last update time was `2023-06-23 12:04:47`.
+🤖: The last update time was `2023-06-30 12:04:11`.
 
 <br/>
 
