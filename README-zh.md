@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1316](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) | Fizz Buzz Multithreaded |
+| [636](https://leetcode-cn.com/problems/exclusive-time-of-functions) | Exclusive Time of Functions |
 
-🤖：最近一次更新时间为 `2023-06-30 20:04:11`。
+🤖：最近一次更新时间为 `2023-07-07 20:04:28`。
 
 <br/>
 
