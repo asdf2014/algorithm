@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [636](https://leetcode-cn.com/problems/exclusive-time-of-functions) | Exclusive Time of Functions |
+| [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) | Remove Duplicates from Sorted List |
 
-🤖：最近一次更新时间为 `2023-07-07 20:04:28`。
+🤖：最近一次更新时间为 `2023-07-14 20:04:50`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [636](https://leetcode.com/problems/exclusive-time-of-functions) | Exclusive Time of Functions |
+| [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Remove Duplicates from Sorted List |
 
-🤖: The last update time was `2023-07-07 12:04:28`.
+🤖: The last update time was `2023-07-14 12:04:50`.
 
 <br/>
 
