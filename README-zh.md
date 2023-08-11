@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [556](https://leetcode-cn.com/problems/next-greater-element-iii) | Next Greater Element III |
+| [744](https://leetcode-cn.com/problems/network-delay-time) | Network Delay Time |
 
-🤖：最近一次更新时间为 `2023-08-04 20:04:15`。
+🤖：最近一次更新时间为 `2023-08-11 20:03:55`。
 
 <br/>
 

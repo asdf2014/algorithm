@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [556](https://leetcode.com/problems/next-greater-element-iii) | Next Greater Element III |
+| [744](https://leetcode.com/problems/network-delay-time) | Network Delay Time |
 
-🤖: The last update time was `2023-08-04 12:04:15`.
+🤖: The last update time was `2023-08-11 12:03:55`.
 
 <br/>
 
