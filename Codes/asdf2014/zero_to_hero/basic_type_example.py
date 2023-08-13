@@ -14,7 +14,7 @@ f = 1
 print(f)
 print(type(f))
 
-s = 'yuzhouwan'
+s = "yuzhouwan"
 print(s)
 print(type(s))
 
