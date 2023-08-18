@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [744](https://leetcode.com/problems/network-delay-time) | Network Delay Time |
+| [1278](https://leetcode.com/problems/product-price-at-a-given-date) | Product Price at a Given Date |
 
-🤖: The last update time was `2023-08-11 12:03:55`.
+🤖: The last update time was `2023-08-18 12:04:00`.
 
 <br/>
 

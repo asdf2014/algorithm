@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [744](https://leetcode-cn.com/problems/network-delay-time) | Network Delay Time |
+| [1278](https://leetcode-cn.com/problems/product-price-at-a-given-date) | Product Price at a Given Date |
 
-🤖：最近一次更新时间为 `2023-08-11 20:03:55`。
+🤖：最近一次更新时间为 `2023-08-18 20:04:00`。
 
 <br/>
 
