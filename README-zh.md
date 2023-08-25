@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1278](https://leetcode-cn.com/problems/product-price-at-a-given-date) | Product Price at a Given Date |
+| [620](https://leetcode-cn.com/problems/not-boring-movies) | Not Boring Movies |
 
-🤖：最近一次更新时间为 `2023-08-18 20:04:00`。
+🤖：最近一次更新时间为 `2023-08-25 20:03:55`。
 
 <br/>
 
