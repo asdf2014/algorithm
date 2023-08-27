@@ -23,7 +23,7 @@ def get_latest_file():
     result = ""
     for file in files:
         if file[0] == "[":
-            file_index = int(file[1:file.find("]")])
+            file_index = int(file[1 : file.find("]")])
             if file_index > max_index:
                 max_index = file_index
                 result = file
