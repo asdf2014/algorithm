@@ -1,14 +1,13 @@
 [<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
-[![](https://img.shields.io/github/contributors/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/github/languages/count/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/github/languages/top/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/lgtm/grade/python/g/asdf2014/algorithm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/asdf2014/algorithm/context:python)
+[![](https://img.shields.io/github/contributors/asdf2014/algorithm?logo=github)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/github/languages/count/asdf2014/algorithm?logo=github)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/github/languages/top/asdf2014/algorithm?logo=github)](https://yuzhouwan.com/posts/666/)
 [![](https://goreportcard.com/badge/github.com/asdf2014/algorithm)](https://goreportcard.com/report/github.com/asdf2014/algorithm)
-[![](https://img.shields.io/github/license/asdf2014/algorithm)](https://yuzhouwan.com/posts/666/)
-[![](https://img.shields.io/badge/-discussions-5EA8FC?logo=livechat)](https://github.com/asdf2014/algorithm/discussions)
+[![](https://img.shields.io/github/license/asdf2014/algorithm?logo=apache)](https://yuzhouwan.com/posts/666/)
+[![](https://img.shields.io/badge/-discussions-5EA8FC?logo=github)](https://github.com/asdf2014/algorithm/discussions)
 [![](https://img.shields.io/badge/-gitter-55B698?logo=gitter)](https://gitter.im/yuzhouwan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://shang.qq.com/wpa/qunwpa?idkey=bfbcf1453371a0810fd6be235ace47147f6fb9d262fb768b497c861f50af0af4)
+[![](https://img.shields.io/badge/QQ%20Group-5366753-blue.svg?style=social&logo=tencent-qq)](https://qm.qq.com/cgi-bin/qm/qr?k=i_HFpjyhq2S_c6RPFOidnu450j6rY7sy&jump_from=webapi&authKey=o9AAM2+uGld4uNpm2RVyXLmEvUKMe7RThgZPA2iuLR575/5NbC4qEE+tPcnGd2bF)
 [![](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asdf2014/algorithm)
 
 English | [中文](https://github.com/asdf2014/algorithm/blob/master/README-zh.md)
@@ -59,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [140](https://leetcode.com/problems/word-break-ii) | Word Break II |
+| [620](https://leetcode.com/problems/not-boring-movies) | Not Boring Movies |
 
-🤖: The last update time was `2022-09-30 12:05:16`.
+🤖: The last update time was `2023-08-25 12:03:55`.
 
 <br/>
 
@@ -76,26 +75,26 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | **[gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo)** | 193 |
 | [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 119 |
 | [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 50 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [ZZhang](https://github.com/asdf2014/algorithm/tree/master/Codes/ZZhang) | 47 |
+| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 47 |
 | [jxdeng3264](https://github.com/asdf2014/algorithm/tree/master/Codes/jxdeng3264) | 46 |
+| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 32 |
 | [Buddy119](https://github.com/asdf2014/algorithm/tree/master/Codes/Buddy119) | 32 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 31 |
 
 ### The most active partners
 
 | User | Latest Active Date |
 | :--: | :----------------: |
-| **[shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng)** | 2022-10-01 10:48:39 |
-| **[purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba)** | 2022-08-30 09:21:56 |
-| **[yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore)** | 2022-07-20 02:31:02 |
-| [asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014) | 2022-04-19 11:46:06 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2022-04-19 11:46:06 |
-| [Liam](https://github.com/asdf2014/algorithm/tree/master/Codes/Liam) | 2022-04-19 11:46:06 |
-| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2022-04-19 11:46:06 |
-| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2022-04-19 11:46:06 |
-| [stardrewer](https://github.com/asdf2014/algorithm/tree/master/Codes/stardrewer) | 2021-09-30 07:57:20 |
-| [madeai](https://github.com/asdf2014/algorithm/tree/master/Codes/madeai) | 2021-06-23 04:21:20 |
+| **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2023-08-13 12:11:48 |
+| **[mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019)** | 2023-02-19 16:23:14 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2023-02-19 16:23:14 |
+| [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2023-02-19 16:23:14 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2023-02-19 16:23:14 |
+| [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2023-02-19 16:23:14 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2023-02-19 16:23:14 |
+| [shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng) | 2022-10-01 10:48:39 |
+| [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2022-08-30 09:21:56 |
+| [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2022-07-20 02:31:02 |
 
 🤖: Updates to the leaderboards are automatically executed after submission.
 

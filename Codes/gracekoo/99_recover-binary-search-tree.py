@@ -23,6 +23,7 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
+
         # 中序遍历：找到第一个大于左子树的节点赋值为first_node，第一个小于右子树的节点赋值为second_node
         def in_order(root):
             if not root:

@@ -3,7 +3,6 @@
 
 # 从 nums 中找到两个数，满足两数之和为 target
 def two_sum(nums, target):
-
     nums_len = len(nums)
     if nums_len < 1:
         return False
@@ -11,7 +10,6 @@ def two_sum(nums, target):
     position = {}
 
     for i in range(len(nums)):
-
         n = nums[i]
         if n in position:
             return [position[n], i]
