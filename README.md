@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2550](https://leetcode.com/problems/words-within-two-edits-of-dictionary) | Words Within Two Edits of Dictionary |
+| [1923](https://leetcode.com/problems/sentence-similarity-iii) | Sentence Similarity III |
 
-🤖: The last update time was `2023-09-01 12:04:01`.
+🤖: The last update time was `2023-09-08 12:04:04`.
 
 <br/>
 

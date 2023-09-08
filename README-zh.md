@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2550](https://leetcode-cn.com/problems/words-within-two-edits-of-dictionary) | Words Within Two Edits of Dictionary |
+| [1923](https://leetcode-cn.com/problems/sentence-similarity-iii) | Sentence Similarity III |
 
-🤖：最近一次更新时间为 `2023-09-01 20:04:01`。
+🤖：最近一次更新时间为 `2023-09-08 20:04:04`。
 
 <br/>
 
