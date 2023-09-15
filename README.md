@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1923](https://leetcode.com/problems/sentence-similarity-iii) | Sentence Similarity III |
+| [1678](https://leetcode.com/problems/number-of-ways-to-split-a-string) | Number of Ways to Split a String |
 
-🤖: The last update time was `2023-09-08 12:04:04`.
+🤖: The last update time was `2023-09-15 12:04:03`.
 
 <br/>
 

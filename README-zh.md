@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1923](https://leetcode-cn.com/problems/sentence-similarity-iii) | Sentence Similarity III |
+| [1678](https://leetcode-cn.com/problems/number-of-ways-to-split-a-string) | Number of Ways to Split a String |
 
-🤖：最近一次更新时间为 `2023-09-08 20:04:04`。
+🤖：最近一次更新时间为 `2023-09-15 20:04:03`。
 
 <br/>
 
