@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1678](https://leetcode-cn.com/problems/number-of-ways-to-split-a-string) | Number of Ways to Split a String |
+| [278](https://leetcode-cn.com/problems/first-bad-version) | First Bad Version |
 
-🤖：最近一次更新时间为 `2023-09-15 20:04:03`。
+🤖：最近一次更新时间为 `2023-09-22 20:04:13`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1678](https://leetcode.com/problems/number-of-ways-to-split-a-string) | Number of Ways to Split a String |
+| [278](https://leetcode.com/problems/first-bad-version) | First Bad Version |
 
-🤖: The last update time was `2023-09-15 12:04:03`.
+🤖: The last update time was `2023-09-22 12:04:13`.
 
 <br/>
 
