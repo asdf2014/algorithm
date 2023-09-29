@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [278](https://leetcode-cn.com/problems/first-bad-version) | First Bad Version |
+| [2001](https://leetcode-cn.com/problems/jump-game-vii) | Jump Game VII |
 
-🤖：最近一次更新时间为 `2023-09-22 20:04:13`。
+🤖：最近一次更新时间为 `2023-09-29 20:04:08`。
 
 <br/>
 

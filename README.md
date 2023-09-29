@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [278](https://leetcode.com/problems/first-bad-version) | First Bad Version |
+| [2001](https://leetcode.com/problems/jump-game-vii) | Jump Game VII |
 
-🤖: The last update time was `2023-09-22 12:04:13`.
+🤖: The last update time was `2023-09-29 12:04:08`.
 
 <br/>
 
