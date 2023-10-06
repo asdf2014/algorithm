@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2001](https://leetcode.com/problems/jump-game-vii) | Jump Game VII |
+| [2616](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | Maximal Score After Applying K Operations |
 
-🤖: The last update time was `2023-09-29 12:04:08`.
+🤖: The last update time was `2023-10-06 12:04:09`.
 
 <br/>
 

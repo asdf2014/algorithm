@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2001](https://leetcode-cn.com/problems/jump-game-vii) | Jump Game VII |
+| [2616](https://leetcode-cn.com/problems/maximal-score-after-applying-k-operations) | Maximal Score After Applying K Operations |
 
-🤖：最近一次更新时间为 `2023-09-29 20:04:08`。
+🤖：最近一次更新时间为 `2023-10-06 20:04:09`。
 
 <br/>
 
