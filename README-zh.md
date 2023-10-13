@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2616](https://leetcode-cn.com/problems/maximal-score-after-applying-k-operations) | Maximal Score After Applying K Operations |
+| [1667](https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string) | Find Kth Bit in Nth Binary String |
 
-🤖：最近一次更新时间为 `2023-10-06 20:04:09`。
+🤖：最近一次更新时间为 `2023-10-13 20:04:13`。
 
 <br/>
 

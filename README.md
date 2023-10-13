@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2616](https://leetcode.com/problems/maximal-score-after-applying-k-operations) | Maximal Score After Applying K Operations |
+| [1667](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Find Kth Bit in Nth Binary String |
 
-🤖: The last update time was `2023-10-06 12:04:09`.
+🤖: The last update time was `2023-10-13 12:04:13`.
 
 <br/>
 
