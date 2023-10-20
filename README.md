@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1667](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Find Kth Bit in Nth Binary String |
+| [1905](https://leetcode.com/problems/design-authentication-manager) | Design Authentication Manager |
 
-🤖: The last update time was `2023-10-13 12:04:13`.
+🤖: The last update time was `2023-10-20 12:04:28`.
 
 <br/>
 
