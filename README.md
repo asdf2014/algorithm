@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [95](https://leetcode.com/problems/unique-binary-search-trees-ii) | Unique Binary Search Trees II |
+| [915](https://leetcode.com/problems/generate-random-point-in-a-circle) | Generate Random Point in a Circle |
 
-🤖: The last update time was `2023-10-27 12:03:58`.
+🤖: The last update time was `2023-11-03 12:04:11`.
 
 <br/>
 
