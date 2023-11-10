@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [915](https://leetcode.com/problems/generate-random-point-in-a-circle) | Generate Random Point in a Circle |
+| [274](https://leetcode.com/problems/h-index) | H-Index |
 
-🤖: The last update time was `2023-11-03 12:04:11`.
+🤖: The last update time was `2023-11-10 12:04:21`.
 
 <br/>
 
