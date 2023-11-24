@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [686](https://leetcode-cn.com/problems/repeated-string-match) | Repeated String Match |
+| [3017](https://leetcode-cn.com/problems/number-of-beautiful-integers-in-the-range) | Number of Beautiful Integers in the Range |
 
-🤖：最近一次更新时间为 `2023-11-17 20:04:06`。
+🤖：最近一次更新时间为 `2023-11-24 20:04:14`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [686](https://leetcode.com/problems/repeated-string-match) | Repeated String Match |
+| [3017](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range) | Number of Beautiful Integers in the Range |
 
-🤖: The last update time was `2023-11-17 12:04:06`.
+🤖: The last update time was `2023-11-24 12:04:14`.
 
 <br/>
 
