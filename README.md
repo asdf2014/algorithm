@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3017](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range) | Number of Beautiful Integers in the Range |
+| [2228](https://leetcode.com/problems/watering-plants-ii) | Watering Plants II |
 
-🤖: The last update time was `2023-11-24 12:04:14`.
+🤖: The last update time was `2023-12-01 12:04:35`.
 
 <br/>
 
