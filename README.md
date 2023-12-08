@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2228](https://leetcode.com/problems/watering-plants-ii) | Watering Plants II |
+| [2789](https://leetcode.com/problems/counter-ii) | Counter II |
 
-🤖: The last update time was `2023-12-01 12:04:35`.
+🤖: The last update time was `2023-12-08 12:04:38`.
 
 <br/>
 

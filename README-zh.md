@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2228](https://leetcode-cn.com/problems/watering-plants-ii) | Watering Plants II |
+| [2789](https://leetcode-cn.com/problems/counter-ii) | Counter II |
 
-🤖：最近一次更新时间为 `2023-12-01 20:04:35`。
+🤖：最近一次更新时间为 `2023-12-08 20:04:38`。
 
 <br/>
 
