@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3164](https://leetcode-cn.com/problems/last-visited-integers) | Last Visited Integers |
+| [1155](https://leetcode-cn.com/problems/product-sales-analysis-iii) | Product Sales Analysis III |
 
-🤖：最近一次更新时间为 `2023-12-15 20:04:32`。
+🤖：最近一次更新时间为 `2023-12-22 20:04:29`。
 
 <br/>
 
