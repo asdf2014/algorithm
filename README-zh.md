@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1155](https://leetcode-cn.com/problems/product-sales-analysis-iii) | Product Sales Analysis III |
+| [640](https://leetcode-cn.com/problems/solve-the-equation) | Solve the Equation |
 
-🤖：最近一次更新时间为 `2023-12-22 20:04:29`。
+🤖：最近一次更新时间为 `2023-12-29 20:03:54`。
 
 <br/>
 
