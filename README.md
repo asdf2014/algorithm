@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2450](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) | Minimum Replacements to Sort the Array |
+| [3073](https://leetcode.com/problems/reshape-data-melt) | Reshape Data: Melt |
 
-🤖: The last update time was `2024-01-05 12:04:40`.
+🤖: The last update time was `2024-01-12 12:04:27`.
 
 <br/>
 

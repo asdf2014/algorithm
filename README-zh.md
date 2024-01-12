@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2450](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array) | Minimum Replacements to Sort the Array |
+| [3073](https://leetcode-cn.com/problems/reshape-data-melt) | Reshape Data: Melt |
 
-🤖：最近一次更新时间为 `2024-01-05 20:04:40`。
+🤖：最近一次更新时间为 `2024-01-12 20:04:27`。
 
 <br/>
 
