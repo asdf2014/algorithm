@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3073](https://leetcode.com/problems/reshape-data-melt) | Reshape Data: Melt |
+| [682](https://leetcode.com/problems/baseball-game) | Baseball Game |
 
-🤖: The last update time was `2024-01-12 12:04:27`.
+🤖: The last update time was `2024-01-19 12:04:33`.
 
 <br/>
 
