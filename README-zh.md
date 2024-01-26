@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [682](https://leetcode-cn.com/problems/baseball-game) | Baseball Game |
+| [892](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k) | Shortest Subarray with Sum at Least K |
 
-🤖：最近一次更新时间为 `2024-01-19 20:04:33`。
+🤖：最近一次更新时间为 `2024-01-26 20:04:09`。
 
 <br/>
 
