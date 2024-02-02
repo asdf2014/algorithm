@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [892](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) | Shortest Subarray with Sum at Least K |
+| [64](https://leetcode.com/problems/minimum-path-sum) | Minimum Path Sum |
 
-🤖: The last update time was `2024-01-26 12:04:09`.
+🤖: The last update time was `2024-02-02 12:04:08`.
 
 <br/>
 
