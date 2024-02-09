@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [64](https://leetcode.com/problems/minimum-path-sum) | Minimum Path Sum |
+| [2121](https://leetcode.com/problems/find-if-path-exists-in-graph) | Find if Path Exists in Graph |
 
-🤖: The last update time was `2024-02-02 12:04:08`.
+🤖: The last update time was `2024-02-09 12:04:12`.
 
 <br/>
 
