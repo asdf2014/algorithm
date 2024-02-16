@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2121](https://leetcode.com/problems/find-if-path-exists-in-graph) | Find if Path Exists in Graph |
+| [119](https://leetcode.com/problems/pascals-triangle-ii) | Pascal's Triangle II |
 
-🤖: The last update time was `2024-02-09 12:04:12`.
+🤖: The last update time was `2024-02-16 12:04:10`.
 
 <br/>
 
