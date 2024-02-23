@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [119](https://leetcode-cn.com/problems/pascals-triangle-ii) | Pascal's Triangle II |
+| [1517](https://leetcode-cn.com/problems/restore-the-array) | Restore The Array |
 
-🤖：最近一次更新时间为 `2024-02-16 20:04:10`。
+🤖：最近一次更新时间为 `2024-02-23 20:04:54`。
 
 <br/>
 

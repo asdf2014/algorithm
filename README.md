@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [119](https://leetcode.com/problems/pascals-triangle-ii) | Pascal's Triangle II |
+| [1517](https://leetcode.com/problems/restore-the-array) | Restore The Array |
 
-🤖: The last update time was `2024-02-16 12:04:10`.
+🤖: The last update time was `2024-02-23 12:04:54`.
 
 <br/>
 
