@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2168](https://leetcode-cn.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Check if Numbers Are Ascending in a Sentence |
+| [2826](https://leetcode-cn.com/problems/find-a-good-subset-of-the-matrix) | Find a Good Subset of the Matrix |
 
-🤖：最近一次更新时间为 `2024-03-01 20:04:35`。
+🤖：最近一次更新时间为 `2024-03-08 20:04:03`。
 
 <br/>
 
