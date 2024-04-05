@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [63](https://leetcode.com/problems/unique-paths-ii) | Unique Paths II |
+| [610](https://leetcode.com/problems/triangle-judgement) | Triangle Judgement |
 
-🤖: The last update time was `2024-03-29 12:04:16`.
+🤖: The last update time was `2024-04-05 12:04:38`.
 
 <br/>
 

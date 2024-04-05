@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [63](https://leetcode-cn.com/problems/unique-paths-ii) | Unique Paths II |
+| [610](https://leetcode-cn.com/problems/triangle-judgement) | Triangle Judgement |
 
-🤖：最近一次更新时间为 `2024-03-29 20:04:16`。
+🤖：最近一次更新时间为 `2024-04-05 20:04:38`。
 
 <br/>
 
