@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [610](https://leetcode.com/problems/triangle-judgement) | Triangle Judgement |
+| [1304](https://leetcode.com/problems/longest-happy-string) | Longest Happy String |
 
-🤖: The last update time was `2024-04-05 12:04:38`.
+🤖: The last update time was `2024-04-12 12:04:28`.
 
 <br/>
 

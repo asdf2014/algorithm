@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [610](https://leetcode-cn.com/problems/triangle-judgement) | Triangle Judgement |
+| [1304](https://leetcode-cn.com/problems/longest-happy-string) | Longest Happy String |
 
-🤖：最近一次更新时间为 `2024-04-05 20:04:38`。
+🤖：最近一次更新时间为 `2024-04-12 20:04:28`。
 
 <br/>
 
