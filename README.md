@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1670](https://leetcode.com/problems/patients-with-a-condition) | Patients With a Condition |
+| [1093](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | Recover a Tree From Preorder Traversal |
 
-🤖: The last update time was `2024-04-19 12:04:36`.
+🤖: The last update time was `2024-04-26 12:04:58`.
 
 <br/>
 
