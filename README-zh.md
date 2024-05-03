@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1093](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | Recover a Tree From Preorder Traversal |
+| [835](https://leetcode-cn.com/problems/linked-list-components) | Linked List Components |
 
-🤖：最近一次更新时间为 `2024-04-26 20:04:58`。
+🤖：最近一次更新时间为 `2024-05-03 20:04:32`。
 
 <br/>
 
