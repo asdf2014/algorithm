@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [572](https://leetcode.com/problems/subtree-of-another-tree) | Subtree of Another Tree |
+| [3019](https://leetcode.com/problems/furthest-point-from-origin) | Furthest Point From Origin |
 
-🤖: The last update time was `2024-05-31 12:04:58`.
+🤖: The last update time was `2024-06-07 12:06:36`.
 
 <br/>
 

@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [572](https://leetcode-cn.com/problems/subtree-of-another-tree) | Subtree of Another Tree |
+| [3019](https://leetcode-cn.com/problems/furthest-point-from-origin) | Furthest Point From Origin |
 
-🤖：最近一次更新时间为 `2024-05-31 20:04:58`。
+🤖：最近一次更新时间为 `2024-06-07 20:06:36`。
 
 <br/>
 
