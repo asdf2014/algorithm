@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3019](https://leetcode.com/problems/furthest-point-from-origin) | Furthest Point From Origin |
+| [316](https://leetcode.com/problems/remove-duplicate-letters) | Remove Duplicate Letters |
 
-🤖: The last update time was `2024-06-07 12:06:36`.
+🤖: The last update time was `2024-06-14 12:05:05`.
 
 <br/>
 

@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3019](https://leetcode-cn.com/problems/furthest-point-from-origin) | Furthest Point From Origin |
+| [316](https://leetcode-cn.com/problems/remove-duplicate-letters) | Remove Duplicate Letters |
 
-🤖：最近一次更新时间为 `2024-06-07 20:06:36`。
+🤖：最近一次更新时间为 `2024-06-14 20:05:05`。
 
 <br/>
 
