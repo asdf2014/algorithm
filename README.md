@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [316](https://leetcode.com/problems/remove-duplicate-letters) | Remove Duplicate Letters |
+| [191](https://leetcode.com/problems/number-of-1-bits) | Number of 1 Bits |
 
-🤖: The last update time was `2024-06-14 12:05:05`.
+🤖: The last update time was `2024-06-21 12:04:39`.
 
 <br/>
 
