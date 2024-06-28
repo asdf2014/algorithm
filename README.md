@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [191](https://leetcode.com/problems/number-of-1-bits) | Number of 1 Bits |
+| [1079](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Sum of Root To Leaf Binary Numbers |
 
-🤖: The last update time was `2024-06-21 12:04:39`.
+🤖: The last update time was `2024-06-28 12:04:50`.
 
 <br/>
 
