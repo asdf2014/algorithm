@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [268](https://leetcode.com/problems/missing-number) | Missing Number |
+| [1130](https://leetcode.com/problems/last-stone-weight-ii) | Last Stone Weight II |
 
-🤖: The last update time was `2024-07-05 12:04:43`.
+🤖: The last update time was `2024-07-12 12:05:30`.
 
 <br/>
 

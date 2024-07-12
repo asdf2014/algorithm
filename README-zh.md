@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [268](https://leetcode-cn.com/problems/missing-number) | Missing Number |
+| [1130](https://leetcode-cn.com/problems/last-stone-weight-ii) | Last Stone Weight II |
 
-🤖：最近一次更新时间为 `2024-07-05 20:04:43`。
+🤖：最近一次更新时间为 `2024-07-12 20:05:30`。
 
 <br/>
 
