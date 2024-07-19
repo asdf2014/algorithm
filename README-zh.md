@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1130](https://leetcode-cn.com/problems/last-stone-weight-ii) | Last Stone Weight II |
+| [416](https://leetcode-cn.com/problems/partition-equal-subset-sum) | Partition Equal Subset Sum |
 
-🤖：最近一次更新时间为 `2024-07-12 20:05:30`。
+🤖：最近一次更新时间为 `2024-07-19 20:04:53`。
 
 <br/>
 
