@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [416](https://leetcode.com/problems/partition-equal-subset-sum) | Partition Equal Subset Sum |
+| [3327](https://leetcode.com/problems/minimum-moves-to-pick-k-ones) | Minimum Moves to Pick K Ones |
 
-🤖: The last update time was `2024-07-19 12:04:53`.
+🤖: The last update time was `2024-07-26 12:04:40`.
 
 <br/>
 
