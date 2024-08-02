@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3327](https://leetcode.com/problems/minimum-moves-to-pick-k-ones) | Minimum Moves to Pick K Ones |
+| [1642](https://leetcode.com/problems/water-bottles) | Water Bottles |
 
-🤖: The last update time was `2024-07-26 12:04:40`.
+🤖: The last update time was `2024-08-02 12:04:44`.
 
 <br/>
 
