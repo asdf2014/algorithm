@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1642](https://leetcode.com/problems/water-bottles) | Water Bottles |
+| [2292](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Counting Words With a Given Prefix |
 
-🤖: The last update time was `2024-08-02 12:04:44`.
+🤖: The last update time was `2024-08-09 12:05:02`.
 
 <br/>
 

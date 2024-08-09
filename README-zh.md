@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1642](https://leetcode-cn.com/problems/water-bottles) | Water Bottles |
+| [2292](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix) | Counting Words With a Given Prefix |
 
-🤖：最近一次更新时间为 `2024-08-02 20:04:44`。
+🤖：最近一次更新时间为 `2024-08-09 20:05:02`。
 
 <br/>
 
