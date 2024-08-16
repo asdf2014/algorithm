@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2292](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix) | Counting Words With a Given Prefix |
+| [1840](https://leetcode-cn.com/problems/minimize-hamming-distance-after-swap-operations) | Minimize Hamming Distance After Swap Operations |
 
-🤖：最近一次更新时间为 `2024-08-09 20:05:02`。
+🤖：最近一次更新时间为 `2024-08-16 20:05:04`。
 
 <br/>
 

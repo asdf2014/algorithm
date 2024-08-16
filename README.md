@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2292](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Counting Words With a Given Prefix |
+| [1840](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | Minimize Hamming Distance After Swap Operations |
 
-🤖: The last update time was `2024-08-09 12:05:02`.
+🤖: The last update time was `2024-08-16 12:05:04`.
 
 <br/>
 
