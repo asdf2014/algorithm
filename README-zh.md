@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1840](https://leetcode-cn.com/problems/minimize-hamming-distance-after-swap-operations) | Minimize Hamming Distance After Swap Operations |
+| [84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | Largest Rectangle in Histogram |
 
-🤖：最近一次更新时间为 `2024-08-16 20:05:04`。
+🤖：最近一次更新时间为 `2024-08-23 20:04:55`。
 
 <br/>
 

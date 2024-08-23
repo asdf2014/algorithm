@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1840](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations) | Minimize Hamming Distance After Swap Operations |
+| [84](https://leetcode.com/problems/largest-rectangle-in-histogram) | Largest Rectangle in Histogram |
 
-🤖: The last update time was `2024-08-16 12:05:04`.
+🤖: The last update time was `2024-08-23 12:04:55`.
 
 <br/>
 
