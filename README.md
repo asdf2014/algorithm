@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [84](https://leetcode.com/problems/largest-rectangle-in-histogram) | Largest Rectangle in Histogram |
+| [485](https://leetcode.com/problems/max-consecutive-ones) | Max Consecutive Ones |
 
-🤖: The last update time was `2024-08-23 12:04:55`.
+🤖: The last update time was `2024-08-30 12:05:15`.
 
 <br/>
 

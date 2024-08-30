@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | Largest Rectangle in Histogram |
+| [485](https://leetcode-cn.com/problems/max-consecutive-ones) | Max Consecutive Ones |
 
-🤖：最近一次更新时间为 `2024-08-23 20:04:55`。
+🤖：最近一次更新时间为 `2024-08-30 20:05:15`。
 
 <br/>
 
