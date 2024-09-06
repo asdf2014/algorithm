@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [485](https://leetcode.com/problems/max-consecutive-ones) | Max Consecutive Ones |
+| [1072](https://leetcode.com/problems/next-greater-node-in-linked-list) | Next Greater Node In Linked List |
 
-🤖: The last update time was `2024-08-30 12:05:15`.
+🤖: The last update time was `2024-09-06 12:05:08`.
 
 <br/>
 
