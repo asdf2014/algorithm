@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1072](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) | Next Greater Node In Linked List |
+| [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | Flatten Binary Tree to Linked List |
 
-🤖：最近一次更新时间为 `2024-09-06 20:05:08`。
+🤖：最近一次更新时间为 `2024-09-13 20:05:04`。
 
 <br/>
 
