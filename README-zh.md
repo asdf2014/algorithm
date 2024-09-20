@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | Flatten Binary Tree to Linked List |
+| [227](https://leetcode-cn.com/problems/basic-calculator-ii) | Basic Calculator II |
 
-🤖：最近一次更新时间为 `2024-09-13 20:05:04`。
+🤖：最近一次更新时间为 `2024-09-20 20:05:08`。
 
 <br/>
 
