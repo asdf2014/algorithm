@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2497](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Maximum Matching of Players With Trainers |
+| [2251](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) | Number of Ways to Divide a Long Corridor |
 
-🤖: The last update time was `2024-09-27 12:05:22`.
+🤖: The last update time was `2024-10-04 12:05:38`.
 
 <br/>
 

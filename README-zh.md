@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2497](https://leetcode-cn.com/problems/maximum-matching-of-players-with-trainers) | Maximum Matching of Players With Trainers |
+| [2251](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor) | Number of Ways to Divide a Long Corridor |
 
-🤖：最近一次更新时间为 `2024-09-27 20:05:22`。
+🤖：最近一次更新时间为 `2024-10-04 20:05:38`。
 
 <br/>
 
