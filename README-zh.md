@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2251](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor) | Number of Ways to Divide a Long Corridor |
+| [2301](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k) | Count Array Pairs Divisible by K |
 
-🤖：最近一次更新时间为 `2024-10-04 20:05:38`。
+🤖：最近一次更新时间为 `2024-10-11 20:05:18`。
 
 <br/>
 
