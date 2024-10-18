@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2301](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k) | Count Array Pairs Divisible by K |
+| [1615](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums) | Range Sum of Sorted Subarray Sums |
 
-🤖：最近一次更新时间为 `2024-10-11 20:05:18`。
+🤖：最近一次更新时间为 `2024-10-18 20:05:34`。
 
 <br/>
 
