@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1615](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums) | Range Sum of Sorted Subarray Sums |
+| [1764](https://leetcode-cn.com/problems/maximum-repeating-substring) | Maximum Repeating Substring |
 
-🤖：最近一次更新时间为 `2024-10-18 20:05:34`。
+🤖：最近一次更新时间为 `2024-10-25 20:05:40`。
 
 <br/>
 

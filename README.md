@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1615](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Range Sum of Sorted Subarray Sums |
+| [1764](https://leetcode.com/problems/maximum-repeating-substring) | Maximum Repeating Substring |
 
-🤖: The last update time was `2024-10-18 12:05:34`.
+🤖: The last update time was `2024-10-25 12:05:40`.
 
 <br/>
 
