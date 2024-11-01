@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1764](https://leetcode-cn.com/problems/maximum-repeating-substring) | Maximum Repeating Substring |
+| [3388](https://leetcode-cn.com/problems/right-triangles) | Right Triangles |
 
-🤖：最近一次更新时间为 `2024-10-25 20:05:40`。
+🤖：最近一次更新时间为 `2024-11-01 20:05:36`。
 
 <br/>
 

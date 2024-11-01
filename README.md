@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1764](https://leetcode.com/problems/maximum-repeating-substring) | Maximum Repeating Substring |
+| [3388](https://leetcode.com/problems/right-triangles) | Right Triangles |
 
-🤖: The last update time was `2024-10-25 12:05:40`.
+🤖: The last update time was `2024-11-01 12:05:36`.
 
 <br/>
 
