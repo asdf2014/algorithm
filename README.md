@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3388](https://leetcode.com/problems/right-triangles) | Right Triangles |
+| [1550](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | Find the Kth Smallest Sum of a Matrix With Sorted Rows |
 
-🤖: The last update time was `2024-11-01 12:05:36`.
+🤖: The last update time was `2024-11-08 12:05:29`.
 
 <br/>
 
