@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1550](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | Find the Kth Smallest Sum of a Matrix With Sorted Rows |
+| [2728](https://leetcode-cn.com/problems/sum-in-a-matrix) | Sum in a Matrix |
 
-🤖：最近一次更新时间为 `2024-11-08 20:05:29`。
+🤖：最近一次更新时间为 `2024-11-15 20:05:40`。
 
 <br/>
 
