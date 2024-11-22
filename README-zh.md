@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2728](https://leetcode-cn.com/problems/sum-in-a-matrix) | Sum in a Matrix |
+| [1093](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | Recover a Tree From Preorder Traversal |
 
-🤖：最近一次更新时间为 `2024-11-15 20:05:40`。
+🤖：最近一次更新时间为 `2024-11-22 20:06:09`。
 
 <br/>
 
