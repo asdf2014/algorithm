@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2015](https://leetcode-cn.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | Determine Whether Matrix Can Be Obtained By Rotation |
+| [1670](https://leetcode-cn.com/problems/patients-with-a-condition) | Patients With a Condition |
 
-🤖：最近一次更新时间为 `2024-11-29 20:05:47`。
+🤖：最近一次更新时间为 `2024-12-06 20:30:52`。
 
 <br/>
 
