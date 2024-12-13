@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1670](https://leetcode.com/problems/patients-with-a-condition) | Patients With a Condition |
+| [1208](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Maximum Nesting Depth of Two Valid Parentheses Strings |
 
-🤖: The last update time was `2024-12-06 12:30:52`.
+🤖: The last update time was `2024-12-13 12:06:06`.
 
 <br/>
 
