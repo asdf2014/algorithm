@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1208](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Maximum Nesting Depth of Two Valid Parentheses Strings |
+| [1238](https://leetcode-cn.com/problems/alphabet-board-path) | Alphabet Board Path |
 
-🤖：最近一次更新时间为 `2024-12-13 20:06:06`。
+🤖：最近一次更新时间为 `2024-12-20 20:05:33`。
 
 <br/>
 
