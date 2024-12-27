@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1238](https://leetcode-cn.com/problems/alphabet-board-path) | Alphabet Board Path |
+| [3080](https://leetcode-cn.com/problems/split-array-into-maximum-number-of-subarrays) | Split Array Into Maximum Number of Subarrays |
 
-🤖：最近一次更新时间为 `2024-12-20 20:05:33`。
+🤖：最近一次更新时间为 `2024-12-27 20:05:31`。
 
 <br/>
 
