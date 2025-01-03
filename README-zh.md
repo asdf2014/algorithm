@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3080](https://leetcode-cn.com/problems/split-array-into-maximum-number-of-subarrays) | Split Array Into Maximum Number of Subarrays |
+| [2801](https://leetcode-cn.com/problems/difference-of-number-of-distinct-values-on-diagonals) | Difference of Number of Distinct Values on Diagonals |
 
-🤖：最近一次更新时间为 `2024-12-27 20:05:31`。
+🤖：最近一次更新时间为 `2025-01-03 20:05:44`。
 
 <br/>
 
