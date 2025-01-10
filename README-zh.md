@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2801](https://leetcode-cn.com/problems/difference-of-number-of-distinct-values-on-diagonals) | Difference of Number of Distinct Values on Diagonals |
+| [257](https://leetcode-cn.com/problems/binary-tree-paths) | Binary Tree Paths |
 
-🤖：最近一次更新时间为 `2025-01-03 20:05:44`。
+🤖：最近一次更新时间为 `2025-01-10 20:29:07`。
 
 <br/>
 

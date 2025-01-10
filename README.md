@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2801](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals) | Difference of Number of Distinct Values on Diagonals |
+| [257](https://leetcode.com/problems/binary-tree-paths) | Binary Tree Paths |
 
-🤖: The last update time was `2025-01-03 12:05:44`.
+🤖: The last update time was `2025-01-10 12:29:07`.
 
 <br/>
 
