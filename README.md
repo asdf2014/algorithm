@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [899](https://leetcode.com/problems/binary-gap) | Binary Gap |
+| [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal |
 
-🤖: The last update time was `2025-01-17 12:05:37`.
+🤖: The last update time was `2025-01-24 12:05:36`.
 
 <br/>
 

@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [899](https://leetcode-cn.com/problems/binary-gap) | Binary Gap |
+| [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal |
 
-🤖：最近一次更新时间为 `2025-01-17 20:05:37`。
+🤖：最近一次更新时间为 `2025-01-24 20:05:36`。
 
 <br/>
 
