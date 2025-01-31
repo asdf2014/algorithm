@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal |
+| [1622](https://leetcode.com/problems/max-value-of-equation) | Max Value of Equation |
 
-🤖: The last update time was `2025-01-24 12:05:36`.
+🤖: The last update time was `2025-01-31 12:05:26`.
 
 <br/>
 
