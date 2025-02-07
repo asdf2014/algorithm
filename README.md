@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1622](https://leetcode.com/problems/max-value-of-equation) | Max Value of Equation |
+| [3625](https://leetcode.com/problems/stone-removal-game) | Stone Removal Game |
 
-🤖: The last update time was `2025-01-31 12:05:26`.
+🤖: The last update time was `2025-02-07 12:05:32`.
 
 <br/>
 
