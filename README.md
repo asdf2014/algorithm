@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3625](https://leetcode.com/problems/stone-removal-game) | Stone Removal Game |
+| [1915](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Check if One String Swap Can Make Strings Equal |
 
-🤖: The last update time was `2025-02-07 12:05:32`.
+🤖: The last update time was `2025-02-14 12:05:30`.
 
 <br/>
 
