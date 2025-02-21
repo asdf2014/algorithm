@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1915](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Check if One String Swap Can Make Strings Equal |
+| [2867](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays) | Ways to Split Array Into Good Subarrays |
 
-🤖: The last update time was `2025-02-14 12:05:30`.
+🤖: The last update time was `2025-02-21 12:05:39`.
 
 <br/>
 

@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1915](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal) | Check if One String Swap Can Make Strings Equal |
+| [2867](https://leetcode-cn.com/problems/ways-to-split-array-into-good-subarrays) | Ways to Split Array Into Good Subarrays |
 
-🤖：最近一次更新时间为 `2025-02-14 20:05:30`。
+🤖：最近一次更新时间为 `2025-02-21 20:05:39`。
 
 <br/>
 
