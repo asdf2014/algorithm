@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2867](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays) | Ways to Split Array Into Good Subarrays |
+| [1890](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) | Sum of Beauty of All Substrings |
 
-🤖: The last update time was `2025-02-21 12:05:39`.
+🤖: The last update time was `2025-02-28 12:05:52`.
 
 <br/>
 

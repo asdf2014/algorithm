@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2867](https://leetcode-cn.com/problems/ways-to-split-array-into-good-subarrays) | Ways to Split Array Into Good Subarrays |
+| [1890](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings) | Sum of Beauty of All Substrings |
 
-🤖：最近一次更新时间为 `2025-02-21 20:05:39`。
+🤖：最近一次更新时间为 `2025-02-28 20:05:52`。
 
 <br/>
 
