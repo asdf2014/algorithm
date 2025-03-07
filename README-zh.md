@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1890](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings) | Sum of Beauty of All Substrings |
+| [3690](https://leetcode-cn.com/problems/smallest-substring-with-identical-characters-i) | Smallest Substring With Identical Characters I |
 
-🤖：最近一次更新时间为 `2025-02-28 20:05:52`。
+🤖：最近一次更新时间为 `2025-03-07 20:05:41`。
 
 <br/>
 

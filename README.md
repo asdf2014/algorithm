@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1890](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) | Sum of Beauty of All Substrings |
+| [3690](https://leetcode.com/problems/smallest-substring-with-identical-characters-i) | Smallest Substring With Identical Characters I |
 
-🤖: The last update time was `2025-02-28 12:05:52`.
+🤖: The last update time was `2025-03-07 12:05:41`.
 
 <br/>
 
