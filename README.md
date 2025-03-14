@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3690](https://leetcode.com/problems/smallest-substring-with-identical-characters-i) | Smallest Substring With Identical Characters I |
+| [3076](https://leetcode.com/problems/get-the-size-of-a-dataframe) | Get the Size of a DataFrame |
 
-🤖: The last update time was `2025-03-07 12:05:41`.
+🤖: The last update time was `2025-03-14 12:06:06`.
 
 <br/>
 
