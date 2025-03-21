@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3076](https://leetcode.com/problems/get-the-size-of-a-dataframe) | Get the Size of a DataFrame |
+| [2199](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | Two Furthest Houses With Different Colors |
 
-🤖: The last update time was `2025-03-14 12:06:06`.
+🤖: The last update time was `2025-03-21 12:05:43`.
 
 <br/>
 
