@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2199](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | Two Furthest Houses With Different Colors |
+| [3326](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network) | Count Pairs of Connectable Servers in a Weighted Tree Network |
 
-🤖: The last update time was `2025-03-21 12:05:43`.
+🤖: The last update time was `2025-03-28 12:06:16`.
 
 <br/>
 
