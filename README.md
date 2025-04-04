@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3326](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network) | Count Pairs of Connectable Servers in a Weighted Tree Network |
+| [2655](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Rearrange Array to Maximize Prefix Score |
 
-🤖: The last update time was `2025-03-28 12:06:16`.
+🤖: The last update time was `2025-04-04 12:05:50`.
 
 <br/>
 

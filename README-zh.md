@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3326](https://leetcode-cn.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network) | Count Pairs of Connectable Servers in a Weighted Tree Network |
+| [2655](https://leetcode-cn.com/problems/rearrange-array-to-maximize-prefix-score) | Rearrange Array to Maximize Prefix Score |
 
-🤖：最近一次更新时间为 `2025-03-28 20:06:16`。
+🤖：最近一次更新时间为 `2025-04-04 20:05:50`。
 
 <br/>
 
