@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2655](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Rearrange Array to Maximize Prefix Score |
+| [1628](https://leetcode.com/problems/count-submatrices-with-all-ones) | Count Submatrices With All Ones |
 
-🤖: The last update time was `2025-04-04 12:05:50`.
+🤖: The last update time was `2025-04-11 12:06:21`.
 
 <br/>
 
