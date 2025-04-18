@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1628](https://leetcode.com/problems/count-submatrices-with-all-ones) | Count Submatrices With All Ones |
+| [1452](https://leetcode.com/problems/restaurant-growth) | Restaurant Growth |
 
-🤖: The last update time was `2025-04-11 12:06:21`.
+🤖: The last update time was `2025-04-18 12:06:05`.
 
 <br/>
 

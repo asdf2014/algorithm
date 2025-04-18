@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1628](https://leetcode-cn.com/problems/count-submatrices-with-all-ones) | Count Submatrices With All Ones |
+| [1452](https://leetcode-cn.com/problems/restaurant-growth) | Restaurant Growth |
 
-🤖：最近一次更新时间为 `2025-04-11 20:06:21`。
+🤖：最近一次更新时间为 `2025-04-18 20:06:05`。
 
 <br/>
 
