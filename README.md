@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1452](https://leetcode.com/problems/restaurant-growth) | Restaurant Growth |
+| [2488](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups) | Divide Intervals Into Minimum Number of Groups |
 
-🤖: The last update time was `2025-04-18 12:06:05`.
+🤖: The last update time was `2025-04-25 12:06:17`.
 
 <br/>
 
