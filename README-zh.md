@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1433](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings) | Encrypt and Decrypt Strings |
+| [2187](https://leetcode-cn.com/problems/vowels-of-all-substrings) | Vowels of All Substrings |
 
-🤖：最近一次更新时间为 `2025-05-02 20:06:07`。
+🤖：最近一次更新时间为 `2025-05-09 20:06:20`。
 
 <br/>
 

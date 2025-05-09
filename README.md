@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1433](https://leetcode.com/problems/encrypt-and-decrypt-strings) | Encrypt and Decrypt Strings |
+| [2187](https://leetcode.com/problems/vowels-of-all-substrings) | Vowels of All Substrings |
 
-🤖: The last update time was `2025-05-02 12:06:07`.
+🤖: The last update time was `2025-05-09 12:06:20`.
 
 <br/>
 
