@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2187](https://leetcode.com/problems/vowels-of-all-substrings) | Vowels of All Substrings |
+| [3267](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Find Longest Special Substring That Occurs Thrice I |
 
-🤖: The last update time was `2025-05-09 12:06:20`.
+🤖: The last update time was `2025-05-16 12:06:56`.
 
 <br/>
 
