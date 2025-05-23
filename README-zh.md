@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3267](https://leetcode-cn.com/problems/find-longest-special-substring-that-occurs-thrice-i) | Find Longest Special Substring That Occurs Thrice I |
+| [2705](https://leetcode-cn.com/problems/minimum-impossible-or) | Minimum Impossible OR |
 
-🤖：最近一次更新时间为 `2025-05-16 20:06:56`。
+🤖：最近一次更新时间为 `2025-05-23 20:06:29`。
 
 <br/>
 
