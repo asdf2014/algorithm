@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2705](https://leetcode-cn.com/problems/minimum-impossible-or) | Minimum Impossible OR |
+| [2104](https://leetcode-cn.com/problems/operations-on-tree) | Operations on Tree |
 
-🤖：最近一次更新时间为 `2025-05-23 20:06:29`。
+🤖：最近一次更新时间为 `2025-05-30 20:06:45`。
 
 <br/>
 

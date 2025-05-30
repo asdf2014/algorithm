@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2705](https://leetcode.com/problems/minimum-impossible-or) | Minimum Impossible OR |
+| [2104](https://leetcode.com/problems/operations-on-tree) | Operations on Tree |
 
-🤖: The last update time was `2025-05-23 12:06:29`.
+🤖: The last update time was `2025-05-30 12:06:45`.
 
 <br/>
 
