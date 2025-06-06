@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2104](https://leetcode-cn.com/problems/operations-on-tree) | Operations on Tree |
+| [1832](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence) | Minimum Operations to Make a Subsequence |
 
-🤖：最近一次更新时间为 `2025-05-30 20:06:45`。
+🤖：最近一次更新时间为 `2025-06-06 20:06:36`。
 
 <br/>
 
