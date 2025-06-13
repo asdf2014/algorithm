@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1832](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence) | Minimum Operations to Make a Subsequence |
+| [2472](https://leetcode.com/problems/build-a-matrix-with-conditions) | Build a Matrix With Conditions |
 
-🤖: The last update time was `2025-06-06 12:06:36`.
+🤖: The last update time was `2025-06-13 12:06:31`.
 
 <br/>
 

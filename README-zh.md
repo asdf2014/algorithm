@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1832](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence) | Minimum Operations to Make a Subsequence |
+| [2472](https://leetcode-cn.com/problems/build-a-matrix-with-conditions) | Build a Matrix With Conditions |
 
-🤖：最近一次更新时间为 `2025-06-06 20:06:36`。
+🤖：最近一次更新时间为 `2025-06-13 20:06:31`。
 
 <br/>
 
