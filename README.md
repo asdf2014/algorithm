@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2472](https://leetcode.com/problems/build-a-matrix-with-conditions) | Build a Matrix With Conditions |
+| [2634](https://leetcode.com/problems/minimum-common-value) | Minimum Common Value |
 
-🤖: The last update time was `2025-06-13 12:06:31`.
+🤖: The last update time was `2025-06-20 12:06:31`.
 
 <br/>
 

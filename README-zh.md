@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2472](https://leetcode-cn.com/problems/build-a-matrix-with-conditions) | Build a Matrix With Conditions |
+| [2634](https://leetcode-cn.com/problems/minimum-common-value) | Minimum Common Value |
 
-🤖：最近一次更新时间为 `2025-06-13 20:06:31`。
+🤖：最近一次更新时间为 `2025-06-20 20:06:31`。
 
 <br/>
 
