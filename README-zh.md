@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2634](https://leetcode-cn.com/problems/minimum-common-value) | Minimum Common Value |
+| [2033](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played) | The Number of Full Rounds You Have Played |
 
-🤖：最近一次更新时间为 `2025-06-20 20:06:31`。
+🤖：最近一次更新时间为 `2025-06-27 20:06:34`。
 
 <br/>
 

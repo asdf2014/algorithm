@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2634](https://leetcode.com/problems/minimum-common-value) | Minimum Common Value |
+| [2033](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) | The Number of Full Rounds You Have Played |
 
-🤖: The last update time was `2025-06-20 12:06:31`.
+🤖: The last update time was `2025-06-27 12:06:34`.
 
 <br/>
 
