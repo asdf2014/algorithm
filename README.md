@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2033](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) | The Number of Full Rounds You Have Played |
+| [647](https://leetcode.com/problems/palindromic-substrings) | Palindromic Substrings |
 
-🤖: The last update time was `2025-06-27 12:06:34`.
+🤖: The last update time was `2025-07-04 12:06:45`.
 
 <br/>
 

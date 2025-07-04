@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [2033](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played) | The Number of Full Rounds You Have Played |
+| [647](https://leetcode-cn.com/problems/palindromic-substrings) | Palindromic Substrings |
 
-🤖：最近一次更新时间为 `2025-06-27 20:06:34`。
+🤖：最近一次更新时间为 `2025-07-04 20:06:45`。
 
 <br/>
 
