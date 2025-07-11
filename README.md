@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [647](https://leetcode.com/problems/palindromic-substrings) | Palindromic Substrings |
+| [3349](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | Maximum Length Substring With Two Occurrences |
 
-🤖: The last update time was `2025-07-04 12:06:45`.
+🤖: The last update time was `2025-07-11 12:34:56`.
 
 <br/>
 

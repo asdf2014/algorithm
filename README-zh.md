@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [647](https://leetcode-cn.com/problems/palindromic-substrings) | Palindromic Substrings |
+| [3349](https://leetcode-cn.com/problems/maximum-length-substring-with-two-occurrences) | Maximum Length Substring With Two Occurrences |
 
-🤖：最近一次更新时间为 `2025-07-04 20:06:45`。
+🤖：最近一次更新时间为 `2025-07-11 20:34:56`。
 
 <br/>
 
