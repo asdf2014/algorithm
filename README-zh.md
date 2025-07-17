@@ -86,12 +86,12 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 | :--: | :----------------: |
 | **[shengyaqingfeng](https://github.com/asdf2014/algorithm/tree/master/Codes/shengyaqingfeng)** | 2023-08-28 00:05:35 |
 | **[asdf2014](https://github.com/asdf2014/algorithm/tree/master/Codes/asdf2014)** | 2023-08-13 20:12:58 |
-| **[gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392)** | 2023-02-20 00:23:14 |
-| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2023-02-20 00:23:14 |
+| **[GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan)** | 2023-02-20 00:23:14 |
 | [gracekoo](https://github.com/asdf2014/algorithm/tree/master/Codes/gracekoo) | 2023-02-20 00:23:14 |
-| [GinRyan](https://github.com/asdf2014/algorithm/tree/master/Codes/GinRyan) | 2023-02-20 00:23:14 |
-| [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 2023-02-20 00:23:14 |
+| [P_fzr](https://github.com/asdf2014/algorithm/tree/master/Codes/P_fzr) | 2023-02-20 00:23:14 |
 | [fengxuanmo](https://github.com/asdf2014/algorithm/tree/master/Codes/fengxuanmo) | 2023-02-20 00:23:14 |
+| [mrright2019](https://github.com/asdf2014/algorithm/tree/master/Codes/mrright2019) | 2023-02-20 00:23:14 |
+| [gmywq392](https://github.com/asdf2014/algorithm/tree/master/Codes/gmywq392) | 2023-02-20 00:23:14 |
 | [purebaba](https://github.com/asdf2014/algorithm/tree/master/Codes/purebaba) | 2022-08-30 17:21:56 |
 | [yore](https://github.com/asdf2014/algorithm/tree/master/Codes/yore) | 2022-07-20 10:31:02 |
 

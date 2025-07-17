@@ -69,5 +69,8 @@ flush_readme(
     False,
 )
 flush_readme(
-    "README-zh.md", "https://leetcode-cn.com/problems/", "🤖：最近一次更新时间为 `%s`。\n", True
+    "README-zh.md",
+    "https://leetcode-cn.com/problems/",
+    "🤖：最近一次更新时间为 `%s`。\n",
+    True,
 )

@@ -6,7 +6,9 @@ class Solution:
         res = []
         if len("".join(words)) > len(s):
             return res
-        if words == ["ab", "ba"] * 100:  # 这里确实有点力不从心....面对这么长的串....取巧了
+        if (
+            words == ["ab", "ba"] * 100
+        ):  # 这里确实有点力不从心....面对这么长的串....取巧了
             return []
         if s and words and "".join(words) == s:
             return [0]

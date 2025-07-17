@@ -26,8 +26,12 @@ class Solution:
                         word_list[0] + " " * (maxWidth - current_chars_number)
                     )
                 else:
-                    blank_space_number = maxWidth - current_chars_number  # 当前的空格数量
-                    if blank_space_number % (current_words_number - 1) == 0:  # 空格可以平均分配
+                    blank_space_number = (
+                        maxWidth - current_chars_number
+                    )  # 当前的空格数量
+                    if (
+                        blank_space_number % (current_words_number - 1) == 0
+                    ):  # 空格可以平均分配
                         result.append(
                             (
                                 " " * (blank_space_number // (current_words_number - 1))

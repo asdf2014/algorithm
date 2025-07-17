@@ -12,7 +12,9 @@ class Solution:
                 output_list.append(num)
                 return
             for i in range(len(nums)):
-                if i > 0 and nums[i] == nums[i - 1]:  # 每当进入新的构成，先考虑该构成的首字符是否和上一个一样。
+                if (
+                    i > 0 and nums[i] == nums[i - 1]
+                ):  # 每当进入新的构成，先考虑该构成的首字符是否和上一个一样。
                     continue
                 backtrack(nums[:i] + nums[i + 1 :], num + [nums[i]])
 

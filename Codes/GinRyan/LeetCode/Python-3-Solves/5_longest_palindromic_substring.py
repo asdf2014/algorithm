@@ -13,6 +13,7 @@
 输出: "bb"
 
 """
+
 """
 题解: 
 本题可以用一种中央扩散法, 最差情况O(N^2)
@@ -46,7 +47,11 @@ class Solution:
                 print("--可用最大邻域: " + str(naborspace + 1))
                 for n in range(naborspace + 1):
                     print(
-                        "--邻域内比对: 第" + str(n + 1) + "个邻域值，共" + str(naborspace + 1) + "个"
+                        "--邻域内比对: 第"
+                        + str(n + 1)
+                        + "个邻域值，共"
+                        + str(naborspace + 1)
+                        + "个"
                     )
                     if left >= 0 and right < total:
                         sLeft = s[left]

@@ -12,7 +12,9 @@ class MedianFinder:
         initialize your data structure here.
         """
         self.A = []  # 大顶堆，存放较小的元素
-        self.B = []  # 小顶堆，存放较大的元素，使得B的最小的元素也比A中最大的元素大，保证数据流保持有序
+        self.B = (
+            []
+        )  # 小顶堆，存放较大的元素，使得B的最小的元素也比A中最大的元素大，保证数据流保持有序
 
     def addNum(self, num: int) -> None:
         # 数据流长度为奇数时，需向A中插入元素：先向B中插入num，再将B的堆顶元素插入至A，保证B比A大
