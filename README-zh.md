@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3349](https://leetcode-cn.com/problems/maximum-length-substring-with-two-occurrences) | Maximum Length Substring With Two Occurrences |
+| [1337](https://leetcode-cn.com/problems/design-skiplist) | Design Skiplist |
 
-🤖：最近一次更新时间为 `2025-07-11 20:34:56`。
+🤖：最近一次更新时间为 `2025-07-18 20:36:34`。
 
 <br/>
 

@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [3349](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | Maximum Length Substring With Two Occurrences |
+| [1337](https://leetcode.com/problems/design-skiplist) | Design Skiplist |
 
-🤖: The last update time was `2025-07-11 12:34:56`.
+🤖: The last update time was `2025-07-18 12:36:34`.
 
 <br/>
 
