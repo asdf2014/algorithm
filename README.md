@@ -58,9 +58,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1337](https://leetcode.com/problems/design-skiplist) | Design Skiplist |
+| [1054](https://leetcode.com/problems/complement-of-base-10-integer) | Complement of Base 10 Integer |
 
-🤖: The last update time was `2025-07-18 12:36:34`.
+🤖: The last update time was `2025-07-25 12:07:11`.
 
 <br/>
 
