@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [1054](https://leetcode-cn.com/problems/complement-of-base-10-integer) | Complement of Base 10 Integer |
+| [679](https://leetcode-cn.com/problems/24-game) | 24 Game |
 
-🤖：最近一次更新时间为 `2025-07-25 20:07:11`。
+🤖：最近一次更新时间为 `2025-08-01 20:07:19`。
 
 <br/>
 
