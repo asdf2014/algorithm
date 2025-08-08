@@ -57,9 +57,9 @@ bash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/f
 
 | ID | Title |
 | :-: | :--: |
-| [679](https://leetcode-cn.com/problems/24-game) | 24 Game |
+| [2878](https://leetcode-cn.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero) | Apply Operations to Make All Array Elements Equal to Zero |
 
-🤖：最近一次更新时间为 `2025-08-01 20:07:19`。
+🤖：最近一次更新时间为 `2025-08-08 20:38:05`。
 
 <br/>
 
